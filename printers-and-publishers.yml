@@ -1,8 +1,9 @@
 editorial-tor:
   name: Editorial Tor
   type: publisher
-  location 1: -58.43062439999999,-34.6065302
-  location 2: -58.431854999999985,-34.6068083
+  location:
+    - -58.43062439999999,-34.6065302
+    - -58.431854999999985,-34.6068083
   images:
     -Tor-advertisement.jpg
     -Tor-responsabilidad-limitada.jpg
@@ -13,14 +14,16 @@ editorial-tor:
 editorial-tor-salón-de-exposiciones-y-ventas:
   name: Editorial Tor: Salón de exposiciones y ventas
   type: store front
-  location: -58.380773299999994,-34.6076913
+  location:
+    - -58.380773299999994,-34.6076913
   images:
 
 emecé-editores:
   name: Emecé Editores
   type: publisher
-  location 1: -58.395323899999994,-34.6117177
-  location 2: -58.373913200000004,-34.6030088
+  location:
+    - -58.395323899999994,-34.6117177
+    - -58.373913200000004,-34.6030088
   images:
     -Emecé-editores-dirección.jpg
     -Emecé-editores-description.jpg
@@ -28,23 +31,26 @@ emecé-editores:
 los-talleres-gráficos-el-colón:
   name: Los talleres gráficos el "Colón"
   type: printer:
-  location: -58.44458829999997,-34.6289292
+  location:
+    - -58.44458829999997,-34.6289292
   images:
     -Colombo-honorary-dinner.jpg
 
 manuel-gleizer:
   name: Manuel Gleizer
   type: publisher
-  location 1: -58.48425780000002,-34.5755365
-  location 2: -58.41141679999999,-34.5859937
-  location 3: -58.3958606,-34.59579
+  location:
+    - -58.48425780000002,-34.5755365
+    - -58.41141679999999,-34.5859937
+    - -58.3958606,-34.59579
   images:
 
 imprenta-lópez:
   name: Imprenta López
   type: printer
-  location 1: -58.3745515,-34.6156579
-  location 2: -58.3745212,-34.6156325
+  location:
+    - -58.3745515,-34.6156579
+    - -58.3745212,-34.6156325
   images:
     -Imprenta-lópez-shop.jpg
     -Imprenta-lópez-prize.jpg
@@ -57,15 +63,17 @@ imprenta-lópez:
 los-talleres-gráficos-j.-hays-bells:
   name: Los talleres gráficos J. Hays Bells
   type: printer
-  location: -58.38251200000002,-34.6032326
+  location:
+    - -58.38251200000002,-34.6032326
   images:
 
 editorial-sudamericana:
   name: Editorial Sudamericana
   type: publisher
-  location 1: -58.373696499999994,-34.6207096
-  location 2: -58.37352099999999,-34.6102964
-  location 3: -58.38392750000003,-34.6144447
+  location:
+    - -58.373696499999994,-34.6207096
+    - -58.37352099999999,-34.6102964
+    - -58.38392750000003,-34.6144447
   images:
     -Editorial-sudamericana-catálogo.jpg
     -Editorial-sudamericana-shop.jpg
@@ -73,9 +81,10 @@ editorial-sudamericana:
 editorial-losada:
   name: Editorial Losada
   type: publisher
-  location 1: -58.38870250000003,-34.6041913
-  location 2: -58.38235680000003,-34.6108857
-  location 3: -58.37907899999999,-34.6139104
+  location:
+    - -58.38870250000003,-34.6041913
+    - -58.38235680000003,-34.6108857
+    - -58.37907899999999,-34.6139104
   images:
     -Editorial-losdada-directorio.jpg
     -Editorial-losada-formación.jpg
@@ -86,41 +95,48 @@ editorial-losada:
 macagno-landa-y-cía:
   name: Macagno, Landa y Cía
   type: publisher
-  location: -58.439775499999996,-34.601597
+  location:
+    - -58.439775499999996,-34.601597
   images:
     -Macagno-landa-y-cía-ad.jpg
 
 editorial-sur:
   name: Editorial Sur
   type: publisher
-  location 1: -58.37741490000002,-34.61742
-  location 2: -58.374728,-34.5998378
-  location 3: -58.37416359999998,-34.5999214
+  location:
+    - -58.37741490000002,-34.61742
+    - -58.374728,-34.5998378
+    - -58.37416359999998,-34.5999214
   images:
     -Ocampo-exhibición.jpg
 
 américalee-editora-e-impresora:
   name: Américalee, Editora e Impresora
   type: publisher & printer
-  location: -58.372112699999995,-34.6008154
+  location:
+    - -58.372112699999995,-34.6008154
   images:
 
 la-imprenta-j.-hays-bells:
   name: La imprenta J. Hays Bells
   type: printer
-  location: -58.355398400000006,-34.6328689
+  location:
+    - -58.355398400000006,-34.6328689
   images:
 
 imprenta-iglesias-y-matera:
   name: Imprenta Iglesias y Matera
   type: printer
-  location: -58.384566199999995,-34.6038337 ; -58.39007110000001,-34.603012
+  location:
+    - -58.384566199999995,-34.6038337
+    - -58.39007110000001,-34.603012
   images:
 
 domingo-viau-y-zona:
   name: Domingo Viau y Zona
   type: publisher
-  location: -58.37538269999999,-34.6018597
+  location:
+    - -58.37538269999999,-34.6018597
   images:
     -Viau-shop.jpg
     -viau-advertisement.jpg
@@ -131,17 +147,20 @@ domingo-viau-y-zona:
 editorial-a.-kapelusz-y-cía:
   name: Editorial Kapelusz y Cía
   type: publisher
-  location: -58.37776889999998,-34.6097316
+  location:
+    - -58.37776889999998,-34.6097316
   images:
 
 talleres-gráficos-linari-y-cía:
   name: Talleres gráficos Linari y Cía
   type: printer:
-  location: -58.384394999999984,-34.607451
+  location:
+    - -58.384394999999984,-34.607451
   images:
 
 editorial-nova:
   name: Editorial Nova
   type: publisher
-  location: -58.37472500000001,-34.615195
+  location:
+    - -58.37472500000001,-34.615195
   images:
