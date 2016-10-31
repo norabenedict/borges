@@ -90,7 +90,7 @@
 },{
   "type": "Feature",
   "geometry": {
-    "type": "MultiPoint",
+    "type": "Point",
     "coordinates": [[-58.439775499999996,-34.601597]],
   },
   "properties": {
