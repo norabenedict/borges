@@ -7,7 +7,6 @@
   },
   "properties": {
     "name": "Editorial Tor"
-    "popupContent": "Tor-advertisement.jpg", "Tor-address.jpg"
   }
 },{
   "type": "Feature",
@@ -16,8 +15,7 @@
     "coordinates": [-58.380773299999994,-34.6076913]
   },
   "properties": {
-    "name": Editorial Tor: Salón de exposiciones y ventas
-    "popupContent":
+    "name": "Editorial Tor: Salón de exposiciones y ventas"
   }
 },{
   "type": "Feature",
@@ -27,7 +25,6 @@
   },
   "properties": {
     "name": Emecé Editores
-    "popupContent": "Emecé-editores-dirección.jpg", "Emecé-editores-description.jpg"
   }
 },{
   "type": "Feature",
@@ -37,7 +34,6 @@
   },
   "properties": {
     "name": Los talleres gráficos "Colón"
-    "popupContent": "Colombo-honorary-dinner.jpg"
   }
 },{
   "type": "Feature",
@@ -47,7 +43,6 @@
   },
   "properties": {
     "name": Manuel Gleizer
-    "popupContent":
   }
 },{
   "type": "Feature"
@@ -57,7 +52,6 @@
   },
   "properties": {
     "name": Imprenta López
-    "popupContent": "Imprenta-lópez-shop.jpg", "Imprenta-lópez-prize.jpg", "Imprenta-lópez-advertisement.jpg", "Imprenta-lópez-shop2.jpg", "Imprenta-lópez-banquete.jpg", "Imprenta-lópez-advertisement2.jpg", "Imprenta-lópez-colophon.jpg"
   }
 },{
   "type": "Feature"
@@ -67,7 +61,6 @@
   },
   "properties": {
     "name": Imprenta López
-    "popupContent": "Imprenta-lópez-shop.jpg", "Imprenta-lópez-prize.jpg", "Imprenta-lópez-advertisement.jpg", "Imprenta-lópez-shop2.jpg", "Imprenta-lópez-banquete.jpg", "Imprenta-lópez-advertisement2.jpg", "Imprenta-lópez-colophon.jpg"
   }
 },{
   "type": "Feature"
@@ -77,7 +70,6 @@
   },
   "properties": {
     "name": Los talleres gráficos J. Hays Bells
-    "popupContent":
   }
 },{
   "type": "Feature"
@@ -87,7 +79,6 @@
   },
   "properties": {
     "name": Editorial Sudamericana
-    "popupContent": "Editorial-sudamericana-shop.jpg"
   }
   }
   ]}
