@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+<script src="locations.js"></script>
+<style>
+#map {
+  height: 80vh;
+  border: 1px solid blue;
+}
+</style>
+
+<h1>Leaflet JS Map</h1>
+
+<div id="map"></div>
+
+<script>
+var mymap = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
+
+L.tileLayer('https://api.mapbox.com/styles/v1/jeremyboggs/ciovsm4rs0025bsnqoyrdqced/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiamVyZW15Ym9nZ3MiLCJhIjoiaUczWE5lRSJ9.xki0q39NnjVyT6bk6H9eCw', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18
+}).addTo(mymap);
+
+L.geoJSON(locations).addTo(mymap);
+</script>
