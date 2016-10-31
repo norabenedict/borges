@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+<div Argentina="mapid"></div>
+#mapid { height: 180px; }
+
+var mymap = L.map ('mapid').setView([-58.402479, -34.598381], 11);
+
+L. titleLayer ('https://api.mapbox.com/styles/v1/norabenedict/ciuyeoj9400962innpo8nw88i/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 15,
+    id: 'your.mapbox.project.id'
+    accessToken: 'your.mapbox.public.access.token'
+}) .addTo(mymap);
