@@ -3,6 +3,7 @@
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 <script src="locations.js"></script>
 <style>
+img{max-width: 100%; width: auto;}
 #map {
   height: 80vh;
   border: 1px solid blue;
@@ -14,6 +15,34 @@
 <div id="map"></div>
 
 <script>
+
+function onEachFeature(feature, layer) {
+  var popupContent = '';
+    if (feature.properties) {
+
+      if (feature.properties.name) {
+        popupContent += '<h2>' + feature.properties.name + '</h2>';
+      }
+
+      if (feature.properties.category) {
+        popupContent += '<p><strong>Category</strong>: ' + feature.properties.category + '</p>';
+      }
+
+      if (feature.properties.description) {
+        popupContent += '<p><strong>Description</strong>: ' + feature.properties.description + '</p>';
+      }
+
+      if (feature.properties.images) {
+        var imagestring = '';
+        feature.properties.images.forEach(function(image) {
+          imagestring += '<img src="images/'+image+'">';
+        });
+        popupContent += '<p><strong>Images</strong>: ' + imagestring + '</p>';
+      }
+      layer.bindPopup(popupContent);
+    }
+}
+
 var mymap = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45drad3w0/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
@@ -21,5 +50,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45dra
     maxZoom: 18
 }).addTo(mymap);
 
-L.geoJSON(locations).addTo(mymap);
+L.geoJSON(locations,{
+    onEachFeature: onEachFeature
+}).addTo(mymap);
 </script>
