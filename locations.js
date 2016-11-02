@@ -8,6 +8,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor"
+    L.marker.bindPopup("<b>Editorial Tor</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -17,6 +18,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor: Salón de exposiciones y ventas"
+    marker.bindPopup("<b>Editorial Tor: Salón de exposiciones y ventas</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -27,6 +29,7 @@ var locations = [
   "properties": {
     "name": "Emecé Editores",
     "category": "Publisher"
+    marker.bindPopup("<b>Emecé Editores</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -37,6 +40,7 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos \"Colón\"",
     "category": "Printer"
+    marker.bindPopup("<b>Los talleres gráficos \"Colón\"</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -47,6 +51,7 @@ var locations = [
   "properties": {
     "name": "Manuel Gleizer",
     "category": "Publisher"
+    marker.bindPopup("<b>Manuel Gleizer</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -57,6 +62,7 @@ var locations = [
   "properties": {
     "name": "Imprenta López",
     "category": "Printer"
+    marker.bindPopup("<b>Imprenta López</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -67,6 +73,7 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos J. Hays Bells",
     "category": "Printer"
+    marker.bindPopup("<b>Los tallered gráficos J. Hays Bells</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -77,6 +84,7 @@ var locations = [
   "properties": {
     "name": "Editorial Sudamericana",
     "category": "Publisher"
+    marker.bindPopup("<b>Editorial Sudamericana</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -86,7 +94,8 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Losada",
-    "category": "Publisher"
+    "category": "Publisher",
+    marker.bindPopup("<b>Editorial Losada</b>").openPopup();
   }
 },{
   "type": "Feature",
@@ -97,6 +106,7 @@ var locations = [
   "properties": {
     "name": "Macagno, Landa y Cía",
     "category": "Publisher"
+    marker.bindPopup("<b>Macagno, Landa y Cía</b>").openPopup();
     }
   }
 ];
