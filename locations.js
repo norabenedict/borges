@@ -8,6 +8,9 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor"
+    "category": Publisher
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -17,6 +20,9 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor: Salón de exposiciones y ventas"
+    "category": Publisher
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -27,6 +33,8 @@ var locations = [
   "properties": {
     "name": "Emecé Editores",
     "category": "Publisher"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -37,6 +45,8 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos \"Colón\"",
     "category": "Printer"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -47,6 +57,8 @@ var locations = [
   "properties": {
     "name": "Manuel Gleizer",
     "category": "Publisher"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -57,6 +69,8 @@ var locations = [
   "properties": {
     "name": "Imprenta López",
     "category": "Printer"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -67,6 +81,8 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos J. Hays Bells",
     "category": "Printer"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -77,6 +93,8 @@ var locations = [
   "properties": {
     "name": "Editorial Sudamericana",
     "category": "Publisher"
+    "description":
+    "images":
   }
 },{
   "type": "Feature",
@@ -99,6 +117,8 @@ var locations = [
   "properties": {
     "name": "Macagno, Landa y Cía",
     "category": "Publisher"
+    "description":
+    "images":
     }
   }
 ];
