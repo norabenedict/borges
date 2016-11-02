@@ -1,13 +1,28 @@
+<!DOCTYPE html>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-<div Argentina="mapid"></div>
-#mapid { height: 180px; }
+<div id="mapid"></div>
+<style>
+#mapid { height: 80vh; border: 1px solid green;}
+</style>
 
+<script>
 var mymap = L.map ('mapid').setView([-58.402479, -34.598381], 11);
 
-L. titleLayer ('https://api.mapbox.com/styles/v1/norabenedict/ciuyeoj9400962innpo8nw88i/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
+L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45drad3w0/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
   attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 15,
-    id: 'your.mapbox.project.id'
-    accessToken: 'your.mapbox.public.access.token'
-}) .addTo(mymap);
+    maxZoom: 15
+}).addTo(mymap);
+
+var marker = L.marker([-34.6065302,-58.43062439999999]).addTo(mymap);
+
+marker.bindPopup("<b>Editorial Tor</b>").openPopup();
+
+var marker = L.marker([-34.6076913,-58.380773299999994]).addTo(mymap);
+
+marker.bindPopup("<b>Editorial Tor: Salón de exposiciones y ventas</b>").openPopup();
+
+var marker = L.marker([-34.6289292,-58.44458829999997]).addTo(mymap);
+
+marker.bindPopup("<b>Los talleres gráficos 'Colón'</b>").openPopup();
+</script>
