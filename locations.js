@@ -7,9 +7,9 @@ var locations = [
 
   },
   "properties": {
-    "name": "Editorial Tor"
-    "category": Publisher
-    "description":
+    "name": "Editorial Tor",
+    "category": "Publisher",
+    "description": "",
     "images": ["Tor-advertisement2.jpg"]
 
   }
@@ -20,8 +20,8 @@ var locations = [
     "coordinates": [-58.380773299999994,-34.6076913]
   },
   "properties": {
-    "name": "Editorial Tor: Salón de exposiciones y ventas"
-    "category": Publisher
+    "name": "Editorial Tor: Salón de exposiciones y ventas",
+    "category": "Publisher"
 
   }
 },{
@@ -32,8 +32,8 @@ var locations = [
   },
   "properties": {
     "name": "Emecé Editores",
-    "category": "Publisher"
-    "description":
+    "category": "Publisher",
+    "description": "",
     "images":["Emecé-editores-dirección.jpg"]
 
   }
@@ -45,8 +45,8 @@ var locations = [
   },
   "properties": {
     "name": "Los talleres gráficos \"Colón\"",
-    "category": "Printer"
-    "description":
+    "category": "Printer",
+    "description": "",
     "images": ["Colombo-honorary-dinner.jpg"]
 
   }
@@ -58,9 +58,9 @@ var locations = [
   },
   "properties": {
     "name": "Manuel Gleizer",
-    "category": "Publisher"
-    "description":
-    "images":
+    "category": "Publisher",
+    "description": "",
+    "images": []
 
   }
 },{
@@ -71,8 +71,8 @@ var locations = [
   },
   "properties": {
     "name": "Imprenta López",
-    "category": "Printer"
-    "description":
+    "category": "Printer",
+    "description": "",
     "images": ["Imprenta-lópez-shop2.jpg"]
   }
 },{
@@ -83,9 +83,9 @@ var locations = [
   },
   "properties": {
     "name": "Los talleres gráficos J. Hays Bells",
-    "category": "Printer"
-    "description":
-    "images":
+    "category": "Printer",
+    "description": "",
+    "images": []
   }
 },{
   "type": "Feature",
@@ -95,8 +95,8 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Sudamericana",
-    "category": "Publisher"
-    "description":
+    "category": "Publisher",
+    "description": "",
     "images": ["Editorial-sudamericana-shop.jpg"]
   }
 },{
@@ -119,9 +119,9 @@ var locations = [
   },
   "properties": {
     "name": "Macagno, Landa y Cía",
-    "category": "Publisher"
-    "description":
-    "images":
+    "category": "Publisher",
+    "description": "",
+    "images": []
     }
   }
 ];
