@@ -8,7 +8,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor",
-    "category": "Publisher",
+    "category": "Publisher & Printer / Editorial & Imprenta",
     "description": "",
     "images": ["Tor-advertisement2.jpg"]
 
@@ -21,7 +21,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Tor: Salón de exposiciones y ventas",
-    "category": "Publisher"
+    "category": "Publisher & Printer / Editorial & Imprenta"
 
   }
 },{
@@ -32,7 +32,7 @@ var locations = [
   },
   "properties": {
     "name": "Emecé Editores",
-    "category": "Publisher",
+    "category": "Publisher / Editorial",
     "description": "",
     "images":["Emecé-editores-dirección.jpg"]
 
@@ -45,7 +45,7 @@ var locations = [
   },
   "properties": {
     "name": "Los talleres gráficos \"Colón\"",
-    "category": "Printer",
+    "category": "Printer / Imprenta",
     "description": "",
     "images": ["Colombo-honorary-dinner.jpg"]
 
@@ -58,7 +58,7 @@ var locations = [
   },
   "properties": {
     "name": "Manuel Gleizer",
-    "category": "Publisher",
+    "category": "Publisher / Editorial",
     "description": "",
     "images": []
 
@@ -71,7 +71,7 @@ var locations = [
   },
   "properties": {
     "name": "Imprenta López",
-    "category": "Printer",
+    "category": "Printer / Imprenta",
     "description": "",
     "images": ["Imprenta-lópez-shop2.jpg"]
   }
@@ -83,7 +83,7 @@ var locations = [
   },
   "properties": {
     "name": "Los talleres gráficos J. Hays Bells",
-    "category": "Printer",
+    "category": "Printer / Imprenta",
     "description": "",
     "images": []
   }
@@ -95,7 +95,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Sudamericana",
-    "category": "Publisher",
+    "category": "Publisher / Editorial",
     "description": "",
     "images": ["Editorial-sudamericana-shop.jpg"]
   }
@@ -107,7 +107,7 @@ var locations = [
   },
   "properties": {
     "name": "Editorial Losada",
-    "category": "Publisher",
+    "category": "Publisher / Editorial",
     "description": "bananas",
     "images": ["Editorial-losada-shop.jpg"]
   }
@@ -119,9 +119,33 @@ var locations = [
   },
   "properties": {
     "name": "Macagno, Landa y Cía",
-    "category": "Publisher",
+    "category": "Publisher / Editorial",
     "description": "",
     "images": []
-    }
+}
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [[-58.37741490000002,-34.61742],[-58.374728,-34.5998378], [-58.37416359999998,-34.5999214]]
+  },
+  "properties": {
+    "name": "Editorial Sur",
+    "category": "Publisher / Editorial",
+    "description": "",
+    "images": ["Ocampo-exhibición.jpg"]
+  }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [[-58.372112699999995,-34.6008154]]
+  },
+  "properties": {
+    "name": "Américalee, Editora e Impresora",
+    "category": "Publisher & Printer / Editorial & Imprenta",
+    "description": "",
+    "images": [""]
+  }
   }
 ];
