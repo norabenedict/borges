@@ -10,7 +10,8 @@ var locations = [
     "name": "Editorial Tor"
     "category": Publisher
     "description":
-    "images":
+    "images": ["Tor-advertisement2.jpg"]
+
   }
 },{
   "type": "Feature",
@@ -21,8 +22,7 @@ var locations = [
   "properties": {
     "name": "Editorial Tor: Salón de exposiciones y ventas"
     "category": Publisher
-    "description":
-    "images":
+
   }
 },{
   "type": "Feature",
@@ -34,7 +34,8 @@ var locations = [
     "name": "Emecé Editores",
     "category": "Publisher"
     "description":
-    "images":
+    "images":["Emecé-editores-dirección.jpg"]
+
   }
 },{
   "type": "Feature",
@@ -46,7 +47,8 @@ var locations = [
     "name": "Los talleres gráficos \"Colón\"",
     "category": "Printer"
     "description":
-    "images":
+    "images": ["Colombo-honorary-dinner.jpg"]
+
   }
 },{
   "type": "Feature",
@@ -59,6 +61,7 @@ var locations = [
     "category": "Publisher"
     "description":
     "images":
+
   }
 },{
   "type": "Feature",
@@ -70,7 +73,7 @@ var locations = [
     "name": "Imprenta López",
     "category": "Printer"
     "description":
-    "images":
+    "images": ["Imprenta-lópez-shop2.jpg"]
   }
 },{
   "type": "Feature",
@@ -94,7 +97,7 @@ var locations = [
     "name": "Editorial Sudamericana",
     "category": "Publisher"
     "description":
-    "images":
+    "images": ["Editorial-sudamericana-shop.jpg"]
   }
 },{
   "type": "Feature",
