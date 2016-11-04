@@ -60,7 +60,7 @@ var locations = [
     "name": "Manuel Gleizer",
     "category": "Publisher / Editorial",
     "description": "",
-    "images": []
+    "images": [""]
 
   }
 },{
@@ -85,7 +85,7 @@ var locations = [
     "name": "Los talleres gráficos J. Hays Bells",
     "category": "Printer / Imprenta",
     "description": "",
-    "images": []
+    "images": [""]
   }
 },{
   "type": "Feature",
@@ -121,7 +121,7 @@ var locations = [
     "name": "Macagno, Landa y Cía",
     "category": "Publisher / Editorial",
     "description": "",
-    "images": []
+    "images": [""]
 }
 }, {
   "type": "Feature",
@@ -147,5 +147,65 @@ var locations = [
     "description": "",
     "images": [""]
   }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [[-58.3845661999999955,-34.6038337], [-58.39007110000001,-34.603012]]
+  },
+  "properties": {
+    "name": "Imprenta Iglesias y Matera",
+    "category": "Printer / Imprenta",
+    "description": "",
+    "images": [""]
   }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [[-58.37538269999999,-34.6018597]]
+  },
+  "properties": {
+    "name": "Domingo Viau y Zona",
+    "category": "Publisher / Editorial",
+    "description": "",
+    "images": ["Viau-shop.jpg"]
+  }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [[-58.37776889999998,-34.6097316]]
+  },
+  "properties": {
+    "name": "Editorial Kapelusz y Cía",
+    "category": "Publisher / Editorial",
+    "description": "",
+    "images": [""]
+  }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [[-58.384394999999984,-34.607451]]
+  },
+  "properties": {
+    "name": "Talleres gráficos Linari y Cía",
+    "category": "Printer / Imprenta",
+    "description": "",
+    "images": [""]
+  }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [[-58.37472500000001,-34.615195]]
+  },
+  "properties": {
+    "name": "Editorial Nova",
+    "category": "Publisher / Editorial",
+    "description": "",
+    "images": [""]
+  }
+}
 ];
