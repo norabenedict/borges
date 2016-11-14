@@ -3,20 +3,36 @@
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 <script src="locations.js"></script>
 <style>
+* {
+  box-sizing: border-box;
+}
+
 img{max-width: 100%; width: auto;}
 #map {
   height: 80vh;
+  width: 70%;
+    float: right;
   border: 1px solid blue;
 }
+
+#location-metadata {
+  height: 80vh;
+  width: 30%;
+    float: left;
+  overflow-y: scroll;
+  border: 1px solid magenta;
+
 </style>
 
 <h1>Leaflet JS Map</h1>
 
 <div id="map"></div>
+<div id="location-metadata"></div>
 
 <script>
 
 function onEachFeature(feature, layer) {
+  console.log(feature);
   var popupContent = '';
     if (feature.properties) {
 
@@ -24,20 +40,12 @@ function onEachFeature(feature, layer) {
         popupContent += '<h2>' + feature.properties.name + '</h2>';
       }
 
-      if (feature.properties.category) {
-        popupContent += '<p><strong>Category</strong>: ' + feature.properties.category + '</p>';
-      }
-
-      if (feature.properties.description) {
-        popupContent += '<p><strong>Description</strong>: ' + feature.properties.description + '</p>';
-      }
-
       if (feature.properties.images) {
-        var imagestring = '';
+
         feature.properties.images.forEach(function(image) {
-          imagestring += '<img src="images/'+image+'">';
+          popupContent += '<img src="images/'+image+'">';
         });
-        popupContent += '<p><strong>Images</strong>: ' + imagestring + '</p>';
+
       }
       layer.bindPopup(popupContent);
     }
@@ -52,5 +60,13 @@ L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45dra
 
 L.geoJSON(locations,{
     onEachFeature: onEachFeature
-}).addTo(mymap);
+}).addTo(mymap).on('click', function(e) {
+
+  var content = document.createTextNode('bunnies');
+
+  metadata_container = document.getElementById('location-metadata');
+  metadata_container.appendChild(content);
+
+  console.log(e);
+});
 </script>

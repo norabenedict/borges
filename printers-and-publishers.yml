@@ -103,6 +103,9 @@ macagno-landa-y-cía:
 editorial-sur:
   name: Editorial Sur
   type: publisher
+  affiliated-firms:
+    - los-talleres-gráficos-j.-hays-bells
+    - imprenta-lópez
   location:
     - -58.37741490000002,-34.61742
     - -58.374728,-34.5998378
