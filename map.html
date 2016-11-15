@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 <script src="locations.js"></script>
 <style>
 * {
   box-sizing: border-box;
 }
+html {
+  color: lightslategrey;
+  font-family: 'Shrikhand', cursive;}
 
 img{max-width: 100%; width: auto;}
 #map {
   height: 80vh;
   width: 70%;
     float: right;
-  border: 1px solid blue;
+  border: 1px solid cornflowerblue;
 }
 
 #location-metadata {
@@ -20,8 +24,8 @@ img{max-width: 100%; width: auto;}
   width: 30%;
     float: left;
   overflow-y: scroll;
-  border: 1px solid magenta;
-
+  border: 1px solid midnightblue;
+}
 </style>
 
 <h1>Leaflet JS Map</h1>
