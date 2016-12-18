@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  color: lightslategrey;
+  font-family: 'Libre Baskerville', serif;}
+
+img{max-width: 100%; width: auto;}
+
+#map {
+  height: 80vh;
+  width: 70%;
+    float: right;
+  border: 1px solid cornflowerblue;
+}
+
+#location-metadata {
+  height: 80vh;
+  width: 30%;
+    float: left;
+  overflow-y: scroll;
+  border: 1px solid midnightblue;
+}
