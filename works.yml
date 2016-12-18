@@ -13,7 +13,7 @@ la-metamorphosis:
     - images: "editorial-losada-formación.jpg"
 
 ficciones:
-  title: ficciones
+  title: Ficciones
   author: Jorge Luis Borges
   date: 1944
   publisher: editorial-sur
@@ -24,3 +24,170 @@ ficciones:
     description:
   advertisements:
     - images: "ficciones-ad.jpg"
+
+evaristo-carriego:
+  title: Evaristo Carriego
+  author: Jorge Luis Borges
+  date: 1930
+  publisher: manuel-gleizer
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+  advertisements:
+    - images: ""
+
+discusión:
+  title: Discusión
+  author: Jorge Luis Borges
+  date: 1930
+  publisher: manuel-gleizer
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+  advertisements:
+    - images: ""
+
+las-kenningar:
+  title: Las Kenningar
+  author: Jorge Luis Borges
+  date: 1933
+  printer: los-talleres-gráficos-el-colón
+  bookcover: "las-kenningar.jpg"
+  typespecimen:
+    - images:
+      - "las-kenningar-type-specimen.jpg"
+      - "las-kenningar-type-speciment-2.jpg"
+      description:
+  advertisements:
+    - images:
+
+historia-de-la-eternidad:
+  title: Historia de la eternidad
+  author: Jorge Luis Borges
+  date: 1936
+  publisher: viau-y-zona
+  printer: los-talleres-gráficos-el-colón
+  bookcover: "historia-de-la-eternidad.jpg"
+  typespecimen:
+    - images: "historia-de-la-eternidad-type-sample.jpg"
+    description:
+  advertisements:
+    - images:
+
+historia-universal-de-la-infamia:
+  title: Historia universal de la infamia
+  author: Jorge Luis Borges
+  date: 1935
+  publisher: editorial-tor
+  printer: editorial-tor
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisments:
+    - images:
+
+el-aleph
+  title: El Aleph
+  author: Jorge Luis Borges
+  date: 1949
+  publisher: editorial-losada
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertiments:
+    - images:
+
+poemas
+  title: Poemas, 1922-1943
+  author: Jorge Luis Borges
+  date: 1943
+  publisher: editorial-losada
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+seis-problemas-para-don-isidro-parodi
+  title: Seis problemas para don Isidro Parodi
+  author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
+  date: 1924
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: "seis-problemas.jpg"
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+el-jardín-de-senderos-que-se-bifurcan
+  title: El jardín de senderos que se bifurcan
+  author: Jorge Luis Borges
+  date: 1941
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+la-muerte-y-la-brújula
+  title: La muerte y la brújula
+  author: Jorge Luis Borges
+  date: 1951
+  publisher: emecé-editores
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+los-mejores-cuentos-policiales
+  title: Los mejores cuentos policiales
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  publisher: emecé-editores
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+homenaje-a-francisco-almeyra
+  title: Homenaje a Francisco ALmeyra
+  author: Adolfo Bioy Casares
+  publisher: editorial-destiempo
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
+
+antiguas-literaturas-germánicas
+  title: Antiguas literaturas germánicas
+  editors: Jorge Luis Borges & Delia Ingenieros
+  publisher: el-fondo-de-cultura-económica
+  printer: los-talleres-de-gráfica-panamericana
+  bookcover: ""
+  typespecimen:
+    - images:
+      description:
+  advertisements:
+    - images:
