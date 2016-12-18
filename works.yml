@@ -10,4 +10,17 @@ la-metamorphosis:
     - image: "random-type-sample.jpg"
       description: "This is a random type sample taken from a colophon of a work printed by Francisco A. Colombo for the Editorial Destiempo."
   advertisements:
-    - images:"editorial-losdaa-formación.jpg"
+    - images: "editorial-losada-formación.jpg"
+
+ficciones:
+  title: ficciones
+  author: Jorge Luis Borges
+  date: 1944
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: "ficciones.jpg"
+  typespecimen:
+    - image: ""
+    description:
+  advertisements:
+    - images: "ficciones-ad.jpg"
