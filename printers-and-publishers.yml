@@ -237,4 +237,43 @@ editorial-oportet-&-haereses
     - imprenta-lópez
     - los-talleres-gráficos-el-colón
   location:
+    -
   images:
+
+artes-gráficas-amorrortu
+  name: Artes Gráficas Amorrortu
+  type: printer
+  history:
+  affiliated-firms:
+    - editorial-losada
+  location:
+    - Luca 2227, Buenos Aires
+  images:
+
+los-talleres-gráficos-de-la-compañía-impresora-argentina
+  name: Los talleres gráficos de la compañía impresora
+  type: printer
+  history:
+  affiliated-firms:
+    - editorial-sudamericana
+    - emecé-editores
+  location:
+    - Alsina 2059, Buenos Aires
+
+imprenta-balmes
+  name: Imprenta Balmes
+  type: printer
+  history:
+  affiliated-firms:
+    - emecé-editores
+  location:
+    - Rauch 187, Buenos Aires
+
+editorial-destiempo
+  name: Editorial Destiempo
+  type: publisher
+  history:
+  affiliated-firms:
+    - los-talleres-gráficos-el-colón
+  location:
+    - Avenida Quintana 174, Buenos Aires
