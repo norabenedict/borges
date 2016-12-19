@@ -1,6 +1,7 @@
 la-metamorphosis:
   title: La metamorphosis
   author: Franz Kafka
+  prologue: Jorge Luis Borges
   translator: Jorge Luis Borges
   date: 1938
   publisher: editorial-losada
@@ -20,7 +21,7 @@ ficciones:
   printer: imprenta-lópez
   bookcover: "ficciones.jpg"
   typespecimen:
-    - image: ""
+    - image: "ficciones.jpg"
     description:
   advertisements:
     - images: "ficciones-ad.jpg"
@@ -148,7 +149,7 @@ la-muerte-y-la-brújula
   author: Jorge Luis Borges
   date: 1951
   publisher: emecé-editores
-  printer: imprenta-lópez
+  printer: los-talleres-gráficos-de-la-compañía-impresora-argentina
   bookcover: ""
   typespecimen:
     - images:
@@ -159,6 +160,7 @@ la-muerte-y-la-brújula
 los-mejores-cuentos-policiales
   title: Los mejores cuentos policiales
   editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1943
   publisher: emecé-editores
   printer: imprenta-lópez
   bookcover: ""
@@ -171,6 +173,7 @@ los-mejores-cuentos-policiales
 homenaje-a-francisco-almeyra
   title: Homenaje a Francisco ALmeyra
   author: Adolfo Bioy Casares
+  date: 1954
   publisher: editorial-destiempo
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
@@ -183,11 +186,120 @@ homenaje-a-francisco-almeyra
 antiguas-literaturas-germánicas
   title: Antiguas literaturas germánicas
   editors: Jorge Luis Borges & Delia Ingenieros
+  date: 1951
   publisher: el-fondo-de-cultura-económica
   printer: los-talleres-de-gráfica-panamericana
   bookcover: ""
   typespecimen:
-    - images:
+    - images: ""
       description:
   advertisements:
-    - images:
+    - images: ""
+
+dos-fantasías-memorables
+  title: Dos fantasías memorables
+  author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
+  date: 1946
+  publisher: editorial-oportet-&-haereses
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images: ""
+      description:
+  advertisements:
+    - images: ""
+
+un-modelo-para-la-muerte
+  title: Un modelo para la muerte
+  author: B. Suárez Lynch (Jorge Luis Borges & Adolfo Bioy Casares)
+  date: 1946
+  publisher: editorial-oportet-&-haereses
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+  advertisements:
+    - images: ""
+
+buenos-aires-en-tinta-china
+  title: Buenos Aires en tinta china
+  prologue: Jorge Luis Borges
+  illustrator: Attilio Rossi
+  poet: Rafael Alberti
+  date: 1951
+  publisher: editorial-losada
+  printer: artes-gráficas-amorrortu
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+  advertisements:
+    - images: ""
+
+antigua-lumbre
+  title: Antigua lumbre
+  author: Wally Zenner
+  prologue: Jorge Luis Borges
+  date: 1949
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+
+los-mejores-cuentos-policiales-3
+  title: Los mejores cuentos policiales
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1947
+  publisher: emecé-editores
+  printer: imprenta-balmes
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+
+nueva-refutación-del-tiempo
+  title: Nueva refutación del tiempo
+  author: Jorge Luis Borges
+  date: 1947
+  publisher: editorial-oportet-&-haereses
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+
+la-humillación-de-los-Northmore
+  title: Los humillación de los Northmore
+  author: Henry James
+  prologue: Jorge Luis Borges
+  translator: Haydée Lange
+  date: 1945
+  publisher: emecé-editores
+  printer: artes-gráficas-amorrortu
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+
+cabeza-yacente
+  title: Cabeza yacente
+  author: Vicente Barbieri
+  date: 1945
+  publisher: editorial-destiempo
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - images: ""
+
+el-compadrito
+  name: El compadrito
+  editors: Jorge Luis Borges & Sylvina Bullrich Palenque
+  prologue: Jorge Luis Borges
+  date: 1945
+  publisher: emecé-editores
+  printer: los-talleres-gráficos-j.-hays-bell
+  bookcover: ""
+  typespecimen:
+    - images: ""
