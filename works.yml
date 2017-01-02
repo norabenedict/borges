@@ -92,7 +92,7 @@ historia-universal-de-la-infamia:
   advertisments:
     - images:
 
-el-aleph
+el-aleph:
   title: El Aleph
   author: Jorge Luis Borges
   date: 1949
@@ -105,7 +105,7 @@ el-aleph
   advertiments:
     - images:
 
-poemas
+poemas:
   title: Poemas, 1922-1943
   author: Jorge Luis Borges
   date: 1943
@@ -118,7 +118,7 @@ poemas
   advertisements:
     - images:
 
-seis-problemas-para-don-isidro-parodi
+seis-problemas-para-don-isidro-parodi:
   title: Seis problemas para don Isidro Parodi
   author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
   date: 1924
@@ -131,7 +131,7 @@ seis-problemas-para-don-isidro-parodi
   advertisements:
     - images:
 
-el-jardín-de-senderos-que-se-bifurcan
+el-jardín-de-senderos-que-se-bifurcan:
   title: El jardín de senderos que se bifurcan
   author: Jorge Luis Borges
   date: 1941
@@ -144,7 +144,7 @@ el-jardín-de-senderos-que-se-bifurcan
   advertisements:
     - images:
 
-la-muerte-y-la-brújula
+la-muerte-y-la-brújula:
   title: La muerte y la brújula
   author: Jorge Luis Borges
   date: 1951
@@ -157,7 +157,7 @@ la-muerte-y-la-brújula
   advertisements:
     - images:
 
-los-mejores-cuentos-policiales
+los-mejores-cuentos-policiales:
   title: Los mejores cuentos policiales
   editors: Jorge Luis Borges & Adolfo Bioy Casares
   date: 1943
@@ -170,7 +170,7 @@ los-mejores-cuentos-policiales
   advertisements:
     - images:
 
-homenaje-a-francisco-almeyra
+homenaje-a-francisco-almeyra:
   title: Homenaje a Francisco ALmeyra
   author: Adolfo Bioy Casares
   date: 1954
@@ -183,7 +183,7 @@ homenaje-a-francisco-almeyra
   advertisements:
     - images:
 
-antiguas-literaturas-germánicas
+antiguas-literaturas-germánicas:
   title: Antiguas literaturas germánicas
   editors: Jorge Luis Borges & Delia Ingenieros
   date: 1951
@@ -196,7 +196,7 @@ antiguas-literaturas-germánicas
   advertisements:
     - images: ""
 
-dos-fantasías-memorables
+dos-fantasías-memorables:
   title: Dos fantasías memorables
   author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
   date: 1946
@@ -209,7 +209,7 @@ dos-fantasías-memorables
   advertisements:
     - images: ""
 
-un-modelo-para-la-muerte
+un-modelo-para-la-muerte:
   title: Un modelo para la muerte
   author: B. Suárez Lynch (Jorge Luis Borges & Adolfo Bioy Casares)
   date: 1946
@@ -222,7 +222,7 @@ un-modelo-para-la-muerte
   advertisements:
     - images: ""
 
-buenos-aires-en-tinta-china
+buenos-aires-en-tinta-china:
   title: Buenos Aires en tinta china
   prologue: Jorge Luis Borges
   illustrator: Attilio Rossi
@@ -237,7 +237,7 @@ buenos-aires-en-tinta-china
   advertisements:
     - images: ""
 
-antigua-lumbre
+antigua-lumbre:
   title: Antigua lumbre
   author: Wally Zenner
   prologue: Jorge Luis Borges
@@ -248,7 +248,7 @@ antigua-lumbre
     - images: ""
     description:
 
-los-mejores-cuentos-policiales-3
+los-mejores-cuentos-policiales-3:
   title: Los mejores cuentos policiales
   editors: Jorge Luis Borges & Adolfo Bioy Casares
   date: 1947
@@ -259,7 +259,7 @@ los-mejores-cuentos-policiales-3
     - images: ""
     description:
 
-nueva-refutación-del-tiempo
+nueva-refutación-del-tiempo:
   title: Nueva refutación del tiempo
   author: Jorge Luis Borges
   date: 1947
@@ -270,7 +270,7 @@ nueva-refutación-del-tiempo
     - images: ""
     description:
 
-la-humillación-de-los-Northmore
+la-humillación-de-los-Northmore:
   title: Los humillación de los Northmore
   author: Henry James
   prologue: Jorge Luis Borges
@@ -283,7 +283,7 @@ la-humillación-de-los-Northmore
     - images: ""
     description:
 
-cabeza-yacente
+cabeza-yacente:
   title: Cabeza yacente
   author: Vicente Barbieri
   date: 1945
@@ -292,8 +292,9 @@ cabeza-yacente
   bookcover: ""
   typespecimen:
     - images: ""
+    description:
 
-el-compadrito
+el-compadrito:
   name: El compadrito
   editors: Jorge Luis Borges & Sylvina Bullrich Palenque
   prologue: Jorge Luis Borges
@@ -303,3 +304,142 @@ el-compadrito
   bookcover: ""
   typespecimen:
     - images: ""
+    description:
+
+los-mejores-cuentos-policiales-2:
+  name: Los mejores cuentos policiales
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1944
+  publisher: emecé-editores
+  printer: los-talleres-gráficos-j.-hays-bell
+  bookcover: ""
+  typespecimen:
+    - images: ""
+    description:
+
+los-mejores-cuentos-policiales-segunda-serie:
+  name: Los mejores cuentos policiales (segunda serie)
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1951
+  publisher: emecé-editores
+  printer:
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+los-mejores-cuentos-policiales-segunda-serie-2:
+  name: Los mejores cuentos policiales (segunda serie)
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1952
+  publisher: emecé-editores
+  printer:
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+los-mejores-cuentos-policiales-segunda-serie-3:
+  name: Los mejores cuentos policiales (segunda serie)
+  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  date: 1956
+  publisher: emecé-editores
+  printer:
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+luis-greve-muerto:
+  name: Luis Greve, muerto
+  author: Adolfo Bioy Casares
+  date: 1937
+  publisher: editorial-destiempo
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+orlando:
+  name: Orlando
+  author: Virginia Woolf
+  translator: Jorge Luis Borges
+  date: 1937
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+perséphone:
+  name: Perséphone
+  author: André Gide
+  translator: Jorge Luis Borges
+  date: 1936
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+mallarmé-entre-nosotros:
+  name: Mallarmé entre nosotros
+  author: Alfonso Reyes
+  date: 1938
+  publisher: editorial-destiempo
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+diez-poemas-sin-poesía:
+  name: Diez poemas sin poesía
+  author: Nicolás Olivari
+  date: 1938
+  publisher: editorial-destiempo
+  printer: los-talleres-gráficos-el-colón
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+un-bárbaro-en-asia:
+  name: Un bárbaro en Asia
+  author: Henri Michaux
+  translator: Jorge Luis Borges
+  date: 1941
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+bartleby
+  name: Bartleby
+  author: Herman Melville
+  translator: Jorge Luis Borges
+  prologue: Jorge Luis Borges
+  date: 1943
+  publisher: emecé-editores
+  printer: artes-gráficas-amorrortu
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:
+
+recuerdos-de-provincia
+  name: Recuerdos de provincia
+  author: Domingo F. Sarmiento
+  prologue: Jorge Luis Borges
+  date: 1944
+  publisher: emecé-editores
+  printer: platt-s.a.
+  bookcover: ""
+  typespecimen:
+    - image: ""
+    description:

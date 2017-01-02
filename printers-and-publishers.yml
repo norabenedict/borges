@@ -277,3 +277,12 @@ editorial-destiempo
     - los-talleres-gráficos-el-colón
   location:
     - Avenida Quintana 174, Buenos Aires
+
+platt-s.a.
+  name: Platt S. A.
+  type: printer
+  history:
+  affiliated-firms:
+    - emecé-editores
+  location:
+    - Defensa 633, Buenos Aires
