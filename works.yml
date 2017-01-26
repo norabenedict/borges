@@ -32,9 +32,13 @@ evaristo-carriego:
   date: 1930
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
-  bookcover: ""
+  bookcover: "evaristo-carriego-half-titlepage.jpg"
   typespecimen:
-    - image: ""
+    - images:
+      - "evaristo-carriego1.jpg"
+      - "evaristo-carriego2.jpg"
+      - "evaristo-carriego-colophon.jpg"
+      - "evaristo-carriego-printersmark.jpg"
     description:
   advertisements:
     - images: ""
@@ -370,7 +374,9 @@ orlando:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - image: ""
+    - image:
+      - "orlando-titlepage.jpg"
+      - "orlando-colophon.jpg"
     description:
 
 perséphone:
