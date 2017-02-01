@@ -8,10 +8,10 @@ la-metamorphosis:
   printer: imprenta-lópez
   bookcover: "la-metamorphosis.jpg"
   typespecimen:
-    - image: "random-type-sample.jpg"
-      description: "This is a random type sample taken from a colophon of a work printed by Francisco A. Colombo for the Editorial Destiempo."
+    image: "random-type-sample.jpg"
+    description: "This is a random type sample taken from a colophon of a work printed by Francisco A. Colombo for the Editorial Destiempo."
   advertisements:
-    - images: "editorial-losada-formación.jpg"
+    images: "editorial-losada-formación.jpg"
 
 ficciones:
   title: Ficciones
@@ -21,10 +21,10 @@ ficciones:
   printer: imprenta-lópez
   bookcover: "ficciones.jpg"
   typespecimen:
-    - image: "ficciones.jpg"
-    description:
+    image: "ficciones.jpg"
+    description: ""
   advertisements:
-    - images: "ficciones-ad.jpg"
+    images: "ficciones-ad.jpg"
 
 evaristo-carriego:
   title: Evaristo Carriego
@@ -34,14 +34,14 @@ evaristo-carriego:
   printer: los-talleres-gráficos-el-colón
   bookcover: "evaristo-carriego-half-titlepage.jpg"
   typespecimen:
-    - images:
+    images:
       - "evaristo-carriego1.jpg"
       - "evaristo-carriego2.jpg"
       - "evaristo-carriego-colophon.jpg"
       - "evaristo-carriego-printersmark.jpg"
-    description:
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 discusión:
   title: Discusión
@@ -51,10 +51,10 @@ discusión:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 las-kenningar:
   title: Las Kenningar
@@ -63,12 +63,12 @@ las-kenningar:
   printer: los-talleres-gráficos-el-colón
   bookcover: "las-kenningar.jpg"
   typespecimen:
-    - images:
+    images:
       - "las-kenningar-type-specimen.jpg"
       - "las-kenningar-type-speciment-2.jpg"
-      description:
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 historia-de-la-eternidad:
   title: Historia de la eternidad
@@ -78,10 +78,10 @@ historia-de-la-eternidad:
   printer: los-talleres-gráficos-el-colón
   bookcover: "historia-de-la-eternidad.jpg"
   typespecimen:
-    - images: "historia-de-la-eternidad-type-sample.jpg"
-    description:
+    images: "historia-de-la-eternidad-type-sample.jpg"
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 historia-universal-de-la-infamia:
   title: Historia universal de la infamia
@@ -91,10 +91,10 @@ historia-universal-de-la-infamia:
   printer: editorial-tor
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisments:
-    - images:
+    images: ""
 
 el-aleph:
   title: El Aleph
@@ -104,36 +104,36 @@ el-aleph:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertiments:
-    - images:
+    images: ""
 
 poemas:
-  title: Poemas, 1922-1943
+  title: "Poemas, 1922-1943"
   author: Jorge Luis Borges
   date: 1943
   publisher: editorial-losada
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 seis-problemas-para-don-isidro-parodi:
   title: Seis problemas para don Isidro Parodi
-  author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
+  author: "H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)"
   date: 1924
   publisher: editorial-sur
   printer: imprenta-lópez
   bookcover: "seis-problemas.jpg"
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 el-jardín-de-senderos-que-se-bifurcan:
   title: El jardín de senderos que se bifurcan
@@ -143,10 +143,10 @@ el-jardín-de-senderos-que-se-bifurcan:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 la-muerte-y-la-brújula:
   title: La muerte y la brújula
@@ -156,23 +156,23 @@ la-muerte-y-la-brújula:
   printer: los-talleres-gráficos-de-la-compañía-impresora-argentina
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 los-mejores-cuentos-policiales:
   title: Los mejores cuentos policiales
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1943
   publisher: emecé-editores
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 homenaje-a-francisco-almeyra:
   title: Homenaje a Francisco ALmeyra
@@ -182,49 +182,49 @@ homenaje-a-francisco-almeyra:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - images:
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images:
+    images: ""
 
 antiguas-literaturas-germánicas:
   title: Antiguas literaturas germánicas
-  editors: Jorge Luis Borges & Delia Ingenieros
+  editors: "Jorge Luis Borges & Delia Ingenieros"
   date: 1951
   publisher: el-fondo-de-cultura-económica
   printer: los-talleres-de-gráfica-panamericana
   bookcover: ""
   typespecimen:
-    - images: ""
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 dos-fantasías-memorables:
   title: Dos fantasías memorables
-  author: H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)
+  author: "H. Bustos Domecq (Jorge Luis Borges & Adolfo Bioy Casares)"
   date: 1946
-  publisher: editorial-oportet-&-haereses
+  publisher: editorial-oportet-haereses
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images: ""
-      description:
+    images: ""
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 un-modelo-para-la-muerte:
   title: Un modelo para la muerte
-  author: B. Suárez Lynch (Jorge Luis Borges & Adolfo Bioy Casares)
+  author: "B. Suárez Lynch (Jorge Luis Borges & Adolfo Bioy Casares)"
   date: 1946
-  publisher: editorial-oportet-&-haereses
+  publisher: editorial-oportet-haereses
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 buenos-aires-en-tinta-china:
   title: Buenos Aires en tinta china
@@ -236,10 +236,10 @@ buenos-aires-en-tinta-china:
   printer: artes-gráficas-amorrortu
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
   advertisements:
-    - images: ""
+    images: ""
 
 antigua-lumbre:
   title: Antigua lumbre
@@ -249,30 +249,30 @@ antigua-lumbre:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 los-mejores-cuentos-policiales-3:
   title: Los mejores cuentos policiales
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1947
   publisher: emecé-editores
   printer: imprenta-balmes
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 nueva-refutación-del-tiempo:
   title: Nueva refutación del tiempo
   author: Jorge Luis Borges
   date: 1947
-  publisher: editorial-oportet-&-haereses
+  publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 la-humillación-de-los-Northmore:
   title: Los humillación de los Northmore
@@ -284,8 +284,8 @@ la-humillación-de-los-Northmore:
   printer: artes-gráficas-amorrortu
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 cabeza-yacente:
   title: Cabeza yacente
@@ -295,75 +295,75 @@ cabeza-yacente:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 el-compadrito:
   name: El compadrito
-  editors: Jorge Luis Borges & Sylvina Bullrich Palenque
+  editors: "Jorge Luis Borges & Sylvina Bullrich Palenque"
   prologue: Jorge Luis Borges
   date: 1945
   publisher: emecé-editores
-  printer: los-talleres-gráficos-j.-hays-bell
+  printer: los-talleres-gráficos-j-hays-bell
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 los-mejores-cuentos-policiales-2:
   name: Los mejores cuentos policiales
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1944
   publisher: emecé-editores
-  printer: los-talleres-gráficos-j.-hays-bell
+  printer: los-talleres-gráficos-j-hays-bell
   bookcover: ""
   typespecimen:
-    - images: ""
-    description:
+    images: ""
+    description: ""
 
 los-mejores-cuentos-policiales-segunda-serie:
   name: Los mejores cuentos policiales (segunda serie)
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1951
   publisher: emecé-editores
-  printer:
+  printer: ""
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 los-mejores-cuentos-policiales-segunda-serie-2:
   name: Los mejores cuentos policiales (segunda serie)
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1952
   publisher: emecé-editores
-  printer:
+  printer: ""
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 los-mejores-cuentos-policiales-segunda-serie-3:
   name: Los mejores cuentos policiales (segunda serie)
-  editors: Jorge Luis Borges & Adolfo Bioy Casares
+  editors: "Jorge Luis Borges & Adolfo Bioy Casares"
   date: 1956
   publisher: emecé-editores
-  printer:
+  printer: ""
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 luis-greve-muerto:
-  name: Luis Greve, muerto
+  name: "Luis Greve, muerto"
   author: Adolfo Bioy Casares
   date: 1937
   publisher: editorial-destiempo
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 orlando:
   name: Orlando
@@ -374,10 +374,10 @@ orlando:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - image:
+    image:
       - "orlando-titlepage.jpg"
       - "orlando-colophon.jpg"
-    description:
+    description: ""
 
 perséphone:
   name: Perséphone
@@ -388,8 +388,8 @@ perséphone:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 mallarmé-entre-nosotros:
   name: Mallarmé entre nosotros
@@ -399,8 +399,8 @@ mallarmé-entre-nosotros:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 diez-poemas-sin-poesía:
   name: Diez poemas sin poesía
@@ -410,8 +410,8 @@ diez-poemas-sin-poesía:
   printer: los-talleres-gráficos-el-colón
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
 un-bárbaro-en-asia:
   name: Un bárbaro en Asia
@@ -422,10 +422,10 @@ un-bárbaro-en-asia:
   printer: imprenta-lópez
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
-bartleby
+bartleby:
   name: Bartleby
   author: Herman Melville
   translator: Jorge Luis Borges
@@ -435,17 +435,17 @@ bartleby
   printer: artes-gráficas-amorrortu
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
 
-recuerdos-de-provincia
+recuerdos-de-provincia:
   name: Recuerdos de provincia
-  author: Domingo F. Sarmiento
+  author: "Domingo F. Sarmiento"
   prologue: Jorge Luis Borges
   date: 1944
   publisher: emecé-editores
-  printer: platt-s.a.
+  printer: platt-s-a
   bookcover: ""
   typespecimen:
-    - image: ""
-    description:
+    image: ""
+    description: ""
