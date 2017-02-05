@@ -11,6 +11,16 @@ evaristo-carriego:
     colophon: "'Este libro terminóse de imprimir el 30 de Setiembre de mil novecientos treinta en los talleres gráficos “Colón”, de Francisco A. Colombo, San Antonio de Areco, Sucursal: Hortiguera 552 Bs. As. para la Editorial M. Gleizer' ([125])"
     binding: "Light pink, soft-cover book. Since the cover of this copy is detached, it is easier to tell that this thicker piece of cardboard-like paper (with a very smooth (almost glossy) finish) was simply glued on to the book block. The cover has black lettering: 'JORGE LUIS BORGES EVARISTO CARRIEGO M. GLEIZER EDITOR TRIUNVIRATO 537 BUENOS AIRES 1930'. The printing on the spine reads: 'JORGE LUIS BORGES EVARISTO CARRIEGO M. GLEIZER EDITOR 1930'. The back cover as the insigna of M. Gleizer, the profile of a face that much resembles Erasmus along with the phrase “M. Gleizer” spelled out vertically alongside the face. In the bottom, right-hand corner of the back cover is the price of the volume, which has been obscured by a previous sticker (adhered and then peeled off at one point). No protective tissue-paper layer protects the covers. The pages in this copy lay flat and it is much easier to see the stitching at the center of each gathering (one single stitch loop)."
     illustrations: "A portrait of Evaristo Carriego (in the first gathering); an image of a manuscript of Evaristo Carriego’s work (in the first gathering); Two images of street scenes in Buenos Aires (in the third gathering; taken by Horacio Coppola): 'Casas de barrio en Buenos Aires. Jaurés (antes Bermejo) al 1000.' & 'Esquina en las'"
+  bookcover: "evaristo-carriego-half-titlepage.jpg"
+  typespecimen:
+    images:
+      - "evaristo-carriego1.jpg"
+      - "evaristo-carriego2.jpg"
+      - "evaristo-carriego-colophon.jpg"
+      - "evaristo-carriego-printersmark.jpg"
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 E92 1930. Copy 1, Copy 3"
 
 discusión:
@@ -25,6 +35,12 @@ discusión:
     typography: "A modern serif font similar to Bodoni or one of its variants. There are different size typefaces throughout the text. The letters are well spaced on the cover and title page, and also in each of the title headings."
     colophon: "'ESTE PRIMER LIBRO DE LA COLECCIÓN DE NUEVOS ESCRITORES ARGENTINOS, SE TERMINÓ DE IMPRIMIR EL 30 DE JULIO DE 1932, POR EL IMPRESOR FRANCISCO A. COLOMBO, PARA LA EDITORIAL M. GLEIZER'([165])"
     binding: "Re-bound hardcover book (that retains the original light grey soft-cover in the new binding). The cover is half-bound in a paisley-patterned cloth and the spine is a red leather with gold stamped letter that reads: 'JORGE LUIS BORGES DISCUSION'. The back cover is wrapped in the same paisley-patterned. Copy 1 is signed by Borges. Copy 2 has an inscription from Borges to 'Paco Luis'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 D5 1932. Copy 1, Copy 2"
 
 las-kenningar:
@@ -38,6 +54,14 @@ las-kenningar:
     typography: "A modern serif typeface with a great amount of vertical stress; similar to Garamond."
     colophon: "'En Buenos Aires por Francisco A. Colombo 1933'([29])"
     binding: "Crème-colored soft-cover book. The cover has black and orange lettering: 'JORGE LUIS BORGES LAS KENNINGAR FRANCISCO A. COLOMBO BUENOS AIRES – 1933'. There is no printing or additional information on the spine of the book nor on the back cover. The inside flaps on the cover remain intact and are folded from the front and back covers, respectively. The crème-colored exterior is very dirty from wear over the years."
+  bookcover: "las-kenningar.jpg"
+  typespecimen:
+    images:
+      - "las-kenningar-type-specimen.jpg"
+      - "las-kenningar-type-speciment-2.jpg"
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 K46 1933."
 
 historia-universal-de-la-infamia:
@@ -52,6 +76,12 @@ historia-universal-de-la-infamia:
     typography: "The cover has a very blocky serif typeface with extreme contrast and vertical stress. The inside text uses a modern serif typeface with vertical stress, high contrast, and serifs; the 't's resemble Bodoni."
     colophon: "'ESTE ES EL TERCER VOLU-MEN DE LA COLECCION 'MEGAFONO', QUE EDITO-RIAL TOR IMPRIMIO DU-RANTE EL MES DE JULIO DE 1935' ([144])"
     binding: "Originally a white-colored soft-cover book, but quite dirty and it appears almost crème-colored from age. The central text on the front page is boxed in with a blue border. The cover has black and blue lettering: 'JORGE LUIS BORGES HISTORIA UNIVERSAL DE LA INFAMIA COLECCIÓN MEGÁFONO'. The printing on the spine reads: 'JORGE LUIS BORGES HISTORIA UNIVERSAL DE LA INFAMIA BUENOS AIRES'. In the middle of this front cover is a drawing of a playing card with three knives and the number three written in the top left-hand corner and the bottom right-hand cover. The back cover has the insignia of the Editorial TOR, the nautical scene of a boat in a the midst of violent waves with the phrase 'CONTRA VIENTO Y MAREA' spelled out along the top, horizontal edge and “EDITORIAL TOR” along the bottom edge of the image. This copy has an inscription from Borges to 'Paco Luis.'"
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisments:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 H5 1935."
 
 historia-de-la-eternidad:
@@ -66,6 +96,12 @@ historia-de-la-eternidad:
     typography: ""
     colophon: "'SE ACABÓ DE IMPRIMIR EL 29 DE ABRIL DE 1936 POR FRANCISCO A. COLOMBO BUENOS AIRES' ([127])"
     binding: "Grey-blue, soft-cover book with a great deal of spots and discoloration around the edges due to age. The central text on the front page has black and blue lettering: 'JORGE LUIS BORGES HISTORIA DE LA ETERNIDAD VIAU Y ZONA BUENOS AIRES 1936'. The back cover has the insignia of Viau y Zona, which is an uppercase 'Z' and an uppercase 'V' overlapping on an intricately designed background with the following text below them: 'EL BIBLIÓFILO'."
+  bookcover: "historia-de-la-eternidad.jpg"
+  typespecimen:
+    images: "historia-de-la-eternidad-type-sample.jpg"
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 H475 1936."
 
 la-prison-de-lenfant:
@@ -80,6 +116,10 @@ la-prison-de-lenfant:
     typography: ""
     colophon: "Ce livre préfacé par G. L. Borges, contenant sept lithogra-phies de Héctor Basaldúa, a été tire à cinquante exem- plaires sur papier Wathman numérotés de 1 à 50, à 200 exemplaires sur papier Pergament numérotés de 51 á 250. Le present ouvrage a été achevé d’imprimer le 9 septembre 1935, sur les presses de Francisco A. Colombo, à Buenos Aires Cet exemplaire qui porte le numéro 12 a été imrpimé pour Oliverio Girondo"
     binding: "Loose gatherings with lithographs inserted. Not sewn. The spine of the cover (not attached to the interior pages) reads reads (in black and red): 'LA PRISON DE L’ENFANT – GLORIA ALCORTA'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 H475 1936"
 
 perséphone:
@@ -96,6 +136,10 @@ perséphone:
     typography: ""
     colophon: "'ESTA EDICIÓN GRATUITA DE 'PERSÉPHONE' EN HOMENAJE A IGOR STRAWINKSY, SE TERMINÓ DE IMPRIMIR EN LA IMPRENTA LÓPEZ, PERÚ 666 EN LA PRIMERA QUINCENA DEL MES DE MAYO DE 1936.' ([48])"
     binding: "Black soft-cover book that is more akin to a thick pamphlet. The back cover describes the purpose of the work: 'Publicación gratuita de la revista SUR en homenaje a Igor Strawinsky'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 P48 1936; personal copy"
 
 un-cuarto-propio:
@@ -112,6 +156,10 @@ un-cuarto-propio:
     typography: ""
     typography: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 luis-greve-muerto:
@@ -126,6 +174,10 @@ luis-greve-muerto:
     typography: ""
     colophon: "'Se acabó de imprimir en Buenos Aires el 15 de Junio de 1937, por Francisco A. Colombo.' ([159])"
     binding: "Rebound in a standard hard-cover library binding (green). The original covers have not been conserved."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B535L8"
 
 marea-de-lágrimas:
@@ -140,6 +192,10 @@ marea-de-lágrimas:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 orlando:
@@ -155,6 +211,12 @@ orlando:
     typography: ""
     colophon: "'SE ACABÓ DE IMPRI-MIR ESTE LIBRO, PARA LA EDITORIAL SUR, EN SU PRIME-RA Y ÚNICA TRA-DUCCIÓN ESPAÑOLA AUTORIZADA POR LA AUTORA, DI-RECTAMENTE DEL INGLÉS, EL DÍA TREINTA DE JUNIO DE MIL NOVECIENTOS TREIN-TA Y SIETE, EN LA IMPRENTA LÓPEZ, CALLE PERÚ 666 BUENOS AIRES.' ([324])"
     binding: "Blue soft-cover book. The spine reads as follows (in white): 'VIRGINIA WOOLF ORLANDO UNA BIOGRAFÍA'. The title page has black lettering: 'VIRGINIA WOOLF ORLANDO UNA BIOGRAFIA SUR BUENOS AIRES'. On the facing page is the information regarding the translation of this work: 'Título del original inglés 'ORLANDO' Traducción directa de Jorge Luis Borges'. The price of this volume is printed on the back cover of the work as '$ 2.50 m/n.' Both of the interior cover flaps list the latest works produced by the Editorial Sur with their respective prices."
+  bookcover: ""
+  typespecimen:
+    image:
+      - "orlando-titlepage.jpg"
+      - "orlando-colophon.jpg"
+    description: ""
   source: "Personal copy."
 
 diez-poemas-sin-poesía:
@@ -169,6 +231,10 @@ diez-poemas-sin-poesía:
     typography: ""
     colophon: "'SE TERMINÓ DE IMPRIMIR POR LA EDITORIAL DESTIEMPO EL 23 DE MAYO DE 1938 EN BUENOS AIRES' ([97])."
     binding: "Rebound library book."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Pittsburgh. Call number: PQ7797 .O47 D5 1938."
 
 mallarmé-entre-nosotros:
@@ -183,6 +249,10 @@ mallarmé-entre-nosotros:
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EL 11 DE MAYO DE 1938, POR FRANCISCO A. COLOMBO' ([97])."
     binding: "A burnt orange soft-cover book with the 'fish out of water' Destiempo logo of the publishing house printed on the front cover. The spine reads, in black ink: 'ALFONSO REYES Mallarmé Entre Nosotros'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "Personal copy."
 
 la-metamorfosis:
@@ -199,6 +269,12 @@ la-metamorfosis:
     typography: ""
     colophon: "'LA PAJARITA DE PAPEL VOLUMEN I AL CUIDADO GRAFICO DE ATTILIO ROSSI Y EN LA IMPRENTA LOPEZ, PERU 666, BUENOS AIRES, ACABOSE DE IMPRIMIR ESTE LIRBO EL 15 DE AGOSTO DE 1938' ([191])."
     binding: "A bright orange hard-cover book with the unique origami paper bird logo of the series ('pajarita de papel') printed on the front cover. The original price of the volume is printed on the back cover in black ink: '$2.50 m/arg.'. The spine reads, in black ink: 'FRANKZ KAFKA LA META-MOR-FORSIS EDITORIAL LOSADA, S. A. BUENOS AIRES'."
+  bookcover: "la-metamorphosis.jpg"
+  typespecimen:
+    image: "random-type-sample.jpg"
+    description: "This is a random type sample taken from a colophon of a work printed by Francisco A. Colombo for the Editorial Destiempo."
+  advertisements:
+    images: "editorial-losada-formación.jpg"
   source: "Personal copy."
 
 antología-de-la-literatura-fantástica:
@@ -213,6 +289,10 @@ antología-de-la-literatura-fantástica:
     typography: ""
     colophon: "'SE TERMINÓ DE IMPRIMIR EL VEIN-TICUATRO DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA, EN LA IMPRENTA J. HAYS, BRANSEN ESQUINA GABOTO, BUENOS AIRES' ([329])."
     binding: "A grey-green and crème-colored soft-cover book with a brick-like design on the front cover. The front has grey and red lettering: 'J. L. BORGES – S. OCAMPO – A. BIOY CASARES ANTOLOGIA DE LA LITERATURA FANTÁSTICA [illustration of an angel] COLECCION LABERTINO EDITORIAL SUDAMERICANA'. In addition to this printing on the front cover, there are also two crème-colored boxes with the names of several included authors in the collection in grey ink: 'Jean Cocteau Jorge Luis Borges G. K. Chesterton Macedonio Fernández Franz Kafka R. Gómez de la Serna Leopoldo Lugones James Joyce Carlos Grünberg'; 'E. Martínez Estrada U. Petit de Murat Alfonsina Storni Ricardo Molinari Guy de Maupassant François Rabelais Thomas Carlyle Giovanni Papini Edgar Allan Poe Herbert G. Wells Tudyard Kipling Léon Bloy Engene [sic] O’Neill Max Beerbohm'. The original price of the volume is printed on the back cover in grey ink: '$3.50 m/arg.'. The spine reads, in grey and red ink: 'J. L. BORGES S. OCAMPO A. BIOY CASARES ANTOLOGIA DE LA LITERATURA FANTÁSTICA [illustration of an angel] COLECCION LABERTINO BUENOS AIRES'. The two interior flaps are intact; the one inside the front cover contains a description of the current anthology while the one inside the back cover has a list of other titles published by Editorial Sudamericana."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 A735 1940 Copy 1, Copy 2; Personal copy"
 
 la-invención-de-morel:
@@ -228,6 +308,10 @@ la-invención-de-morel:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 el-jardín-de-senderos-que-se-bifurcan:
@@ -242,6 +326,12 @@ el-jardín-de-senderos-que-se-bifurcan:
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 30 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERU 666, BUENOS AIRES' ([126])."
     binding: "Blue soft-cover book that has been rebound. The title page has black and blue lettering: 'JORGE LUIS BORGES EL JARDIN DE SENDEROS QUE SE BIFURCAN SUR BUENOS AIRES'. Even though the book has been rebound, the original covers are conserved. The back cover lists the original price of the volume in white: '$ 2.80 m/arg.' Unlike his later Ficciones (Editorial Sur, 1944), this edition lists previously published works by the author and includes two of his collaborative anthologies published to date: Antología clásica de la literatura argentina (1937) and Antología de la literatura fantástica (1940). It’s curious that the Antología poética argentina (1941) is not included in this list as well since it was produced almost simultaneously with El jardín de senderos que se bifurcan."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 J3 1942"
 
 antología-poética-argentina:
@@ -256,6 +346,10 @@ antología-poética-argentina:
     typography: ""
     colophon: "'SE TERMINÓ DE IMPRIMIR EN BUENOS AIRES EL CUATRO DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA Y UNO EN LOS TALLE-RES GRÁFICO DE J. HAYS BELL. BRANDSEN 100 (ESQ. GABOTO).'"
     binding: "A light brown and crème-colored soft-cover book with a brick-like design on the front cover. The front has brown and black lettering: 'J. L. BORGES S. OCAMPO A. BIOY CASARES ANTOLOGIA POETICA ARGENTINA [illustration of an angel] COLECCION LABERTINO EDITORIAL SUDAMERICANA'. In addition to this printing on the front cover, there are also two crème-colored boxes with the names of several included poets in the collection in brown ink: 'Enrique Banchs González Lanuza Leopoldo Lugones Carlos Mastronardi Arturo Capdevila F. K. Bernárdez Ricardo Güiraldes Norah Lange Carlos Grünberg'; 'E. Martínez Estrada U. Petit de Murat Alfonsina Storni Ricardo Molinari Fernández Moreno Leopoldo Marechal Almafuerte Rafael A. Arrieta H. Rega Molina'. The printing in the bottom center of the back cover, in blue, reads: 'LIBRERIA ROSS (Galería de Arte) Córdoba 1338 ROSARIO'. The spine reads, in brown and black ink: 'J. L. BORGES S. OCAMPO A. BIOY CASARES ANTOLOGIA POETICA ARGENTINA [illustration of an angel] COLECCION LABERTINO BUENOS AIRES'. There is a sticker from the previous bookseller in the right-hand bottom corner of the back cover: 'LIBRERIA ROSS | CORDOBA 1338 T. E. 65378 – ROSARIO'. The two interior flaps are intact; the one inside the front cover contains a description of the current anthology while the one inside the back cover has a list of other titles published by Editorial Sudamericana."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 A745 1941 Copy 1, Copy 2, Copy 3, Copy 4; Personal copy"
 
 un-bárbaro-en-asia:
@@ -272,6 +366,10 @@ un-bárbaro-en-asia:
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 14 DE JULIO DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERÚ 666, BUENOS AIRES' ([202])."
     binding: "Green soft-cover book. The title page has black and green lettering: 'HENRI MICHAUX UN BÁRBARO EN ASIA SUR BUENOS AIRES'. The price on the back cover has been blacked out, but the following printed text remains at the bottom: 'Concesionario exclusivo para la venta: EDITORIAL LOSADA, S. A. – BUENOS AIRES'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 B3718 1941; Personal copy"
 
 seis-problemas-para-don-isidro-parodi:
@@ -286,6 +384,12 @@ seis-problemas-para-don-isidro-parodi:
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 10 DE DICIEMBRE DE MIL NO-VICIENTOS CUARENTA Y DOS, EN LA IMPRENTA IGLESIAS Y MATERA, CORRIENTES 1258, Bs. As.'"
     binding: "Blue soft-cover book that has been rebound. The title page has black and blue lettering: 'H. BUSTOS DOMECQ SEIS PROBLEMAS PARA DON ISIDRO PARODI PALABRA LIMINAR DE GERVASIO MONTENEGRO SUR BUENOS AIRES'."
+  bookcover: "seis-problemas.jpg"
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 S4 1942"
 
 los-mejores-cuentos-policiales:
@@ -300,6 +404,12 @@ los-mejores-cuentos-policiales:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: ""
 
 bartleby:
@@ -316,6 +426,10 @@ bartleby:
     typography: ""
     colophon: "'EL 30 DE OCTUBRE DE 1943 SE ACABÓ DE IMPRIMIR ESTE CUADERNO, EN LOS TALLERES GRÁFICOS DE SEBASTIÁN DE AMORRORTU E HIJOS, AVENIDA CÓRDOBA 2028, BUENOS AIRES' ([83])."
     binding: "Red soft-cover book with some discoloration around the edges due to age. The title, author’s name, and name of the series are printed in crème in a navy blue block on the front cover. Prior to the title page is a page with information regarding the number of copies printed: 'BARTLEBY, POR HERMAN MELVILLE, ES EL PRIMERO DE LOS CUADERNOS DE LA QUIMERA AL CUIDADO DE EDUARDO MALLEA. SE HAN IMPRESO MIL EJEMPLARES NUMERADOS. EJEMPLAR N.o 165'. The central text on the title page has black lettering with a triple-ruled border: 'HERMAN MELVILLE BARTELBY Prólogo y versión directa del inglés por JORGE LUIS BORGES CUADERNOS DE LA QUIMERA EMECÉ EDITORES, S. A. BUENOS AIRES'. The back cover has the price of the volume printed in the lower right-hand cover: ''$1,80'. The spine is quite damaged, yet the remaing parts read: “HERMAN MELVILLE: BARTLEBY'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 B38 1943"
 
 poemas:
@@ -331,6 +445,12 @@ poemas:
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL DIA 17 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y TRES, EN LA IMPRENTA LOPEZ, PERU 666, BUENOS AIRES, REPUBLICA ARGENTINA.' ([182])."
     binding: "A crème-colored soft-cover book with a significant amount of yellowing and spotting from wear and age. The writing on the front cover is black and red: 'JORGE LUIS BORGES POEMAS (1922-1943) [illustration by Attilio Rossi] EDITORIAL LOSADA, S. A. BUENOS AIRES'. The spine, in black, reads: 'JORGE LUIS BORGES POEMAS EDITORIAL LOSADA, S. A. BUENOS AIRES'. The back cover has the original price printed in the lower right-hand corner: '$5.—m/arg.'. "
     illustrations: "The front cover has an original illustration by Borges’s friend, Attilio Rossi."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 P6 1943 Copy 1, Copy 2, Copy 3; Personal copy"
 
 ficciones:
@@ -345,6 +465,12 @@ ficciones:
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL DIA 4 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y CUATRO, EN LA IMPRENTA LOPEZ PERU 666, BUENOS AIRES, REPUBLICA ARGENTINA.'"
     binding: "Blue soft-cover book that is glossy to the touch. The title page has black and blue lettering: 'JORGE LUIS BORGES FICCIONES SUR BUENOS AIRES'. The back cover lists the price as '$4. – m/arg.' The spine reads (in white): 'JORGE LUIS BORGES FICCIONES SUR BUENOS AIRES'. The text block is loose from the binding on this specific copy. There are a few rips on the front cover, which shows that the glossier blue paper is covering a flimsier, crème-colored paper cover."
+  bookcover: "ficciones.jpg"
+  typespecimen:
+    image: "ficciones.jpg"
+    description: ""
+  advertisements:
+    images: "ficciones-ad.jpg"
   source: "United States. University of Virginia. Call number: PQ7797 .B635 F5 1944"
 
 recuerdos-del-porvenir:
@@ -353,13 +479,17 @@ recuerdos-del-porvenir:
   prologue: Jorge Luis Borges
   year: 1944
   publisher: emecé-editores
-  printer: platt-s-a
+  printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
     gatherings: "8º: 1-208, 214, 164 leaves, pp. 328 total"
     paper: "Wove. No visible chain or wire lines on any of the pages. The pages are mostly clean and contain next to no yellowing or age spots. The pages are not cut uniformly and several hang over the edge of the binding."
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EL DÍA 15 DE MAYO DEL AÑO 1944, EN PLATT S. A. (PROTO-TIPOGRAFÍA PUBLICITARIA ARGENTINA LUIS L. GOTELLI), DEFENSA 633, DE BUENOS AIRES' ([325])."
     binding: "Olive green and white soft-cover book. The title page has black and red lettering: 'DOMINGO F. SARMIENTO RECUERDOS DE PROVINCIA Prólogo y notas de JORGE LUIS BORGES [Emecé logo] EMECÉ EDITORES, S. A. BUENOS AIRES'. The back cover lists the price as '$15. – m/arg.' The spine reads (in black): 'DOMINGO F. SARMIENTO RECUERDOS DE PROVINCIA [Emecé logo] EMECÉ'. In addition to the production information in the colophon listed above, there is also a note printed above it that describes a luxury edition that was produced along with the common edition: 'Además de la edición correinte, se han impreso cuarenta y siete ejemplares en papel Conqueror numerados de 1 a 47, que fueron encuadernados por Julien Leprêtre' ([325])."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 R425 1944"
 
 los-mejores-cuentos-policiales-2:
@@ -374,7 +504,12 @@ los-mejores-cuentos-policiales-2:
     typography: ""
     colophon: "'SE TERMINÓ DE IMPRIMIR ESTE LIBRO EN BUENOS AIRES, EL DÍA DOCE DE NOVIEMBRE DE MIL NO-VECIENTOS CUARENTA Y CUATRO, EN LOS TALLERES GRÁFICOS DE J. HAYS BELL, BRANDSEN Y GABOTO.' ([294])."
     binding: "A soft-cover crème-colored book; missing the original dust jacket designed by J. A. Ballester Peña. The text on the spine reads: 'LOS MEJORES CUENTOS POLICIALES EMECÉ EDITORES S. A.'"
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source: "Personal copy."
+
 el-compadrito:
   title: El compadrito
   editors: Jorge Luis Borges and Sylvina Bullrich Palenque
@@ -386,6 +521,10 @@ el-compadrito:
     paper: "Wove. Extremely white, clean pages. No chain or wire lines are visible on the pages. The pages are cut to a uniform size."
     typography: ""
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EN BS. AIRES EL 10 DE FEBRERO DE 1945 EN LOS TALLERES GRÁ-FICOS DE J. HAYS BELL, BRANDSEN Y GABOTO. LAS LÁMINAS FUERON IM-PRESAS EN LOS TALLERES  PLATT, S. A., DEFENSA 633.' ([61])"
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source: "Personal copy."
 
 cabeza-yacente:
@@ -400,6 +539,10 @@ cabeza-yacente:
     typography: ""
     colophon: "'Este libro se terminó de imprimir el día 20 de febrero de 1945, en casa de don Francisco A. Colombo, Hortiguera 552, Buenos Aires. Los aspectos artísticos y gráficos de la edición estuvieron a cargo de Gori Muñoz.'"
     binding: "Rebound library book."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source: "United States. University of Texas Libraries. Call number: 868.8 B234C"
 
 pragmatismo:
@@ -415,6 +558,10 @@ pragmatismo:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 Z999.J17 P7 1945"
 
 sartor-resartus:
@@ -430,6 +577,10 @@ sartor-resartus:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 la-humillación-de-los-northmore:
@@ -446,6 +597,10 @@ la-humillación-de-los-northmore:
     typography: ""
     colophon: "'EL 26 DE ABRIL DE 1945 SE ACABÓ DE IMPRIMIR EL PRIMER MILLAR DE ESTE CUADERNO, EN LOS TA-LLERES GRÁFICOS DE SEBASTIÁN DE AMORRORTU E HIJOS, AVENIDA CÓRDOBA 2028, BUENOS AIRES' ([61])."
     binding: "Green soft-cover book with some discoloration around the edges due to age. The title, author’s name, and name of the series are printed in crème in a brown block on the front cover. Prior to the title page is a page with information regarding the number of copies printed: 'LA HUMILLACIÓN DE LOS NORTHMORE, POR HENRY JAMES, ES EL DUODÉCIMO DE LOS CUA-DERNOS DE LA QUIMERA AL CUIDADO DE EDUARDO MALLEA. PRIMER MILLAR EJEMPLAR N.o 765'. The central text on the title page has black lettering with a triple-ruled border: 'HENRY JAMES LA HUMILLACIÓN DE LOS NORTHMORE Prólogo de JORGE LUIS BORGES Versión directa del inglés por HAYDÉE LANGE CUADERNOS DE LA QUIMERA EMECÉ EDITORES, S. A. BUENOS AIRES'. The back cover has the price of the volume printed in the lower right-hand cover: '$1,60'. The spine is quite damaged, yet the remaing parts read: 'HENRY JAMES: LA HUMILLACIÓN DE LOS NORTHMORE'."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source: "United States. University of Virginia. Call number: PS2116.A3185 1945"
 
 bocetos-californianos:
@@ -461,6 +616,10 @@ bocetos-californianos:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 dos-fantasías-memorables:
@@ -475,6 +634,12 @@ dos-fantasías-memorables:
     typography: ""
     colophon: "'ESTE LIRBO SE TERMINÓ DE IMPRIMIR EL DÍA 29 DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y SEIS, EN LA IMPRENTA LÓPEZ, PERÚ 666, BUENOS AIRES, REPÚBLICA ARGENTINA.' ([35])."
     binding: "A hard-cover book half-bound in marbled paper with a blue cloth spine. The printing on the spine appears on a small strip of paper (originally white) that reads (in black): 'H. BUSTOS DOMECQ DOS FANTASIAS MEMORABLES.' This book was part of a limited run of 300 copies, each numbered 1 to 300. These two copies are numbered 071/300 and 213/300, respectively."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 M56 1946."
 
 fausto:
@@ -490,6 +655,10 @@ fausto:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 juárez-y-maximiliano:
@@ -505,6 +674,10 @@ juárez-y-maximiliano:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 novelas-ejemplares:
@@ -520,6 +693,10 @@ novelas-ejemplares:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 un-modelo-para-la-muerte:
@@ -535,6 +712,12 @@ un-modelo-para-la-muerte:
     colophon: "'ESTE LIRBO SE TERMINÓ DE IMPRIMIR EL DÍA 29 DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y SEIS, EN / LA IMPRENTA LÓPEZ, PERÚ 666, BUENOS AIRES, REPÚBLICA ARGENTINA.' ([35])."
     binding: "A hard-cover book half-bound in marbled paper with a blue cloth spine (same as Dos fantasias memorables). The printed label on the spine reads: 'B. SUÁREZ LYNCH UN MODELO PARA LA MUERTE'.This book was part of a limited run of 300 copies, each numbered 1 to 300. This specific copy is 161/300."
     illustrations: "There are a series of drawn images throughout this work (they usually appear at the end of a section or an act). They are all grotesque distortions of animals or humans."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 D67 1946. Copy 2"
 
 nueva-refutación-del-tiempo:
@@ -549,6 +732,10 @@ nueva-refutación-del-tiempo:
     typography: ""
     colophon: "'SE TERMINO DE IMPRIMIR EL 7 DE MAYO DE 1947 EN CASA DE DON FRANCISCO A. COLOMBO HORTIGUERA 552 BUENOS AIRES.' ([37])"
     binding: "A crème-colored soft-cover book that resembles a pamphlet more than a book."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source: "United States. Duke University Library. Call number: PQ7797 .B635 N8 1947."
 
 los-mejores-cuentos-policiales-3:
@@ -563,6 +750,11 @@ los-mejores-cuentos-policiales-3:
     typography: ""
     colophon: "'ESTA TERCERA EDICIÓN DE 'LOS MEJORES CUENTOS POLICIALES' SE TERMINÓ DE IMPRIMIR EN LA IMPRENTA BALMES, RAUCH 1847, BUENOS AIRES, EL DÍA 15 DEL MES DE ENERO DE 1947.' ([299])"
     binding: "A soft-cover book with a unique cover illustration designed by José Bonomi. The text on the spine reads: 'LOS MEJORES CUENTOS POLICIALES EMECÉ EDITORES S. A.'. This book is the second work in Emecé Editores’s 'Colección Piragua'. The front cover has a unique illustration (that is virtually identical to the first and second editions of this same first series) designed by J. A. Ballester Peña. The back cover lists the price of this volume as '$ 4.50 m/arg'. The front inside flap describes the work at hand, and stresses its commercial successes: 'Al dar a la estampa la tercera edición de esta obra lo hacemos con la repetida satisfacción de ofrecer al público una nueva reimpresión urgentemente reclamada.' The back inside flap of the cover contains a list of recent publications in Emecé Editores’s 'Séptimo Círculo' series (#20-36) with their respective prices."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  source:
 
 arquitectura-del-insomnio:
   title: Arquitectura del insomnio
@@ -577,6 +769,10 @@ arquitectura-del-insomnio:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 prosa-y-verso:
@@ -592,6 +788,10 @@ prosa-y-verso:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 antigua-lumbre:
@@ -606,6 +806,10 @@ antigua-lumbre:
     typography: ""
     colophon: "'SE TERMINO DE IMPRIMIR EL 10 DE NOVIEMBRE DE 1949 EN CASA DE DON FRANCISCO A. COLOMBO HORTIGUERA 552 BUENOS AIRES.' ([63])"
     binding: "A crème-colored soft-cover book. The title page has black and red printing: 'WALLY ZENNER ANTIGUA LUMBRE Con un prefacio de Jorge Luis Borges y un dijo de León Benarós BUENOS AIRES 1949' ([5]). The spine reads (in black and _red_): 'WALLY ZENNER – _ANTIGUA LUMBRE_'. "
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
   source:
 
 el-aleph:
@@ -620,6 +824,12 @@ el-aleph:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertiments:
+    images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 A7 1949 Copy 1, Copy 2."
 
 de-los-héroes:
@@ -635,6 +845,10 @@ de-los-héroes:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 hombres-representativos:
@@ -650,6 +864,10 @@ hombres-representativos:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 ferment:
@@ -665,6 +883,10 @@ ferment:
     typography: ""
     colophon: ""
     binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: ""
 
 buenos-aires-en-tinta-china:
@@ -681,6 +903,12 @@ buenos-aires-en-tinta-china:
     colophon: "'Acabado de imprimir el 29 de marzo de 1951 Artes Gráficas Amorrortu – Luca 2227 – Buenos Aires' ([6])."
     binding: "A white hard-cover book with a light-blue dust jacket. The text on the dust jacket is in white and black: 'BUENOS AIRES | EN TINTA CHINA DIBUJOS DE ATTILIO ROSSI Prólogo de JORGE LUIS BORGES – Poema de RAFAEL ALBERTI EDITORIAL LOSADA, S. A. BUENOS AIRES'. The text on the spine, in black, reads: 'ATTILIO ROSSI BUENOS AIRES EN TINTA CHINA [Illustration by Rossi] EDITORIAL LOSADA, S. A. BUENOS AIRES'."
     illustrations: "The entire book is full of various illustrations, which would be too much to include here without simply making a copy of the entire volume."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "Personal copy."
 
 antiguas-literaturas-germánicas:
@@ -695,7 +923,69 @@ antiguas-literaturas-germánicas:
     typography: ""
     colophon: "'Este libro se acabó de imprimir el día 14 de septiembre de 1951, en los talleres de Gráfica Panamericana, S. de R. L., Pánuco 63, México, D. F. De él se tiraron 8,000 ejemplares. En su composición se utilizaron tipos Janson 11:12, 10:11 y 9:10. Se encuadernó en la Encuadernación Ca-brera, Comonfort 29-A. La edición estuvo al cuidado de Alí Chumacero.' ([181])."
     binding: "A hard-cover book with a cover illustration of a 13th century manuscript. The text on the spine reads: 'J. L. Borges: ANTIGUAS LITERATURAS GERMÁNICAS 53'. The back cover of the dust jacket describes the 'Breviarios' series. There is also a listing of other subjects included in the 'Breviarios' series on the back cover. The front interior flap provides readers with a summary of the contents of this work. The back interior flap lists other titles produced in the 'Breviarios' series."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "Personal copy."
+
+la-muerte-y-la-brújula:
+  title: La muerte y la brújula
+  author: Jorge Luis Borges
+  date: 1951
+  publisher: emecé-editores
+  printer: los-talleres-gráficos-de-la-compañía-impresora-argentina
+  descriptive_bibliography:
+    gatherings: ""
+    paper: ""
+    typography: ""
+    colophon: ""
+    binding: ""
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
+  source: ""
+
+los-mejores-cuentos-policiales-segunda-serie:
+  title: "Los mejores cuentos policiales (segunda serie)"
+  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  date: 1951
+  publisher: emecé-editores
+  printer: ""
+  descriptive_bibliography:
+    gatherings: ""
+    paper: ""
+    typography: ""
+    colophon: ""
+    binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
+  source: ""
+
+los-mejores-cuentos-policiales-segunda-serie-2:
+  title: "Los mejores cuentos policiales (segunda serie)"
+  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  date: 1952
+  publisher: emecé-editores
+  printer: ""
+  descriptive_bibliography:
+    gatherings: ""
+    paper: ""
+    typography: ""
+    colophon: ""
+    binding: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
+  source: ""
 
 el-aleph-2:
   title: El Aleph
@@ -709,6 +999,12 @@ el-aleph-2:
     typography: ""
     colophon: "'Este libro se terminó de imprimir el día 16 de junio de 1952, en Macagno, Landa y Cía., Aráoz 162 – Buenos Aires.' ([6])"
     binding: "An olive-green soft-cover book with an original drawing on the front cover. The text on the front cover is black, red, and white: 'JORGE LUIS BORGES EL ALEPH [Original drawing] EDITORIAL LOSADA, S. A. BUENOS AIRES'. The spine, in black with a red illustration, reads: 'JORGE LUIS BORGES EL ALEPH [illustration] [Losada logo] EDITORIAL LOSADA, S. A. BUENOS AIRES'. The interior flaps remain intact. The front flap describes the collection, with several reviews since the original publication of this book (1949); the back flap lists other books published by Losada."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertiments:
+    images: ""
   source: "Personal copy."
 
 homenaje-a-francisco-almeyra:
@@ -723,6 +1019,12 @@ homenaje-a-francisco-almeyra:
     typography: ""
     colophon: "'Se imprimió en la casa de Francisco A. Colombo Hortiguera 552 Bs. As.' ([46])"
     binding: "A soft-cover crème-colored book that much resembles a pamphlet (much like Nueva refutación del tiempo). There is no price or additional information on the binding."
+  bookcover: ""
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
   source: "United States. University of Cincinnati. Call number: PQ7797 .B52 H6 1954"
 
 los-mejores-cuentos-policiales-segunda-serie-3:
@@ -737,4 +1039,8 @@ los-mejores-cuentos-policiales-segunda-serie-3:
     typography: ""
     colophon: "None present in the volume."
     binding: "A soft-cover book with a unique cover illustration designed by José Bonomi. The text on the spine reads: 'LOS MEJORES CUENTOS POLICIALES segunda serie EMECÉ'. Each of the short stories included in this collection are printed on the back cover. The price of the volume is also printed on the back cover: '$ 46. – m/arg'. The cover has been split and re-adhered to the front and back of the text block, making it impossible to open the first few pages of the book."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
   source: "Personal copy."
