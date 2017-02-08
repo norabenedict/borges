@@ -21,3 +21,12 @@ img{max-width: 100%; width: auto;}
   overflow-y: scroll;
   border: 1px solid midnightblue;
 }
+
+.description {
+  display: none;
+}
+
+
+:target .description {
+  display: block;
+}
