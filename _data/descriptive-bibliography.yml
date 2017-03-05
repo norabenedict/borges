@@ -84,6 +84,24 @@ historia-universal-de-la-infamia:
     images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 H5 1935."
 
+la-prison-de-lenfant:
+  title: "La prison de l'enfant"
+  author: Gloria Alcorta
+  prologue: Jorge Luis Borges
+  year: 1935
+  printer: los-talleres-gráficos-el-colón
+  descriptive_bibliography:
+    gatherings: "In-4º; loose gatherings with lithographs inserted. Not sewn."
+    paper: "Whatman paper. Wove. No visible chain or wire lines."
+    typography: ""
+    colophon: "Ce livre préfacé par G. L. Borges, contenant sept lithogra-phies de Héctor Basaldúa, a été tire à cinquante exem- plaires sur papier Wathman numérotés de 1 à 50, à 200 exemplaires sur papier Pergament numérotés de 51 á 250. Le present ouvrage a été achevé d’imprimer le 9 septembre 1935, sur les presses de Francisco A. Colombo, à Buenos Aires Cet exemplaire qui porte le numéro 12 a été imrpimé pour Oliverio Girondo"
+    binding: "Loose gatherings with lithographs inserted. Not sewn. The spine of the cover (not attached to the interior pages) reads reads (in black and red): 'LA PRISON DE L’ENFANT – GLORIA ALCORTA'."
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
+  source: "United States. University of Virginia. Call number: PQ7797 .B635 H475 1936"
+
 historia-de-la-eternidad:
   title: Historia de la eternidad
   author: Jorge Luis Borges
@@ -103,24 +121,6 @@ historia-de-la-eternidad:
   advertisements:
     images: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 H475 1936."
-
-la-prison-de-lenfant:
-  title: "La prison de l'enfant"
-  author: Gloria Alcorta
-  prologue: Jorge Luis Borges
-  year: 1935
-  printer: los-talleres-gráficos-el-colón
-  descriptive_bibliography:
-    gatherings: "In-4º; loose gatherings with lithographs inserted. Not sewn."
-    paper: "Whatman paper. Wove. No visible chain or wire lines."
-    typography: ""
-    colophon: "Ce livre préfacé par G. L. Borges, contenant sept lithogra-phies de Héctor Basaldúa, a été tire à cinquante exem- plaires sur papier Wathman numérotés de 1 à 50, à 200 exemplaires sur papier Pergament numérotés de 51 á 250. Le present ouvrage a été achevé d’imprimer le 9 septembre 1935, sur les presses de Francisco A. Colombo, à Buenos Aires Cet exemplaire qui porte le numéro 12 a été imrpimé pour Oliverio Girondo"
-    binding: "Loose gatherings with lithographs inserted. Not sewn. The spine of the cover (not attached to the interior pages) reads reads (in black and red): 'LA PRISON DE L’ENFANT – GLORIA ALCORTA'."
-  bookcover: ""
-  typespecimen:
-    image: ""
-    description: ""
-  source: "United States. University of Virginia. Call number: PQ7797 .B635 H475 1936"
 
 perséphone:
   title: Perséphone

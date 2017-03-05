@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset='utf-8'>
-<title>Borges DH: Mapping Jorge Luis Borges in the Argentine Publishing Industry (1930-1951)</title>
+<title>"Mapping Borges"</title>
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
@@ -8,12 +8,26 @@
 <script src="{{ site.baseurl }}/locations.js"></script>
 
 <header>
-  <h1>Mapping Jorge Luis Borges in the Argentine Publishing Industry (1930-1951)</h1>
-  <nav>
-    <a href="{{ site.baseurl }}/">Home</a>
-    <a href="{{ site.baseurl }}/map/">Map</a>
-    <a href="{{ site.baseurl }}/descriptive-bibliography/">Descriptive Bibliography</a>
-  </nav>
+  <h1>Mapping Borges</h1>
+  <div class="container">
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/map/">Map</a></li>
+        <li><a href="{{ site.baseurl }}/descriptive-bibliography/">Descriptive Bibliography</a></li>
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+        {% if p.navigation_weight %}
+          <li>
+            <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+              {{ p.title }}
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+</div>
 </header>
 <main>
   {{ content }}
