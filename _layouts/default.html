@@ -12,12 +12,10 @@
   <div class="container">
     <nav>
       <ul>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/map/">Map</a></li>
-        <li><a href="{{ site.baseurl }}/descriptive-bibliography/">Descriptive Bibliography</a></li>
-        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+
+        {% assign navigation_pages = site.html_pages | sort: "order" %}
         {% for p in navigation_pages %}
-        {% if p.navigation_weight %}
+        {% if p.order %}
           <li>
             <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
               {{ p.title }}

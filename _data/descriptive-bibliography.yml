@@ -240,6 +240,9 @@ diez-poemas-sin-poesía:
 mallarmé-entre-nosotros:
   title: Mallarmé entre nosotros
   author: Alfonso Reyes
+  editor:
+    - Jorge Luis Borges
+    - Adolfo Bioy Casares
   year: 1938
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
@@ -279,7 +282,10 @@ la-metamorfosis:
 
 antología-de-la-literatura-fantástica:
   title: Antología de la literatura fantástica
-  editors: Jorge Luis Borges, Adolfo Bioy Casares, Silvina Ocampo
+  editor:
+    - Jorge Luis Borges
+    - Adolfo Bioy Casares
+    - Silvina Ocampo
   year: 1940
   publisher: editorial-sudameriana
   printer: los-talleres-gráficos-j-hays-bell
@@ -336,7 +342,10 @@ el-jardín-de-senderos-que-se-bifurcan:
 
 antología-poética-argentina:
   title: Antología poética argentina
-  editors: Jorge Luis Borges, Adolfo Bioy Casares, Silvina Ocampo
+  editor:
+    - Jorge Luis Borges
+    - Adolfo Bioy Casares
+    - Silvina Ocampo
   year: 1941
   publisher: editorial-sudamericana
   printer: los-talleres-gráficos-j-hays-bell
@@ -394,7 +403,9 @@ seis-problemas-para-don-isidro-parodi:
 
 los-mejores-cuentos-policiales:
   title: Los mejores cuentos policiales
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   year: 1943
   publisher: emecé-editores
   printer: ""
@@ -494,7 +505,9 @@ recuerdos-del-porvenir:
 
 los-mejores-cuentos-policiales-2:
   title: Los mejores cuentos policiales
-  editors: "Jorge Luis Borges and Adolfo Bioy Casares"
+  editor:
+    - Jorge Luis Borges
+    - Adolfo Bioy Casares
   year: 1944
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
@@ -512,7 +525,9 @@ los-mejores-cuentos-policiales-2:
 
 el-compadrito:
   title: El compadrito
-  editors: Jorge Luis Borges and Sylvina Bullrich Palenque
+  editor:
+    - Jorge Luis Borges
+    - Sylvina Bullrich Palenque
   year: 1945
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
@@ -740,7 +755,9 @@ nueva-refutación-del-tiempo:
 
 los-mejores-cuentos-policiales-3:
   title: Los mejores cuentos policiales
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   year: 1947
   publisher: emecé-editores
   printer: imprenta-balmes
@@ -778,7 +795,9 @@ arquitectura-del-insomnio:
 prosa-y-verso:
   title: Prosa y verso
   author: Francisco de Quevedo
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   year: 1948
   publisher: emecé-editores
   printer: ""
@@ -913,7 +932,9 @@ buenos-aires-en-tinta-china:
 
 antiguas-literaturas-germánicas:
   title: Antiguas literaturas germánicas
-  editors: Delia Ingenieros and Jorge Luis Borges
+  editor:
+    - Delia Ingenieros
+    - Jorge Luis Borges
   date: 1951
   publisher: fondo-de-la-cultura-económica
   printer: los-talleres-de-gráfica-panamericana
@@ -953,7 +974,9 @@ la-muerte-y-la-brújula:
 
 los-mejores-cuentos-policiales-segunda-serie:
   title: "Los mejores cuentos policiales (segunda serie)"
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   date: 1951
   publisher: emecé-editores
   printer: ""
@@ -971,7 +994,9 @@ los-mejores-cuentos-policiales-segunda-serie:
 
 los-mejores-cuentos-policiales-segunda-serie-2:
   title: "Los mejores cuentos policiales (segunda serie)"
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   date: 1952
   publisher: emecé-editores
   printer: ""
@@ -1029,7 +1054,9 @@ homenaje-a-francisco-almeyra:
 
 los-mejores-cuentos-policiales-segunda-serie-3:
   title: Los mejores cuentos policiales
-  editors: Adolfo Bioy Casares and Jorge Luis Borges
+  editor:
+    - Adolfo Bioy Casares
+    - Jorge Luis Borges
   date: 1956
   publisher: emecé-editores
   printer: ""

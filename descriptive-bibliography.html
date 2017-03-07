@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Descriptive Bibliography
+order: 3
 ---
-
 <ul>
 {% for bibliography in site.data.descriptive-bibliography %}
 {% assign work = bibliography[1] %}
@@ -21,3 +21,11 @@ title: Descriptive Bibliography
   </li>
 {% endfor %}
 </ul>
+
+<div class="timeline">
+         <div class="timeline-item active">
+             <div class="year"> {{ work.year }} <span class="marker"><span class="dot"></span></span>
+             </div>
+             <div class="info"> {{ work.title }} </div>
+         </div>
+</div>
