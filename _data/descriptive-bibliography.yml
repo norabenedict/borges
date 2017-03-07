@@ -1,7 +1,7 @@
 evaristo-carriego:
   title: Evaristo Carriego
   author: Jorges Luis Borges
-  year: 1930
+  date: 1930-09-30
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -26,7 +26,7 @@ evaristo-carriego:
 discusión:
   title: Discusión
   author: Jorge Luis Borges
-  year: 1932
+  date: 1932-07-30
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -46,7 +46,7 @@ discusión:
 las-kenningar:
   title: Las Kenningar
   author: Jorge Luis Borges
-  year: 1933
+  date: 1933-01-01
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: "4º: 1-34 44 (-14), 15 leaves, pp. [1-6] 7-26 [27-30]"
@@ -67,7 +67,7 @@ las-kenningar:
 historia-universal-de-la-infamia:
   title: Historia universal de la infamia
   author: Jorge Luis Borges
-  year: 1935
+  date: 1935-30-07
   publisher: editorial-tor
   printer: editorial-tor
   descriptive_bibliography:
@@ -88,7 +88,7 @@ la-prison-de-lenfant:
   title: "La prison de l'enfant"
   author: Gloria Alcorta
   prologue: Jorge Luis Borges
-  year: 1935
+  date: 1935-09-09
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: "In-4º; loose gatherings with lithographs inserted. Not sewn."
@@ -105,7 +105,7 @@ la-prison-de-lenfant:
 historia-de-la-eternidad:
   title: Historia de la eternidad
   author: Jorge Luis Borges
-  year: 1936
+  date: 1936-29-04
   publisher: viau-y-zona
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -127,7 +127,7 @@ perséphone:
   author: André Gide
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  year: 1936
+  date: 1936-15-05
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -147,7 +147,7 @@ un-cuarto-propio:
   author: Virginia Woolf
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  year: 1936
+  date: 1936-01-01
   publisher: Editorial Sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -165,7 +165,7 @@ un-cuarto-propio:
 luis-greve-muerto:
   title: "Luis Greve, muerto"
   author: Adolfo Bioy Casares
-  year: 1937
+  date: 1937-06-15
   publishing house: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -183,7 +183,7 @@ luis-greve-muerto:
 marea-de-lágrimas:
   title: Marea de lágrimas
   author: Ulyses Petit de Murat
-  year: 1937
+  date: 1937-01-01
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -202,7 +202,7 @@ orlando:
   title: Orlando
   author: Virginia Woolf
   translator: Jorge Luis Borges
-  year: 1937
+  date: 1937-06-30
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -222,7 +222,7 @@ orlando:
 diez-poemas-sin-poesía:
   title: Diez poemas sin poesía
   author: Nicolás Olivari
-  year: 1938
+  date: 1938-05-23
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -243,7 +243,7 @@ mallarmé-entre-nosotros:
   editor:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
-  year: 1938
+  date: 1938-05-11
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -263,7 +263,7 @@ la-metamorfosis:
   author: Franz Kafka
   translation: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  year: 1938
+  date: 1938-08-15
   publisher: editorial-losada
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -286,7 +286,7 @@ antología-de-la-literatura-fantástica:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
     - Silvina Ocampo
-  year: 1940
+  date: 1940-12-24
   publisher: editorial-sudameriana
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
@@ -305,7 +305,7 @@ la-invención-de-morel:
   title: La invención de Morel
   author: Adolfo Bioy Casares
   prologue: Jorge Luis Borges
-  year: 1940
+  date: 1940-01-01
   publisher: editorial-losada
   printer: ""
   descriptive_bibliography:
@@ -323,7 +323,7 @@ la-invención-de-morel:
 el-jardín-de-senderos-que-se-bifurcan:
   title: El jardín de senderos que se bifurcan
   author: Jorge Luis Borges
-  year: "1941/1942"
+  date: 1941-12-31
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -346,7 +346,7 @@ antología-poética-argentina:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
     - Silvina Ocampo
-  year: 1941
+  date: 1941-12-04
   publisher: editorial-sudamericana
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
@@ -366,7 +366,7 @@ un-bárbaro-en-asia:
   author: Henri Michaux
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  year: 1941
+  date: 1941-07-14
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -384,7 +384,7 @@ un-bárbaro-en-asia:
 seis-problemas-para-don-isidro-parodi:
   title: Seis problemas para don Isidro Parodi
   author: "H. Bustos Domecq (Jorge Luis Borges and Adolfo Bioy Casares)"
-  year: 1942
+  date: 1942-12-10
   publisher: editorial-sur
   printer: imprenta-iglesias-y-matera
   descriptive_bibliography:
@@ -406,7 +406,7 @@ los-mejores-cuentos-policiales:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  year: 1943
+  date: 1943-01-01
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -428,7 +428,7 @@ bartleby:
   author: Herman Melville
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  year: 1943
+  date: 1943-10-30
   publisher: emecé-editores
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
@@ -446,7 +446,7 @@ bartleby:
 poemas:
   title: "Poemas (1922-1943)"
   author: Jorge Luis Borges
-  year: 1943
+  date: 1943-12-17
   publisher: editorial-losada
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -467,7 +467,7 @@ poemas:
 ficciones:
   title: Ficciones
   author: Jorge Luis Borges
-  year: 1944
+  date: 1944-12-04
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -488,7 +488,7 @@ recuerdos-del-porvenir:
   title: Recuerdos del porvenir
   author: Domingo F. Sarmiento
   prologue: Jorge Luis Borges
-  year: 1944
+  date: 1944-05-15
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
@@ -508,7 +508,7 @@ los-mejores-cuentos-policiales-2:
   editor:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
-  year: 1944
+  date: 1944-11-12
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
@@ -528,7 +528,7 @@ el-compadrito:
   editor:
     - Jorge Luis Borges
     - Sylvina Bullrich Palenque
-  year: 1945
+  date: 1945-02-10
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
@@ -545,7 +545,7 @@ el-compadrito:
 cabeza-yacente:
   title: Cabeza yacente
   author: Vicente Barbieri
-  year: 1945
+  date: 1945-02-20
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -564,7 +564,7 @@ pragmatismo:
   title: "Pragmatismo: un nombre nuevo para algunos viejos modos de pensar"
   author: William James
   prologue: Jorge Luis Borges
-  year: 1945
+  date: 1945-01-01
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -583,7 +583,7 @@ sartor-resartus:
   title: Sartor Resartus
   author: Thomas Carlyle
   prologue: Jorge Luis Borges
-  year: 1945
+  date: 1945-01-02
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -603,7 +603,7 @@ la-humillación-de-los-northmore:
   author: Henry James
   translator: Haydée Lange
   prologue: Jorge Luis Borges
-  year: 1945
+  date: 1945-04-26
   publisher: emecé-editores
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
@@ -622,7 +622,7 @@ bocetos-californianos:
   title: Bocetos californianos
   author: Francis Bret Harte
   prologue: Jorge Luis Borges
-  year: 1945
+  date: 1945-01-03
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -640,7 +640,7 @@ bocetos-californianos:
 dos-fantasías-memorables:
   title: Dos fantasías memorables
   author: "H. Bustos Domecq (Jorge Luis Borges and Adolfo Bioy Casares)"
-  year: 1946
+  date: 1946-11-29
   publisher: editorial-oportet-haereses
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -661,7 +661,7 @@ fausto:
   title: Fausto
   author: Estanislao del Campo
   prologue: Jorge Luis Borges
-  year: 1946
+  date: 1946-01-01
   publisher: editorial-nova
   printer: ""
   descriptive_bibliography:
@@ -680,7 +680,7 @@ juárez-y-maximiliano:
   title: Juárez y Maximiliano
   author: Franz Werfel
   prologue: Jorge Luis Borges
-  year: 1946
+  date: 1946-01-02
   publishing house: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -699,7 +699,7 @@ novelas-ejemplares:
   title: Novelas ejemplares
   author: Miguel de Cervantes
   prologue: Jorge Luis Borges
-  year: 1946
+  date: 1946-01-03
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -717,7 +717,7 @@ novelas-ejemplares:
 un-modelo-para-la-muerte:
   title: Un modelo para la muerte
   author: "B. Suárez Lynch (Jorge Luis Borges and Adolfo Bioy Casares)"
-  year: 1946
+  date: 1946-11-29
   publisher: editorial-oportet-haereses
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -738,7 +738,7 @@ un-modelo-para-la-muerte:
 nueva-refutación-del-tiempo:
   title: Nueva refutación del tiempo
   author: Jorge Luis Borges
-  year: 1947
+  date: 1947-05-07
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -758,7 +758,7 @@ los-mejores-cuentos-policiales-3:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  year: 1947
+  date: 1947-01-05
   publisher: emecé-editores
   printer: imprenta-balmes
   descriptive_bibliography:
@@ -777,7 +777,7 @@ arquitectura-del-insomnio:
   title: Arquitectura del insomnio
   author: Ema Risso Platero
   prologue: Jorge Luis Borges
-  year: 1948
+  date: 1948-01-01
   publisher: ediciones-botella-al-mar
   printer: ""
   descriptive_bibliography:
@@ -798,7 +798,7 @@ prosa-y-verso:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  year: 1948
+  date: 1948-01-02
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -817,7 +817,7 @@ antigua-lumbre:
   title: Antigua lumbre
   author: Wally Zenner
   preface: Jorge Luis Borges
-  year: 1949
+  date: 1949-11-10
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: "4º: 1-84, 32 leaves, pp. 64 total"
@@ -834,7 +834,7 @@ antigua-lumbre:
 el-aleph:
   title: El Aleph
   author: Jorge Luis Borges
-  year: 1949
+  date: 1949-01-01
   publisher: editorial-losada
   printer: ""
   descriptive_bibliography:
@@ -855,7 +855,7 @@ de-los-héroes:
   title: De los héroes
   author: Thomas Carlyle
   prologue: Jorge Luis Borges
-  year: 1949
+  date: 1949-01-02
   publisher: w-m-jackson
   printer: ""
   descriptive_bibliography:
@@ -874,7 +874,7 @@ hombres-representativos:
   title: Hombres representativos
   author: Ralph Waldo Emerson
   prologue: Jorge Luis Borges
-  year: 1949
+  date: 1949-01-03
   publisher: w-m-jackson
   printer: ""
   descriptive_bibliography:
@@ -893,7 +893,7 @@ ferment:
   title: Ferment
   author: William Shand
   prologue: Jorge Luis Borges
-  year: 1950
+  date: 1950-01-01
   publisher: ediciones-botella-al-mar
   printer: ""
   descriptive_bibliography:
@@ -912,7 +912,7 @@ buenos-aires-en-tinta-china:
   title: Buenos Aires en tinta china
   author: Attilio Rossi
   prologue: Jorge Luis Borges
-  year: 1951
+  date: 1951-03-29
   publisher: editorial-losada
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
@@ -935,7 +935,7 @@ antiguas-literaturas-germánicas:
   editor:
     - Delia Ingenieros
     - Jorge Luis Borges
-  date: 1951
+  date: 1951-09-14
   publisher: fondo-de-la-cultura-económica
   printer: los-talleres-de-gráfica-panamericana
   descriptive_bibliography:
@@ -955,7 +955,7 @@ antiguas-literaturas-germánicas:
 la-muerte-y-la-brújula:
   title: La muerte y la brújula
   author: Jorge Luis Borges
-  date: 1951
+  date: 1951-01-01
   publisher: emecé-editores
   printer: los-talleres-gráficos-de-la-compañía-impresora-argentina
   descriptive_bibliography:
@@ -977,7 +977,7 @@ los-mejores-cuentos-policiales-segunda-serie:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  date: 1951
+  date: 1951-01-02
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -997,7 +997,7 @@ los-mejores-cuentos-policiales-segunda-serie-2:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  date: 1952
+  date: 1952-01-01
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -1015,7 +1015,7 @@ los-mejores-cuentos-policiales-segunda-serie-2:
 el-aleph-2:
   title: El Aleph
   author: Jorge Luis Borges
-  date: 1952
+  date: 1952-01-01
   publisher: editorial-losada
   printer: macagno-landa-y-cía
   descriptive_bibliography:
@@ -1035,7 +1035,7 @@ el-aleph-2:
 homenaje-a-francisco-almeyra:
   title: Homenaje a Francisco Almeyra
   author: Adolfo Bioy Casares
-  year: 1954
+  date: 1954-01-01
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -1057,7 +1057,7 @@ los-mejores-cuentos-policiales-segunda-serie-3:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  date: 1956
+  date: 1956-01-01
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
