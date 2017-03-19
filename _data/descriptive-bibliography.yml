@@ -6,12 +6,12 @@ evaristo-carriego:
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: "8º: 1-8, 68 leaves, [1-8] 9-10 [11-12] 13-28 [29-30] 31-47 [48-50] 51-68 [69-70] 71-93 [94-96] 97-99 [100-102] 103-118 [119-128]"
+    title-page: "JORGE LUIS BORGES | EVARISTO CARRIEGO | [logo of M. Gleizer] | M. GLEIZER – EDITOR | TRIUNVIRATO 537 | BUENOS AIRES – 1930"
     paper: "Wove. A great deal of foxing. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. The pages are cut to a uniform size, but some of the edges are slightly jagged."
-    typography: ""
     colophon: "'Este libro terminóse de imprimir el 30 de Setiembre de mil novecientos treinta en los talleres gráficos “Colón”, de Francisco A. Colombo, San Antonio de Areco, Sucursal: Hortiguera 552 Bs. As. para la Editorial M. Gleizer' ([125])"
     binding: "Light pink, soft-cover book. Since the cover of this copy is detached, it is easier to tell that this thicker piece of cardboard-like paper (with a very smooth (almost glossy) finish) was simply glued on to the book block. The cover has black lettering: 'JORGE LUIS BORGES EVARISTO CARRIEGO M. GLEIZER EDITOR TRIUNVIRATO 537 BUENOS AIRES 1930'. The printing on the spine reads: 'JORGE LUIS BORGES EVARISTO CARRIEGO M. GLEIZER EDITOR 1930'. The back cover as the insigna of M. Gleizer, the profile of a face that much resembles Erasmus along with the phrase “M. Gleizer” spelled out vertically alongside the face. In the bottom, right-hand corner of the back cover is the price of the volume, which has been obscured by a previous sticker (adhered and then peeled off at one point). No protective tissue-paper layer protects the covers. The pages in this copy lay flat and it is much easier to see the stitching at the center of each gathering (one single stitch loop)."
     illustrations: "A portrait of Evaristo Carriego (in the first gathering); an image of a manuscript of Evaristo Carriego’s work (in the first gathering); Two images of street scenes in Buenos Aires (in the third gathering; taken by Horacio Coppola): 'Casas de barrio en Buenos Aires. Jaurés (antes Bermejo) al 1000.' & 'Esquina en las'"
-  bookcover: "ficciones.jpg"
+  bookcover: "evaristo-carriego-cover.jpg"
   typespecimen:
     images:
       - "evaristo-carriego1.jpg"
@@ -19,9 +19,26 @@ evaristo-carriego:
       - "evaristo-carriego-colophon.jpg"
       - "evaristo-carriego-printersmark.jpg"
     description: ""
-  advertisements:
-    images: ""
-  source: "United States. University of Virginia. Call number: PQ7797 .B635 E92 1930. Copy 1, Copy 3"
+  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 E92 1930. Copy 1 & Copy 3."
+
+cementerio-marino:
+  title: El cementerio marino
+  author: Paul Valéry
+  prologue: Jorge Luis Borges
+  date: 1931-12-16
+  publisher: ediciones-schillinger
+  printer: los-talleres-gráficos-el-colón
+  descriptive_bibliography:
+    gatherings: 4º: 1-5, 18 leaves, pp. [1-4] 5-31 [32-36]
+    title-page: "EL CEMENTERIO | MARINO | DE PAUL VALERY | TRADUCCION DE | NESTOR IBARRA | PREFACIO DE | JORGE LUIS BORGES | EDICIONES SCHILLINGER | VIAMONTE 927 – BUENOS AIRES"
+    paper: "Wove. No visible chain or wires lines on the pages. Very clean, white pages of a heavy weight. All pages are cut to a uniform length."
+    colophon: “TERMINÓSE DE IMPRIMIR EL 16 DE DICIEMBRE DE | 1931, EN LOS TALLERES GRÁFICOS | DE FRANCISCO A. COLOMBO | SAN ANTONIO DE ARECO Y | BUENOS AIRES” ([34])
+    binding: Does not maintain the original binding.
+  bookcover: "cementerio-marino-cover.jpg"
+  typespecimen:
+    image: ""
+    description: ""
+  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 Z42 .V34 C55 1931. This specific copy is numer 74/500 numbered copies. There are also hand-written corrections in black ink throughout the preface by Borges. This copy is a rebound book since there are the initals “J. L. B.” printed on the spine in gold."
 
 discusión:
   title: Discusión
@@ -31,17 +48,16 @@ discusión:
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: "8º: 110 (+13, +18) 28 310 (+31, +310) 4-88, 68 leaves, pp. 168 total"
-    paper: "Wove. Yellowing due to age, but no appearance of spots. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. The pages are cut to a uniform size and are cut slightly more than the second copy in the collection."
-    typography: "A modern serif font similar to Bodoni or one of its variants. There are different size typefaces throughout the text. The letters are well spaced on the cover and title page, and also in each of the title headings."
+    paper: "Wove. Yellowing due to age, but no foxing. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. The pages are cut to a uniform size, yet there are slight differences in trimming between the two examined copies."
     colophon: "'ESTE PRIMER LIBRO DE LA COLECCIÓN DE NUEVOS ESCRITORES ARGENTINOS, SE TERMINÓ DE IMPRIMIR EL 30 DE JULIO DE 1932, POR EL IMPRESOR FRANCISCO A. COLOMBO, PARA LA EDITORIAL M. GLEIZER'([165])"
-    binding: "Re-bound hardcover book (that retains the original light grey soft-cover in the new binding). The cover is half-bound in a paisley-patterned cloth and the spine is a red leather with gold stamped letter that reads: 'JORGE LUIS BORGES DISCUSION'. The back cover is wrapped in the same paisley-patterned. Copy 1 is signed by Borges. Copy 2 has an inscription from Borges to 'Paco Luis'."
+    binding: "Khaki-colored, soft-cover book. The central text on the front page is boxed in. The cover has black and red lettering: 'COLECCION DE NUEVOS ESCRITORES ARGENTINOS | Jorge Luis Borges| DISCUSION | GLEIZER – EDITOR | BUENOS AIRES – 1932'. The printing on the spine reads: 'JORGE LUIS | BORGES | DISCUSION | C. N. E. A. | 1932'. The back cover has the insigna of M. Gleizer, the profile of a face that much resembles Erasmus along with the phrase “M. Gleizer” spelled out vertically alongside the face. In the bottom, left-hand corner of the back cover is the price of the volume: 'Precio $2.—''."
   bookcover: ""
   typespecimen:
     image: ""
-    description: ""
+    description: "A modern serif font similar to Bodoni or one of its variants. There are different size typefaces throughout the text. The letters are well spaced on the cover and title page, and also in each of the title headings."
   advertisements:
     images: ""
-  source: "United States. University of Virginia. Call number: PQ7797 .B635 D5 1932. Copy 1, Copy 2"
+  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 D5 1932. Copy 1 (signed by Borges; rebound book with a paisley-patterend cloth and spine in red leather) & Copy 2 (has an inscription from Borges to “Paco Luis”: “a Paco Luis, con un abrazo verdadero de Georgie”)"
 
 las-kenningar:
   title: Las Kenningar

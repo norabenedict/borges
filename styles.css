@@ -25,6 +25,13 @@ img {
   border: 1px solid midnightblue;
 }
 
+#descriptive-bibliography {
+  height: 80vh;
+  width: 60%;
+    float: right;
+  border: 1px solid black;
+}
+
 .container {
   with: 80%
   margin: 0 auto;
