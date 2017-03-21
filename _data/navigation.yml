@@ -4,3 +4,5 @@
   url: "/map/"
 - title: "Descriptive Bibliography"
   url: "/descriptive_bibliography/"
+- title: "About"
+  url: "/about/"
