@@ -1,0 +1,107 @@
+---
+layout: default
+title: timeline
+order: 5
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="timeline.css"> <!-- Resource style -->
+	<script src="/modernizr.js"></script> <!-- Modernizr -->
+
+</head>
+<body>
+<section class="cd-horizontal-timeline">
+<div class="timeline">
+	<div class="events-wrapper">
+		<div class="events">
+			<ol>
+				<li><a href="#0" data-date="30/09/1930" class="selected">1930</a></li>
+				<li><a href="#0" data-date="16/12/1931">1931</a></li>
+				<li><a href="#0" data-date="30/07/1932">1932</a></li>
+				<li><a href="#0" data-date="01/01/1933">1933</a></li>
+				<li><a href="#0" data-date="01/12/1934">1934</a></li>
+				<li><a href="#0" data-date="30/07/1935">1935</a></li>
+				<li><a href="#0" data-date="01/01/1936">1936</a></li>
+				<li><a href="#0" data-date="15/06/1937">1937</a></li>
+				<li><a href="#0" data-date="11/05/1938">1938</a></li>
+				<li><a href="#0" data-date="01/01/1940">1940</a></li>
+				<li><a href="#0" data-date="14/07/1941">1941</a></li>
+				<li><a href="#0" data-date="10/12/1942">1942</a></li>
+				<li><a href="#0" data-date="01/01/1943">1943</a></li>
+				<li><a href="#0" data-date="04/12/1944">1944</a></li>
+				<li><a href="#0" data-date="01/01/1945">1945</a></li>
+				<li><a href="#0" data-date="01/01/1946">1946</a></li>
+				<li><a href="#0" data-date="07/05/1947">1947</a></li>
+				<li><a href="#0" data-date="01/01/1948">1948</a></li>
+				<li><a href="#0" data-date="10/11/1949">1949</a></li>
+				<li><a href="#0" data-date="01/01/1950">1950</a></li>
+				<li><a href="#0" data-date="29/03/1951">1951</a></li>
+				<li><a href="#0" data-date="01/01/1952">1952</a></li>
+				<li><a href="#0" data-date="01/01/1954">1954</a></li>
+				<li><a href="#0" data-date="01/01/1956">1956</a></li>
+			</ol>
+
+			<span class="filling-line" aria-hidden="true"></span>
+		</div> <!-- .events -->
+	</div> <!-- .events-wrapper -->
+
+	<ul class="cd-timeline-navigation">
+		<li><a href="#0" class="prev inactive">Prev</a></li>
+		<li><a href="#0" class="next">Next</a></li>
+	</ul> <!-- .cd-timeline-navigation -->
+</div> <!-- .timeline -->
+
+<div class="events-content">
+	<ol>
+		<li class="selected" data-date="30/09/1930">
+		{% for bibliography in site.data.descriptive-bibliography %}
+		{% assign work = bibliography[1] %}
+		{% assign workkey = bibliography[0] %}
+			<h2>{{ work.title }} ({{ work.date | date: "1930" }})</h2>
+			<p1>
+				<div class="image">
+	        <img src="{{ site.baseurl }}/images/{{ work.bookcover }}" alt="">
+	      </div>
+			</p1>
+			<p2>
+	      <div class="description">
+	        {% for description in work.descriptive_bibliography %}
+	        <h2> {{ description[0] | upcase }} </h2>
+	        <p> {{ description[1] }} </p>
+	        {% endfor %}
+	      </div>
+			</p2>
+					{% endfor %}
+		</li>
+		<li data-date="30/07/1932">
+			{% for bibliography in site.data.descriptive-bibliography %}
+			{% assign work = bibliography[1] %}
+			{% assign workkey = bibliography[0] %}
+				<h2>{{ work.title }} ({{ work.date | date: "1932" }})</h2>
+				<p>
+		      <div class="description">
+		        {% for description in work.descriptive_bibliography %}
+		        <h2> {{ description[0] | upcase }} </h2>
+		        <p> {{ description[1] }} </p>
+		        {% endfor %}
+		      </div>
+				</p>
+						{% endfor %}
+			</li>
+	</ol>
+</div> <!-- .events-content -->
+</section>
+
+<script src="/jquery-2.1.4.js"></script>
+<script src="/jquery.mobile.custom.min.js"></script>
+<script src="/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>

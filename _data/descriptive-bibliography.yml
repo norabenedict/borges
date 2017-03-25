@@ -1,7 +1,7 @@
 evaristo-carriego:
   title: Evaristo Carriego
   author: Jorges Luis Borges
-  date: 1930-09-30
+  date: 30/09/1930
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -25,7 +25,7 @@ cementerio-marino:
   title: El cementerio marino
   author: Paul Valéry
   prologue: Jorge Luis Borges
-  date: 1931-12-16
+  date: 16/12/1931
   publisher: ediciones-schillinger
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -43,7 +43,7 @@ cementerio-marino:
 discusión:
   title: Discusión
   author: Jorge Luis Borges
-  date: 1932-07-30
+  date: 30/07/1932
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -158,7 +158,7 @@ perséphone:
   author: André Gide
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
-  date: 1936-15-05
+  date: 1936-05-15
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
@@ -361,7 +361,7 @@ la-invención-de-morel:
   title: La invención de Morel
   author: Adolfo Bioy Casares
   prologue: Jorge Luis Borges
-  date: 1940-01-01
+  date: 1940-01-02
   publisher: editorial-losada
   printer: ""
   descriptive_bibliography:
