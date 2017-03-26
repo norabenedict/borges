@@ -613,14 +613,14 @@ cabeza-yacente:
     paper: "Wove. Some yellowing due to age and the pages are quite brittle. No chain or wire lines are visible on the pages. The pages are cut to a uniform size.'De esta obra se han impreso trescientos ejemplares en papel Polar, numerados y firmados por el autor.'"
     colophon: "'Este libro se terminó de imprimir el día 20 de febrero de 1945, en casa de don Francisco A. Colombo, Hortiguera 552, Buenos Aires. Los aspectos artísticos y gráficos de la edición estuvieron a cargo de Gori Muñoz.'"
     binding: "Rebound library book."
-  bookcover: ""
+  bookcover: "cabeza-yacente.jpg"
   typespecimen:
     images: ""
     description: ""
   source: "United States. University of Texas Libraries. Call number: 868.8 B234C"
 
 pragmatismo:
-  title: "Pragmatismo: un nombre nuevo para algunos viejos modos de pensar"
+  title: "Pragmatismo"
   author: William James
   prologue: Jorge Luis Borges
   date: 1945-01-01
@@ -845,7 +845,7 @@ arquitectura-del-insomnio:
     typography: ""
     colophon: ""
     binding: ""
-  bookcover: ""
+  bookcover: "ema-risso-platero.jpg"
   typespecimen:
     image: ""
     description: ""
@@ -866,7 +866,7 @@ prosa-y-verso:
     typography: ""
     colophon: ""
     binding: ""
-  bookcover: ""
+  bookcover: "prosa-y-verso.jpg"
   typespecimen:
     image: ""
     description: ""
@@ -895,20 +895,20 @@ el-aleph:
   author: Jorge Luis Borges
   date: 1949-01-01
   publisher: editorial-losada
-  printer: ""
+  printer: macagno-landa-y-cía
   descriptive_bibliography:
-    gatherings: ""
-    title-page: "Jorge Luis Borges | LA MUERTE Y LA | BRÚJULA | [Emecé Editores logo] | EMECÉ EDITORES, S. A. | Buenos Aires"
-    paper: "Wove. Some foxing due to age. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. Some of the pages are cut to a uniform size, but the majority of the pages are uncut."
-    colophon: "ESTE LIBRO | SE ACABÓ DE IMPRIMIR | EN BUENOS AIRES | EL 21 DE SEPTIEMBRE DE 1951 | EN LOS TALLERES DE LA | COMPAÑÍA IMPRESORA | AREGENTINA, S.A., | ALSINA 2049” ([152])"
-    binding: "Soft-cover book. The cover has crème-colored lettering: “Jorge Luis Borges | LA MUERTE Y LA BRÚJULA”. The printing on the spine reads: “J. L. | Borges | LA | MUERTE | Y LA | BRÚJULA | EMECÉ”. There is an original cover illustration by F. Schonbach. The front cover design carries over to a small portion of the back cover (about 1/5 of the right side). The original price of the book is also included in the lower right-hand corner of the back: '$ 14. – m/arg.'"
+    gatherings: "8º: 1-98104, 76 leaves, pp. [1-6] 7-27 [28] 29-91 [92] 93-123 [124] 125-146 [147-152]"
+    title-page: "JORGE LUIS BORGES | EL ALEPH | [Editorial Losada logo] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
+    paper: "Wove. Vertical chain lines throughout. The pages have been cut to a uniform length and there is a slight amount of yellowing around the edge of each page. "
+    colophon: "Este libro se terminó de imprimir el día 26 de junio de 1949, en Macagno Landa y Cía., Aráoz 162-64, Buenos Aires, República Argentina. ([151])"
+    binding: "The front cover of this book is an olive-green cover with an original drawing. The back cover (and ¾ of the spine are a crème color). The back cover also has the Editorial Losada logo in the center, and a price listed in the bottom left-hand corner: '$ 7. –m/arg.'The text on the front cover is black and red: “JORGE LUIS BORGES | EL ALEPH | [Original drawing of the aleph] | EDITORIAL LOSADA, S. A. | BUENOS AIRES”. The spine, in black, reads: “JORGE | LUIS | BORGES | EL | ALEPH | [Editorial Losada logo] | EDITORIAL | LOSADA, | S. A. | BUENOS | AIRES”. The interior flaps remain intact, but they do not have any additional printed material on them."
   bookcover: "el-aleph.jpg"
   typespecimen:
     images: ""
     description: ""
   advertiments:
     images: ""
-  source: "Personal copy & United States. University of Virginia. Call number: PQ7797 .B635 A7 1949 Copy 1, Copy 2."
+  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call Number: PQ7797 .B635 A7 1949 Copy 1 & Copy 2. The first copy has a tipped in newspaper article write-up about the first publication of El Aleph from La Prensa (2 Oct. 1949)."
 
 ferment:
   title: Ferment
@@ -1007,7 +1007,7 @@ los-mejores-cuentos-policiales-segunda-serie:
     typography: ""
     colophon: ""
     binding: ""
-  bookcover: ""
+  bookcover: "los-mejores-cuentos-policiales-1951.jpg"
   typespecimen:
     image: ""
     description: ""
@@ -1027,7 +1027,7 @@ los-mejores-cuentos-policiales-segunda-serie-2:
     typography: ""
     colophon: ""
     binding: ""
-  bookcover: ""
+  bookcover: "los-mejores-cuentos-policiales-1952.jpg"
   typespecimen:
     image: ""
     description: ""
@@ -1065,7 +1065,7 @@ homenaje-a-francisco-almeyra:
     paper: "Wove. No visible chain or wire lines. Very thick paper with some slight yellowing due to age. The pages are cut to a uniform size. There are also hand-written notes and corrections by the author in this copy."
     colophon: "'Se imprimió en la casa de Francisco A. Colombo Hortiguera 552 Bs. As.' ([46])"
     binding: "A soft-cover crème-colored book that much resembles a pamphlet (much like Nueva refutación del tiempo). There is no price or additional information on the binding."
-  bookcover: ""
+  bookcover: "homenaje-a-francisco-almeyra.jpg"
   typespecimen:
     images: ""
     description: ""

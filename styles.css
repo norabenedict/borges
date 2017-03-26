@@ -3,11 +3,15 @@
 }
 html {
   color: black;
-  font-family: 'Libre Baskerville', serif;}
+  font-family: 'Libre Baskerville', serif;
+  line-height: 1.5;
+}
 
 img {
-  max-width: 100%;
+  max-width: 90%;
   width: auto;
+  max-height: 90%;
+  height: auto;
 }
 
 #map {
@@ -26,10 +30,22 @@ img {
 }
 
 #descriptive-bibliography {
-  height: 80vh;
+  height: 70vh;
   width: 60%;
     float: right;
-  border: 1px solid black
+  border: 1px solid black;
+  overflow-y: scroll;
+}
+
+.logo {
+  float: left;
+  height: 100px;
+  width: 140px;
+  display: inline-block;
+  float: left;
+  padding-top: 40px;
+  border: solid white 1px;
+  padding: 2px;
 }
 
 .container {
@@ -37,12 +53,9 @@ img {
   margin: 0 auto;
 }
 
-.logo {
-  float: left;
-}
 
 header {
-  background: #55d6aa;
+  background: #69D2E3;
 }
 
 header::after {
@@ -55,8 +68,9 @@ header h1 {
   float: left;
   padding: 10px 0;
   text-transform: uppercase;
-  font-family: 'Cormorant SC', serif;
+  font-family: 'Futura', sans-serif;
   font-size: 30px;
+  color: white;
 }
 
 nav {
@@ -78,9 +92,10 @@ nav li {
 }
 
 nav a {
-  color: #444;
+  color: white;
   text-decoration: none;
   text-transform: uppercase;
+  font-family: 'Futura', sans-serif;
   font-size: 14px;
   font-weight: 400;
 }
@@ -124,19 +139,10 @@ nav ul ul{
   background-color: #000;
 }
 
-.logo {
-    display: inline-block;
-    float: left;
-    padding-top: 40px;
-    border: solid black 1px;
-    padding: 2px;
-}
-
 .borges_images {
   float: right;
   margin-left 10px;
   margin-bottom: 5px;
-  border: solid
-  black 1px;
+  border: solid black 1px;
   padding: 2px
 }

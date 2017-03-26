@@ -1,7 +1,7 @@
 ---
 layout: default
-title: timeline
-order: 5
+title: Descriptive Bibliography
+order: 3
 ---
 
 <!doctype html>
@@ -61,14 +61,31 @@ order: 5
 
 <div class="events-content">
 	<ol>
-		<li class="selected" data-date="30/09/1930">
 		{% for bibliography in site.data.descriptive-bibliography %}
 		{% assign work = bibliography[1] %}
 		{% assign workkey = bibliography[0] %}
-			<h2>{{ work.title }} ({{ work.date | date: "1930" }})</h2>
+		<li class="selected" data-date:"30/09/1930">
+			<h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
 			<p1>
 				<div class="image">
-	        <img src="{{ site.baseurl }}/images/{{ work.bookcover }}" alt="">
+	        <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
+	      </div>
+			</p1>
+			<p2>
+	      <div class="description">
+	        {% for description in work.descriptive_bibliography %}
+	        <h1> {{ description[0] | upcase }} </h1>
+	        <p> {{ description[1] }} </p>
+					{% endfor %}
+	      </div>
+			</p2>
+		</li>
+
+		<li data-date:"16/12/1931">
+			<h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
+			<p1>
+				<div class="image">
+	        <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
 	      </div>
 			</p1>
 			<p2>
@@ -76,26 +93,11 @@ order: 5
 	        {% for description in work.descriptive_bibliography %}
 	        <h2> {{ description[0] | upcase }} </h2>
 	        <p> {{ description[1] }} </p>
-	        {% endfor %}
+					{% endfor %}
 	      </div>
 			</p2>
-					{% endfor %}
 		</li>
-		<li data-date="30/07/1932">
-			{% for bibliography in site.data.descriptive-bibliography %}
-			{% assign work = bibliography[1] %}
-			{% assign workkey = bibliography[0] %}
-				<h2>{{ work.title }} ({{ work.date | date: "1932" }})</h2>
-				<p>
-		      <div class="description">
-		        {% for description in work.descriptive_bibliography %}
-		        <h2> {{ description[0] | upcase }} </h2>
-		        <p> {{ description[1] }} </p>
-		        {% endfor %}
-		      </div>
-				</p>
-						{% endfor %}
-			</li>
+		{% endfor %}
 	</ol>
 </div> <!-- .events-content -->
 </section>

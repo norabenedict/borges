@@ -1,19 +1,18 @@
 ---
 layout: default
 title: Descriptive Bibliography
-order: 3
 ---
+
 <ul>
 {% for bibliography in site.data.descriptive-bibliography %}
 {% assign work = bibliography[1] %}
 {% assign workkey = bibliography[0] %}
-  <li id="{{workkey}}" date-date=" {{ work.date | date: "%d/%m/%Y" }}">
-
+  <li id="{{workkey}}" date-date="{{ work.date | date: "%d/%m/%Y" }}">
       <h1> {{ work.title }} ({{ work.date | date: "%Y" }}) </h1>
       <div class="image">
         <img src="{{ site.baseurl }}/images/{{ work.bookcover }}" alt="">
       </div>
-      <div class="description">
+      <div id="descriptive-bibliography" class="description">
         {% for description in work.descriptive_bibliography %}
         <h2> {{ description[0] | upcase }} </h2>
         <p> {{ description[1] }} </p>
@@ -22,11 +21,3 @@ order: 3
   </li>
 {% endfor %}
 </ul>
-
-<div class="timeline">
-         <div class="timeline-item active">
-             <div class="year"> {{ work.date | date_to_long_string }} <span class="marker"><span class="dot"></span></span>
-             </div>
-             <div class="info"> {{ work.title }} </div>
-         </div>
-</div>
