@@ -23,7 +23,7 @@
         {% for p in navigation_pages %}
         {% if p.order %}
           <li>
-            <a href="{{ p.url | prepend: site.baseur }}" {% if p.url == page.url %}class="active"{% endif %}>
+            <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
               {{ p.title }}
             </a>
           </li>
