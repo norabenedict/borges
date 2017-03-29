@@ -5,13 +5,13 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/timeline.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
-<script src="{{ site.baseurl }}/timeline.js"></script>
-<script src="{{ site.baseurl }}/modernizr.js"></script>
-
-
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+<script src="{{ site.baseurl }}/modernizr.js"></script>
 <script src="{{ site.baseurl }}/locations.js"></script>
-
+<script src="{{ site.baseurl }}/jquery-2.1.4.js"></script>
+<script src="{{ site.baseurl }}/jquery.mobile.custom.min.js"></script>
+<script src="{{ site.baseurl }}/timeline.js"></script>
+<script src="{{ site.baseurl }}/main.js"></script>
 
 <header>
   <img src="images/borges-webcover.jpg" alt="logo" class="logo">
@@ -23,7 +23,7 @@
         {% for p in navigation_pages %}
         {% if p.order %}
           <li>
-            <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+            <a href="{{ p.url | prepend: site.baseur }}" {% if p.url == page.url %}class="active"{% endif %}>
               {{ p.title }}
             </a>
           </li>
