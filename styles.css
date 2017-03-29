@@ -7,11 +7,56 @@ html {
   line-height: 1.5;
 }
 
+.logo {
+  float: left;
+  height: 100px;
+  width: 140px;
+  display: inline-block;
+  float: left;
+  padding-top: 40px;
+  border: solid white 1px;
+  padding: 2px;
+}
+
+.borges_images {
+  float: left;
+  height: 70%%;
+  width: 60%0%;
+  display: inline-block;
+  padding-top: 40px;
+  border: solid black 1px;
+  padding: 2px;
+}
+
 img {
-  max-width: 90%;
+  max-width: 80%;
   width: auto;
-  max-height: 90%;
+  max-height: 80%;
   height: auto;
+}
+
+.intro-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("images/borges-cover.jpg") no-repeat center center;
+    background-size: cover;
+    opacity: .6;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 15%;
+    padding-bottom: 35%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 60px;
+    font-weight: heavy;
+    color: #69D2E3;
 }
 
 #map {
@@ -37,14 +82,39 @@ img {
   overflow-y: scroll;
 }
 
-.logo {
+.about-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: black;
+    background: url("images/about-cover2.jpg") no-repeat center center;
+    background-size: cover;
+    opacity: .6;
+}
+
+.about-header > h1 {
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+  font-size: 60px;
+  font-weight: heavy;
+  color: black;
+  position: relative;
+}
+
+.about-header > p {
+  margin: 0;
+  font-size: 20px;
+  font-weight: heavy;
+  color: black;
+  position: relative;
+}
+
+.about-header > img {
   float: left;
-  height: 100px;
-  width: 140px;
-  display: inline-block;
-  float: left;
-  padding-top: 40px;
-  border: solid white 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  border: solid black 1px;
   padding: 2px;
 }
 
@@ -137,12 +207,4 @@ nav ul ul{
   display: none;
   position: absolute;
   background-color: #000;
-}
-
-.borges_images {
-  float: right;
-  margin-left 10px;
-  margin-bottom: 5px;
-  border: solid black 1px;
-  padding: 2px
 }
