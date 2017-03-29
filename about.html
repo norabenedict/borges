@@ -1,9 +1,26 @@
 ---
 layout: default
-title: about
+title: About
 order: 4
 ---
-
+<header>
+  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
+  <h1>Mapping Borges</h1>
+<nav>
+  <ul>
+    {% assign navigation_pages = site.html_pages | sort: "order" %}
+    {% for p in navigation_pages %}
+    {% if p.order %}
+      <li>
+        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+          {{ p.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+</header>
 <body>
 
 <header class="about-header">

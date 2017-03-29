@@ -15,6 +15,62 @@ body {
 
 }
 
+.navbar {
+  position: relative;
+  padding: 0.5rem 1rem;
+  float: center;
+}
+
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navbar li {
+  display: inline-block;
+  margin-left: 65px;
+  padding-top: 40px;
+
+  position: relative;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Futura', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  float: right;
+  padding-bottom: 15px;
+}
+
+.navbar a:hover {
+  color: #000;
+}
+
+.navbar a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+.navbar a:hover::before {
+  width: 100%;
+}
+
+.navbar a.active::before {
+  width: 100%;
+}
+
 .cd-horizontal-timeline ol,
 .cd-horizontal-timeline ul {
 	list-style: none;
