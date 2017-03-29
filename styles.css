@@ -5,8 +5,20 @@ html {
   color: black;
   font-family: 'Libre Baskerville', serif;
   line-height: 1.5;
+  margin:0;
+  padding:0;
 }
 
+body {
+  margin:0;
+  padding:0;
+
+}
+
+.cd-horizontal-timeline ol,
+.cd-horizontal-timeline ul {
+	list-style: none;
+}
 .logo {
   float: left;
   height: 100px;
