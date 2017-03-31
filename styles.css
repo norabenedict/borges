@@ -211,6 +211,11 @@ header h1 {
   color: white;
 }
 
+header h1 a {
+  text-decoration: none;
+  color: white;
+}
+
 nav {
   float: right;
 }
