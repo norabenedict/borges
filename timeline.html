@@ -48,9 +48,6 @@ order: 3
 				<li><a href="#0" data-date="10/11/1949">1949</a></li>
 				<li><a href="#0" data-date="01/01/1950">1950</a></li>
 				<li><a href="#0" data-date="29/03/1951">1951</a></li>
-				<li><a href="#0" data-date="01/01/1952">1952</a></li>
-				<li><a href="#0" data-date="01/01/1954">1954</a></li>
-				<li><a href="#0" data-date="01/01/1956">1956</a></li>
 			</ol>
 
 			<span class="filling-line" aria-hidden="true"></span>
@@ -60,15 +57,15 @@ order: 3
 	<ul class="cd-timeline-navigation">
 		<li><a href="#0" class="prev inactive">Prev</a></li>
 		<li><a href="#0" class="next">Next</a></li>
-	</ul> <!-- .cd-timeline-navigation -->
-</div> <!-- .timeline -->
+	</ul>
+</div>
 
 <div class="events-content">
-	<ol>
-		{% for bibliography in site.data.descriptive-bibliography %}
-		{% assign work = bibliography[1] %}
-		{% assign workkey = bibliography[0] %}
-		<li class="selected" data-date:"30/09/1930">
+  {% for bibliography in site.data.descriptive-bibliography %}
+  {% assign work = bibliography[1] %}
+  {% assign workkey = bibliography[0] %}
+  <ol>
+		<li class="selected" data-date="30/09/1930">
 			<h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
 			<p1>
 				<div class="image">
@@ -85,7 +82,7 @@ order: 3
 			</p2>
 		</li>
 
-		<li data-date:"16/12/1931">
+		<li data-date="16/12/1931">
 			<h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
 			<p1>
 				<div class="image">
@@ -97,10 +94,43 @@ order: 3
 	        {% for description in work.descriptive_bibliography %}
 	        <h2> {{ description[0] | upcase }} </h2>
 	        <p> {{ description[1] }} </p>
-					{% endfor %}
+          {% endfor %}
 	      </div>
 			</p2>
 		</li>
+    <li data-date="30/07/1932">
+      <h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
+      <p1>
+        <div class="image">
+          <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
+        </div>
+      </p1>
+      <p2>
+        <div class="description">
+          {% for description in work.descriptive_bibliography %}
+          <h2> {{ description[0] | upcase }} </h2>
+          <p> {{ description[1] }} </p>
+          {% endfor %}
+        </div>
+      </p2>
+    </li>
+    <li data-date="01/01/1933">
+      <h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
+      <p1>
+        <div class="image">
+          <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
+        </div>
+      </p1>
+      <p2>
+        <div class="description">
+          {% for description in work.descriptive_bibliography %}
+          <h2> {{ description[0] | upcase }} </h2>
+          <p> {{ description[1] }} </p>
+          {% endfor %}
+        </div>
+      </p2>
+    </li>
+
 		{% endfor %}
 	</ol>
 </div> <!-- .events-content -->

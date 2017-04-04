@@ -133,6 +133,7 @@ img {
   width: 70%;
     float: right;
   border: 1px solid black;
+  position: relative;
 }
 
 #location-metadata {
