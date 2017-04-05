@@ -1,28 +1,63 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-<div id="mapid"></div>
+<script src="locations.js"></script>
 <style>
-#mapid { height: 80vh; border: 1px solid green;}
+* {
+  box-sizing: border-box;
+}
+html {
+  color: lightslategrey;
+  font-family: 'Libre Baskerville', serif;}
+img{max-width: 100%; width: auto;}
+#map {
+  height: 80vh;
+  width: 70%;
+    float: right;
+  border: 1px solid cornflowerblue;
+}
+#location-metadata {
+  height: 80vh;
+  width: 30%;
+    float: left;
+  overflow-y: scroll;
+  border: 1px solid midnightblue;
+}
 </style>
 
+<h1>Leaflet JS Map</h1>
+
+<div id="map"></div>
+<div id="location-metadata"></div>
+
 <script>
-var mymap = L.map ('mapid').setView([-58.402479, -34.598381], 11);
-
+function onEachFeature(feature, layer) {
+  console.log(feature);
+  var popupContent = '';
+    if (feature.properties) {
+      if (feature.properties.name) {
+        popupContent += '<h2>' + feature.properties.name + '</h2>';
+      }
+      if (feature.properties.images) {
+        feature.properties.images.forEach(function(image) {
+          popupContent += '<img src="images/'+image+'">';
+        });
+      }
+      layer.bindPopup(popupContent);
+    }
+}
+var mymap = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
 L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45drad3w0/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
-  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 15
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18
 }).addTo(mymap);
-
-var marker = L.marker([-34.6065302,-58.43062439999999]).addTo(mymap);
-
-marker.bindPopup("<b>Editorial Tor</b>").openPopup();
-
-var marker = L.marker([-34.6076913,-58.380773299999994]).addTo(mymap);
-
-marker.bindPopup("<b>Editorial Tor: Salón de exposiciones y ventas</b>").openPopup();
-
-var marker = L.marker([-34.6289292,-58.44458829999997]).addTo(mymap);
-
-marker.bindPopup("<b>Los talleres gráficos 'Colón'</b>").openPopup();
+L.geoJSON(locations,{
+    onEachFeature: onEachFeature
+}).addTo(mymap).on('click', function(e) {
+  var content = document.createTextNode('History');
+  metadata_container = document.getElementById('location-metadata');
+  metadata_container.appendChild(content);
+  console.log(e);
+});
 </script>

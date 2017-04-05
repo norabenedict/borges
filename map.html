@@ -21,17 +21,6 @@ order: 2
     {% endfor %}
   </ul>
 </nav>
-  {% if page.locations.js %}
-    {% for js_file in page.locations.js %}
-    <script src='/javascript/{{ js_file }}.js' type="text/javascript"></script>
-    {% endfor %}
-{% endif %}
-
-{% if page.custom_css %}
-    {% for stylesheet in page.custom_css %}
-    <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
-    {% endfor %}
-{% endif %}
 </header>
 
 <main>
@@ -67,16 +56,12 @@ L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45dra
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18
 }).addTo(map);
-
 L.geoJSON(locations,{
     onEachFeature: onEachFeature
 }).addTo(mymap).on('click', function(e) {
-
-  var content = document.createTextNode('div');
-
+  var content = document.createTextNode('History');
   metadata_container = document.getElementById('location-metadata');
   metadata_container.appendChild(content);
-
   console.log(e);
 });
 </script>
