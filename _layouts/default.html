@@ -4,6 +4,7 @@
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/timeline.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"/>
 
 <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 <script src="{{ site.baseurl }}/modernizr.js"></script>
@@ -13,25 +14,7 @@
 <script src="{{ site.baseurl }}/timeline.js"></script>
 <script src="{{ site.baseurl }}/main.js"></script>
 
-<header>
-  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
-  <h1>Mapping Borges</h1>
 
-    <nav>
-      <ul>
-        {% assign navigation_pages = site.html_pages | sort: "order" %}
-        {% for p in navigation_pages %}
-        {% if p.order %}
-          <li>
-            <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
-              {{ p.title }}
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-</header>
 <main>
   {{ content }}
 </main>

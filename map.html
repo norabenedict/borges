@@ -1,18 +1,35 @@
 ---
 layout: default
-title: map
+title: Map
 order: 2
 ---
 
-</main>
+<header>
+  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
+<h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
+<nav>
+  <ul>
+    {% assign navigation_pages = site.html_pages | sort: "order" %}
+    {% for p in navigation_pages %}
+    {% if p.order %}
+      <li>
+        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+          {{ p.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+</header>
 
+<main>
+<div id="mymap"></div>
 <div id="map"></div>
 <div id="location-metadata"></div>
 
-</main>
 
 <script>
-
 function onEachFeature(feature, layer) {
   console.log(feature);
   var popupContent = '';
@@ -33,33 +50,19 @@ function onEachFeature(feature, layer) {
     }
 }
 
-var mymap = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
+var map = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
 
 L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45drad3w0/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18
-}).addTo(mymap);
-
+}).addTo(map);
 L.geoJSON(locations,{
     onEachFeature: onEachFeature
 }).addTo(mymap).on('click', function(e) {
-
-  var content = document.createElement('div');
-  var booksheading = document.createElement('h2');
-  var booksheadingtext = document.createTextNode('Books');
-  booksheading.appendChild(booksheadingtext);
-  content.appendChild(booksheading);
-
-  var content = document.createElement('div');
-  var historyheading = document.createElement('h2');
-  var historyheadingtext = document.createTextNode('History');
-  historyheading.appendChild(historyheadingtext);
-  content.appendChild(historyheading);
-
-
+  var content = document.createTextNode('History');
   metadata_container = document.getElementById('location-metadata');
   metadata_container.appendChild(content);
-
   console.log(e);
 });
 </script>
+</main>

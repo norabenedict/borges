@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Home
-order: 1
 ---
-
 <div id="about"></div>
 
 <body>
@@ -15,5 +13,17 @@ order: 1
       </div>
   </header>
 
-
-</body>
+<header class="navbar">
+        <ul>
+          {% assign navigation_pages = site.html_pages | sort: "order" %}
+          {% for p in navigation_pages %}
+          {% if p.order %}
+            <li>
+              <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+                {{ p.title }}
+              </a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </header>
