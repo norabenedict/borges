@@ -75,6 +75,7 @@ body {
 .cd-horizontal-timeline ul {
 	list-style: none;
 }
+
 .logo {
   float: left;
   height: 100px;
@@ -191,9 +192,7 @@ img {
 
 .about-header > img {
   float: left;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 5px;
+  margin: 0px 0px 15px 20px;
   border: solid black 1px;
   padding: 2px;
   width: 200;

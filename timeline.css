@@ -185,7 +185,7 @@
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: url(/cd-arrow.svg) no-repeat 0 0;
+  background: url("images/cd-arrow.svg") no-repeat 0 0;
 }
 .cd-timeline-navigation a.prev {
   left: 0;
@@ -270,51 +270,48 @@
   max-width: 800px;
   margin: 0 auto;
 }
-.cd-horizontal-timeline .events-content h2 {
-  font-weight: bold;
-  font-size: 16px;
-  font-family: "Playfair Display", serif;
-  font-weight: 700;
-  line-height: 1.2;
-  float: center;
-}
-.cd-horizontal-timeline .events-content p {
-  font-size: 16px;
-  color: #959595;
-}
-.cd-horizontal-timeline .events-content p2 {
-  line-height: 1.2;
+
+@media only screen and (min-width: 800px) {
+  .cd-horizontal-timeline .events-content h2 {
+    font-weight: 800;
+    line-height: 1.2;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 5px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
 }
 
-@media only screen and (min-width: 768px) {
-  .cd-horizontal-timeline .events-content h2 {
-    font-size: 2.6rem;
-    font-weight: 700;
-    line-height: 1.2;
-    float: left;
+.cd-horizontal-timeline .events-content .description h1 {
+  font-size: 18px;
+  weight: heavy;
+  text-align: right;
+  margin-right: 10px;
   }
-  .cd-horizontal-timeline .events-content h1 {
-    font-size: 16px;
-    margin: 10px;
-    weight: heavy;
-  }
-  .cd-horizontal-timeline .events-content img {
-    float: left;
-    margin: 10px;
-    width: auto;
-    height: auto;
-  }
-  .cd-horizontal-timeline .events-content p2 {
-    font-size: 16px;
-    margin: 8px;
-    height: 80vh;
-    width: 60%;
-        float: right;
-    border: 1px solid black;
-    padding: inherit;
-    overflow-y: scroll;
-    margin-top:inherit;
-  }
+
+.cd-horizontal-timeline .events-content .description p {
+  font-size: 16px;
+  height: auto;
+  max-width: 50%;
+  text-align: right;
+  border: 1px solid black;
+    float: right;
+  padding: 5px;
+  line-height: 1.2;
+  margin-right: 10px;
+}
+
+.cd-horizontal-timeline .events-content .image img {
+  float: left;
+  height: auto;
+  width: auto;
+  display: inline-block;
+  border: solid black 1px;
+  padding: 2px;
+  margin-left: none;
+  position: absolute;
+  left: 0;
 }
 
 @-webkit-keyframes cd-enter-right {

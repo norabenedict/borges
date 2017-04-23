@@ -23,44 +23,46 @@ order: 3
 </header>
 
 <section class="cd-horizontal-timeline">
-<div class="timeline">
-	<div class="events-wrapper">
-		<div class="events">
-			<ol>
-      {% for bibliography in site.data.descriptive-bibliography %}
-		  {% assign work = bibliography[1] %}
-		  {% assign workkey = bibliography[0] %}
-      <li><a href="#0" data-date="{{ work.date | date: "%d/%m/%Y" }}"{% if forloop.first == true %} class="selected"{% endif %}>{{ work.date | date: "%Y" }}</a></li>
-      {% endfor %}
-			</ol>
-			<span class="filling-line" aria-hidden="true"></span>
-		</div> <!-- .events -->
-	</div> <!-- .events-wrapper -->
+  <div class="timeline">
+    <div class="events-wrapper">
+      <div class="events">
+        <ol>
+          {% for bibliography in site.data.descriptive-bibliography reversed %}
+          {% assign work = bibliography[1] %}
+          {% assign workkey = bibliography[0] %}
+          <li><a href="#0" data-date="{{ work.date | date: "%d/%m/%Y" }}"{% if forloop.first == true %} class="selected"{% endif %}>{{ work.date | date: "%Y" }}</a></li>
+          {% endfor %}
+        </ol>
 
-	<ul class="cd-timeline-navigation">
-		<li><a href="#0" class="prev inactive">Prev</a></li>
-		<li><a href="#0" class="next">Next</a></li>
-	</ul>
-</div>
+        <span class="filling-line"
+        aria-hidden="true"></span>
+      </div> <!-- .events -->
+    </div> <!-- .events-wrapper -->
 
-<div class="events-content">
-	<ol>
-		{% for bibliography in site.data.descriptive-bibliography %}
-		{% assign work = bibliography[1] %}
-		{% assign workkey = bibliography[0] %}
-    <li{% if forloop.first == true %} class="selected"{% endif %} data-date="{{ work.date | date: "%d/%m/%Y" }}">
-			<h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
-				<div class="image">
-	        <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
-	      </div>
-	      <div class="description">
+    <ul class="cd-timeline-navigation">
+      <li><a href="#0" class="prev inactive">Prev</a></li>
+      <li><a href="#0" class="next">Next</a></li>
+    </ul>
+  </div>
+
+  <div class="events-content">
+    <ol>
+      {% for bibliography in site.data.descriptive-bibliography reversed %}
+      {% assign work = bibliography[1] %}
+      {% assign workkey = bibliography[0] %}
+      <li{% if forloop.first == true %} class="selected"{% endif %} data-date="{{ work.date | date: "%d/%m/%Y" }}">
+        <h2>{{ work.title }} ({{ work.date | date: "%Y" }})</h2>
+        <div class="image">
+          <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
+        </div>
+        <div class="description">
 	        {% for description in work.descriptive_bibliography %}
 	        <h1> {{ description[0] | upcase }} </h1>
-	        <p> {{ description[1] }} </p>
+	         <p> {{ description[1] }} </p>
 					{% endfor %}
 	      </div>
-		</li>
-		{% endfor %}
-	</ol>
-</div> <!-- .events-content -->
+      </li>
+      {% endfor %}
+    </ol>
+  </div> <!-- .events-content -->
 </section>
