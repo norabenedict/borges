@@ -99,9 +99,8 @@ body {
 
 
 img {
-  max-width: 80%;
+  max-width: 100%;
   width: auto;
-  max-height: 80%;
   height: auto;
 }
 
@@ -294,3 +293,35 @@ nav ul ul{
   position: absolute;
   background-color: #000;
 }
+
+.cd-horizontal-timeline .events-content li {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cd-horizontal-timeline .events-content li > * {
+  margin: inherit;
+  max-width: auto;
+}
+
+.cd-horizontal-timeline .events-content h2 {
+}
+
+.cd-horizontal-timeline .events-content .description {
+  margin-left: 220px;
+}
+
+.cd-horizontal-timeline .events-content .description p {
+  font-size: 14px;
+}
+
+.cd-horizontal-timeline .events-content .image {
+  float:left;
+  width: 200px;
+  margin-top: 20px;
+}
+.cd-horizontal-timeline .image img {
+  border: 1px solid #ccc;
+  padding: 2px;
+}
+
