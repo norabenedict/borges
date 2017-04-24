@@ -305,6 +305,13 @@ nav ul ul{
 }
 
 .cd-horizontal-timeline .events-content h2 {
+  font-size: 28px;
+  weight: heavy;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 2px;
 }
 
 .cd-horizontal-timeline .events-content .description {
@@ -324,4 +331,3 @@ nav ul ul{
   border: 1px solid #ccc;
   padding: 2px;
 }
-

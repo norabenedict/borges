@@ -25,7 +25,7 @@ editorial-tor-salón-de-exposiciones-y-ventas:
 emecé-editores:
   name: "Emecé Editores"
   type: publisher
-  history: "Founded in..."
+  history: "Founded in 1939 by Mariano Medina del Río, Álvaro de las Casas, and Carlos Braun Menéndez. The specific name of the publishing house was a combination of their names. In light of the Galician roots of the founding memebers, the first works published by Emecé were related to Galician culture, which was not commercially successful. Following this first flop, the directors of Emecé switched gears to focus on more canonical Spanish works and eventually incorporated more Latin American works as well."
   affiliated-firms:
     - imprenta-lópez
     - los-talleres-gráficos-j-hays-bells
@@ -71,7 +71,7 @@ manuel-gleizer:
 imprenta-lópez:
   name: Imprenta López
   type: printer
-  history:
+  history: "Founded in 1908 by Juan Bautista and José López García, the Imprenta López started as a small business that reflected the interests of their entire family: the graphic arts. Over the years, the Imprenta López perfected their craft and became known for the high quality of their works and, consequently, attracted numerous writers and editors from all corners of the Americas. Along with printing, they were also known in their initial years for binding and providing interested parties with quality paper"
   affiliated-firms:
     - emecé-editores
     - editorial-sur
@@ -93,7 +93,7 @@ imprenta-lópez:
 los-talleres-gráficos-j-hays-bell:
   name: "Los talleres gráficos J. Hays Bell"
   type: printer
-  history: ""
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sudamericana and Emecé Editores."
   affiliated-firms:
     - emecé-editores
     - editorial-sudamericana
@@ -141,7 +141,7 @@ editorial-losada:
 macagno-landa-y-cía:
   name: Macagno, Landa y Cía
   type: publisher
-  history: ""
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Emecé Editores and the Editorial Losada."
   affiliated-firms:
     - emecé-editores
     - editorial-losada
@@ -153,7 +153,7 @@ macagno-landa-y-cía:
 editorial-sur:
   name: Editorial Sur
   type: publisher
-  history: "Victoria Ocampo's Editorial Sur starting publishing works in 1933 and put out the following three books in that initial year: Federico García Lorca’s Romancero gitano (1924-1927), D. H. Lawrence’s Canguro, and Aldous Huxley’s Contrapunto."
+  history: "Victoria Ocampo's Editorial Sur starting publishing works in 1933 and put out the following three books in that initial year: Federico García Lorca’s _Romancero gitano (1924-1927)_, D. H. Lawrence’s _Canguro_, and Aldous Huxley’s _Contrapunto_."
   affiliated-firms:
     - los-talleres-gráficos-j-hays-bells
     - imprenta-lópez
@@ -168,7 +168,7 @@ editorial-sur:
 américalee-editora-e-impresora:
   name: "Américalee, Editora e Impresora"
   type: publisher & printer
-  history: ""
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur, especially after 1950 when they appear to have become THE printer for this firm."
   affiliated-firms:
     - editorial-sur
   location:
@@ -177,7 +177,7 @@ américalee-editora-e-impresora:
 imprenta-iglesias-y-matera:
   name: Imprenta Iglesias y Matera
   type: printer
-  history: ""
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur."
   affiliated-firms:
     - editorial-sur
   location:
@@ -187,7 +187,7 @@ imprenta-iglesias-y-matera:
 domingo-viau-y-zona:
   name: Domingo Viau y Zona
   type: publisher
-  history: ""
+  history: "Founded on July 23, 1925, this firm was most known for quality of hand-set type, justification, margin and line spacing, ink color, and paper, are very much in line with the luxury work of Francisco A. Colombo. It should be noted that Viau y Zona did not have their own printing house, so they relied on outside printers for the production of their work."
   affiliated-firms:
     - los-talleres-gráficos-el-colón
   location:
@@ -202,6 +202,7 @@ domingo-viau-y-zona:
 editorial-a.-kapelusz-y-cía:
   name: Editorial Kapelusz y Cía
   type: publisher
+  history: "Kapelusz y Cía has its origins in a bookstore, started by Adolfo Kapelusz, that later expanded to a publishing house in 1905 that aimed to improve teaching standards and the quality of textbooks. In fact, many of the first authors published by the Editorial Kapelusz y Cía were known for being the best teachers in Argentina at that time. The firm became associated with improvements in educational standards and the go-to firm for materials related to the classroom environment."
   location:
     - "-58.37776889999998,-34.6097316"
 
@@ -214,7 +215,7 @@ talleres-gráficos-linari-y-cía:
 editorial-nova:
   name: Editorial Nova
   type: publisher
-  history: ""
+  history: "This firm was founded in 1942 by two former employees of Emecé Editores, Luis Seoane and Arturo Cuadrado. These two hoped to take up the task of producing Galician and Spanish works for an Argentine public. Both men had a significant amount of experience in the publishing industry, Cuadrado having worked for a variety of firms and several newspapers throughout Spain and Seoane boasting experience as an editor, artist, and typographer, which allowed them to enter the Argentine market quite easily."
   affiliated-firms:
   collections:
     - "Colección Dulce Mar"
@@ -224,53 +225,55 @@ editorial-nova:
 editorial-oportet-&-haereses:
   name: Editorial Oportet & Haereses
   type: publisher
-  history: ""
+  history: "This firm is what I would deem apocryphal for the sheer fact that it emerged out of thin air and cannot trace its roots to any magazine or journal, like the Editorial Destiempo can. What is more, the only works published by this firm are those of its two founders, Borges and Bioy Casares. For these reasons, the works produced by the Editorial Oportet & Haereses are not very different from earlier works that Borges and Bioy Casares sent straight to a printer to be self-published without the name of a specific firm adorning their covers. Here, we only see the addition of an invented publisher’s name, perhaps to give these works a greater sense of authority for having passed through the hands of an unbiased editor."
   affiliated-firms:
     - imprenta-lópez
     - "los-talleres-gráficos-el-colón"
+  location:
+    - "-34.6153348,-58.3718403"
 
 artes-gráficas-amorrortu:
   name: Artes Gráficas Amorrortu
   type: printer
-  history: ""
+  history: "Founded in 1922 in Buenos Aires, this family-run printer has its roots in Bilbao, Spain. They published a great variety of works ranging from medical textbooks to scholary works and even encyclopedias and dictionaries, and would become the second largest printer in the country."
   affiliated-firms:
     - editorial-losada
   location:
-    - "Luca 2227, Buenos Aires"
+    - "-34.6356217,-58.4023424"
 
 los-talleres-gráficos-de-la-compañía-impresora-argentina:
   name: Los talleres gráficos de la compañía impresora
   type: printer
-  history: ""
+  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their extensive work with Editorial Sudamericana (they might have even been the official printers of this firm). They also worked, as we can tell from colophons, with Emecé Editores."
   affiliated-firms:
     - editorial-sudamericana
     - emecé-editores
   location:
-    - "Alsina 2059, Buenos Aires"
+    - "-34.7607311,-58.396341"
 
 imprenta-balmes:
   name: Imprenta Balmes
   type: printer
-  history: ""
+  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their work with Emecé Editores (known from colophons)."
   affiliated-firms:
     - emecé-editores
   location:
-    - "Rauch 187, Buenos Aires"
+    - "-36.7758684,-59.8509514"
 
 editorial-destiempo:
   name: Editorial Destiempo
   type: publisher
-  history: ""
+  history: "This somewhat apocryphal publishing firm was founded by Borges and Bioy Casares in 1937, and it emerged from their collaborative literary journal of the same name (_Destiempo_). The Editorial Destiempo highlights the efforts of these two writers, who continuously promoted underrepresented intellectual voices in literature that deserve to be part of the larger Argentine canon. What is more, the subtle nuances of political and social critique that permeate both of Bioy Casares’s books emphasize the fact that these Editorial Destiempo works were not intended for the average (Argentine) reader, but rather signal a more elite and well-educated individual."
   affiliated-firms:
     - los-talleres-gráficos-el-colón
   location:
-    - "Avenida Quintana 174, Buenos Aires"
+    - "-34.5910381,-58.3866802"
 
 platt-s-a:
   name: Platt S. A.
   type: printer
-  history: ""
+  history: "Still in existence and functioning today, this printer was first founded in 1931 by a Polish immigrant, Don Ignacio Platt, on the calle Independencia."
   affiliated-firms:
     - emecé-editores
   location:
-    - "Defensa 633, Buenos Aires"
+    - "-34.6153348,-58.3718403"
