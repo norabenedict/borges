@@ -3,27 +3,7 @@ layout: default
 title: About
 order: 4
 ---
-<header>
-  <img src="images/borges-webcover.jpg" alt="logo" class="logo" onclick="window.location.href='/index.html'">
-  <h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
-<nav>
-  <ul>
-    {% assign navigation_pages = site.html_pages | sort: "order" %}
-    {% for p in navigation_pages %}
-    {% if p.order %}
-      <li>
-        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
-          {{ p.title }}
-        </a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</nav>
-</header>
-<body>
 
-<header class="about-header">
 
 <h1>Jorge Luis Borges and the Argentine Publishing Industry</h1>
   <p>Before becoming a beacon of Spanish-language publishing in the early twentieth century, Buenos Aires was known for its huge smattering of bookstores and, to this day, still maintains that fame. Interestingly, what we find in the scant descriptions of these bookstores is their high level of specialization. Thus, for instance, Joge Luis Borges’s passion for English literature, undoubtedly a result of the influence of his English grandmother on his formative years, led him (frequently) to bookstores such as Mackern’s (Sarmiento 525) and Mitchell’s Book Store (Cangallo 580), both of which specialized in imported foreign literature (mainly English). Alongside these two regularly visited shops, several of Borges’s personal books from the Biblioteca Nacional also contain tags from a number of other bookstores including Pymalion, Goethe, Beutelspacher, and Viau y Cía, all of which contain inventory ranging from books produced by British and German publishing firms to luxury books, or art books, of fine quality paper and exquisite bindings.</p>
@@ -45,6 +25,3 @@ order: 4
 
   <p><img src="images/nora-cover2.jpg" class="borges_images"
     alt="Argentine Book Industry"> Nora Benedict is a Ph.D. candidate in Spanish at the University of Virginia. Her current research focuses on twentieth-century Latin American literature, descriptive bibliography, the intersection of digital and print culture, and the question of interpretation as influenced by textual materiality. Her dissertation, “The Fashioning of Jorge Luis Borges: Magazines, Books, and Print Culture in Argentina, 1930-1951,” focuses on the marked presence of books (and book production) in this Argentine writer’s life by examining the physical features of his works, which she reads through the lens of analytical bibliography and material studies.<a href="http://scholarslab.org/people/nora-benedict/">Read about her DH work!</a></p>
-
-</header>
-</body>

@@ -40,7 +40,7 @@
 </header>
 {% endif %}
 
-<main>
+<main class="{{ page.title | downcase | replace: " ","-" }}">
   {{ content }}
 </main>
 

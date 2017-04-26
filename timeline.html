@@ -3,25 +3,7 @@ layout: default
 title: Descriptive Bibliography
 order: 3
 ---
-<header>
-  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
-  <h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
-<nav>
-  <ul>
-    {% assign navigation_pages = site.html_pages | sort: "order" %}
-    {% for p in navigation_pages %}
-    {% if p.order %}
-      <li>
-        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
-          {{ p.title }}
-        </a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</nav>
-</header>
-
+<h1>Descriptive Bibliography</h1>
 <section class="cd-horizontal-timeline">
   <div class="timeline">
     <div class="events-wrapper">
