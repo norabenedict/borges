@@ -3,19 +3,44 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>"Mapping Borges"</title>
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
+
 <link rel="stylesheet" href="{{ site.baseurl }}/timeline.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/timeline.scss">
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"/>
 
-<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-<script src="{{ site.baseurl }}/timeline.js"></script>
-<script src="{{ site.baseurl }}/modernizr.js"></script>
-<script src="{{ site.baseurl }}/locations.js"></script>
+{% if page.title == 'Map' %}
+<script src='//api.mapbox.com/mapbox.js/v3.1.0/mapbox.js'></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-hash/v0.2.1/leaflet-hash.js'></script>
+<script src='//api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+<link href='//api.mapbox.com/mapbox.js/v3.1.0/mapbox.css' rel='stylesheet' />
+{% endif %}
+
+{% if page.title == 'Descriptive Bibliography' %}
 <script src="{{ site.baseurl }}/jquery-2.1.4.js"></script>
-<script src="{{ site.baseurl }}/jquery.mobile.custom.min.js"></script> <script src="{{ site.baseurl }}/main.js"></script>
+<script src="{{ site.baseurl }}/timeline.js"></script>
+{% endif %}
 
+{% if page.title != 'Home' %}
+<header>
+  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
+  <h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
+<nav>
+  <ul>
+    {% assign navigation_pages = site.html_pages | sort: "order" %}
+    {% for p in navigation_pages %}
+    {% if p.order %}
+      <li>
+        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+          {{ p.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+</header>
+{% endif %}
 
 <main>
   {{ content }}
 </main>
+

@@ -4,65 +4,82 @@ title: Map
 order: 2
 ---
 
-<header>
-  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
-<h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
-<nav>
-  <ul>
-    {% assign navigation_pages = site.html_pages | sort: "order" %}
-    {% for p in navigation_pages %}
-    {% if p.order %}
-      <li>
-        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
-          {{ p.title }}
-        </a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</nav>
-</header>
+<div id="location-metadata">
+<ul>
+  {% for location in site.data.printers-and-publishers %}
+  {% assign key = location[0] %}
+  {% assign data = location[1] %}
+  <li class="location" id="{{key}}" data-location="">
+    <h2>{{ data.name }}</h2>
+    <p>{{ data.history }}</p>
+  </li>
+  {% endfor %}
+</ul>
+</div>
 
-<main>
-<div id="mymap"></div>
-<div id="map"></div>
-<div id="location-metadata"></div>
-
+<div id="map">
+  <div id="info"></div>
+</div>
 
 <script>
-function onEachFeature(feature, layer) {
-  console.log(feature);
-  var popupContent = '';
-    if (feature.properties) {
+L.mapbox.accessToken = 'pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ';
+var map = L.mapbox.map('map', 'mapbox.streets');
+var info = document.getElementById('info');
+var locations = document.querySelectorAll('.location');
+console.log(locations.length);
+// Hash the map
+var hash = L.hash(map);
 
-      if (feature.properties.name) {
-        popupContent += '<h2>' + feature.properties.name + '</h2>';
-      }
+// omnivore will AJAX-request this file behind the scenes and parse it:
+// note that there are considerations:
+// - The file must either be on the same domain as the page that requests it,
+//   or both the server it is requested from and the user's browser must
+//   support CORS.
 
-      if (feature.properties.images) {
+// Internally this uses the toGeoJSON library to decode the KML file
+// into GeoJSON
+var runLayer = omnivore.kml('{{ site.baseurl }}/locations.kml')
+    .on('ready', function() {
+      map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
 
-        feature.properties.images.forEach(function(image) {
-          popupContent += '<img src="images/'+image+'">';
-        });
+// Listen for individual marker clicks.
+runLayer.on('click',function(e) {
+    // Force the popup closed.
+  e.layer.closePopup();
 
-      }
-      layer.bindPopup(popupContent);
-    }
+  console.log(e);
+  var location_name = null;
+
+  var layer = e.layer;
+
+  if (feature = layer.feature) {
+    location_name = feature.properties.name;
+  } else if(feature = layer._eventParents) {
+    console.log(feature);
+
+    location_name = feature.properties.name;
+  }
+
+  location_id = location_name.replace(/,/g,'').replace(/\ /g,'-').toLowerCase();
+
+  console.log(location_id);
+});
+
+// Clear the tooltip when map is clicked.
+map.on('move', empty);
+
+for (var i = 0; i < locations.length; i++) {
+  locations[i].onclick = function(e) {
+  }
 }
 
-var map = L.map('map').setView([-34.6065302, -58.43062439999999], 12);
+// Trigger empty contents when the script
+// has loaded on the page.
+empty();
 
-L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/ciuygz63a00go2io45drad3w0/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18
-}).addTo(map);
-L.geoJSON(locations,{
-    onEachFeature: onEachFeature
-}).addTo(mymap).on('click', function(e) {
-  var content = document.createTextNode('History');
-  metadata_container = document.getElementById('location-metadata');
-  metadata_container.appendChild(content);
-  console.log(e);
-});
+function empty() {
+  info.innerHTML = '';
+}
 </script>
-</main>
