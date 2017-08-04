@@ -7,6 +7,7 @@ html {
   line-height: 1.5;
   margin:0;
   padding:0;
+  background-color:
 }
 
 body {
@@ -87,16 +88,58 @@ body {
   padding: 2px;
 }
 
-.borges_images {
-  float: left;
-  height: 30%;
-  width: 20%;
-  display: inline-block;
+.about-header {
+  height: 100%;
+  color: #f8f8f8;
+  background: url("images/about-header2.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: .6;
+}
+
+.info {
+  background-color: #cbd3d3;
+}
+
+.borges_info {
+  float: right;
+  height: 77%;
+  width: 50%;
+  display: inline;
   border: solid black 1px;
   padding: 2px;
   margin-left: none;
 }
 
+.borges_images {
+  float: left;
+  height: 30%;
+  width: 20%;
+  display: inline;
+  border: solid black 1px;
+  padding: 2px;
+  margin-left: none;
+}
+
+.mapping_image {
+  float: left;
+  height: 15%;
+  width: 10%;
+  display: inline;
+  border: solid black 1px;
+  padding: 2px;
+  margin-left: none;
+}
+
+.uva_image {
+  float: right;
+  height: 60%;
+  width: 40%;
+  display: inline;
+  border: solid black 1px;
+  padding: 2px;
+  margin-left: none;
+}
 
 img {
   max-width: 100%;
@@ -150,16 +193,6 @@ img {
     float: right;
   border: 1px solid black;
   overflow-y: scroll;
-}
-
-.about-header {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
-    color: black;
-    background: url("images/about-cover2.jpg") no-repeat center center;
-    background-size: cover;
-    opacity: .6;
 }
 
 .about-header > h1 {
