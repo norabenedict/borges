@@ -46,11 +46,11 @@ jQuery(document).ready(function($){
 			});
 
 			//on swipe, show next/prev event content
-			timelineComponents['eventsContent'].on('swipeleft', function(){
+			timelineComponents['eventsContent'].on('swiperight', function(){
 				var mq = checkMQ();
 				( mq == 'mobile' ) && showNewContent(timelineComponents, timelineTotWidth, 'next');
 			});
-			timelineComponents['eventsContent'].on('swiperight', function(){
+			timelineComponents['eventsContent'].on('swipeleft', function(){
 				var mq = checkMQ();
 				( mq == 'mobile' ) && showNewContent(timelineComponents, timelineTotWidth, 'prev');
 			});
@@ -93,17 +93,17 @@ jQuery(document).ready(function($){
 			updateTimelinePosition(string, newEvent, timelineComponents);
 		}
 	}
-	
+
 	function updateTimelinePosition(string, event, timelineComponents) {
 		//translate timeline to the left/right according to the position of the selected event
 		var eventStyle = window.getComputedStyle(event.get(0), null),
-			eventLeft = Number(eventStyle.getPropertyValue("left").replace('px', '')),
+			eventRight = Number(eventStyle.getPropertyValue("right").replace('px', '')),
 			timelineWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', '')),
 			timelineTotWidth = Number(timelineComponents['eventsWrapper'].css('width').replace('px', ''));
 		var timelineTranslate = getTranslateValue(timelineComponents['eventsWrapper']);
 
-        if( (string == 'next' && eventLeft > timelineWidth - timelineTranslate) || (string == 'prev' && eventLeft < - timelineTranslate) ) {
-        	translateTimeline(timelineComponents, - eventLeft + timelineWidth/2, timelineWidth - timelineTotWidth);
+        if( (string == 'next' && eventRight > timelineWidth - timelineTranslate) || (string == 'prev' && eventRight < - timelineTranslate) ) {
+        	translateTimeline(timelineComponents, - eventRight + timelineWidth/2, timelineWidth - timelineTotWidth);
         }
 	}
 
@@ -120,10 +120,10 @@ jQuery(document).ready(function($){
 	function updateFilling(selectedEvent, filling, totWidth) {
 		//change .filling-line length according to the selected event
 		var eventStyle = window.getComputedStyle(selectedEvent.get(0), null),
-			eventLeft = eventStyle.getPropertyValue("left"),
+			eventRight = eventStyle.getPropertyValue("right"),
 			eventWidth = eventStyle.getPropertyValue("width");
-		eventLeft = Number(eventLeft.replace('px', '')) + Number(eventWidth.replace('px', ''))/2;
-		var scaleValue = eventLeft/totWidth;
+		eventRight = Number(eventRight.replace('px', '')) + Number(eventWidth.replace('px', ''))/2;
+		var scaleValue = eventRight/totWidth;
 		setTransformValue(filling.get(0), 'scaleX', scaleValue);
 	}
 
@@ -131,7 +131,7 @@ jQuery(document).ready(function($){
 		for (i = 0; i < timelineComponents['timelineDates'].length; i++) {
 		    var distance = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][i]),
 		    	distanceNorm = i+1;
-		    timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm*min-16+'px');
+		    timelineComponents['timelineEvents'].eq(i).css('right', distanceNorm*min-16+'px');
 		}
 	}
 
@@ -153,17 +153,17 @@ jQuery(document).ready(function($){
 			selectedContentHeight = selectedContent.height();
 
 		if (selectedContent.index() > visibleContent.index()) {
-			var classEnetering = 'selected enter-right',
-				classLeaving = 'leave-left';
-		} else {
 			var classEnetering = 'selected enter-left',
 				classLeaving = 'leave-right';
+		} else {
+			var classEnetering = 'selected enter-right',
+				classLeaving = 'leave-left';
 		}
 
 		selectedContent.attr('class', classEnetering);
 		visibleContent.attr('class', classLeaving).one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function(){
-			visibleContent.removeClass('leave-right leave-left');
-			selectedContent.removeClass('enter-left enter-right');
+			visibleContent.removeClass('leave-left leave-right');
+			selectedContent.removeClass('enter-right enter-left');
 		});
 		eventsContent.css('height', selectedContentHeight+'px');
 	}
@@ -242,21 +242,21 @@ jQuery(document).ready(function($){
 	*/
 	function elementInViewport(el) {
 		var top = el.offsetTop;
-		var left = el.offsetLeft;
+		var right = el.offsetRight;
 		var width = el.offsetWidth;
 		var height = el.offsetHeight;
 
 		while(el.offsetParent) {
 		    el = el.offsetParent;
 		    top += el.offsetTop;
-		    left += el.offsetLeft;
+		    right += el.offsetRight;
 		}
 
 		return (
 		    top < (window.pageYOffset + window.innerHeight) &&
-		    left < (window.pageXOffset + window.innerWidth) &&
+		    right < (window.pageXOffset + window.innerWidth) &&
 		    (top + height) > window.pageYOffset &&
-		    (left + width) > window.pageXOffset
+		    (right + width) > window.pageXOffset
 		);
 	}
 
