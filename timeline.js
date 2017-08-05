@@ -93,7 +93,7 @@ jQuery(document).ready(function($){
 			updateTimelinePosition(string, newEvent, timelineComponents);
 		}
 	}
-
+	
 	function updateTimelinePosition(string, event, timelineComponents) {
 		//translate timeline to the left/right according to the position of the selected event
 		var eventStyle = window.getComputedStyle(event.get(0), null),
