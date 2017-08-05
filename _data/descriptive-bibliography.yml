@@ -133,8 +133,28 @@ la-prison-de-lenfant:
     description: ""
   source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 P83 1935."
 
+un-cuarto-propio:
+  title: "Un cuarto propio"
+  author: Virginia Woolf
+  translator: Jorge Luis Borges
+  prologue: Jorge Luis Borges
+  date: 01/01/1936
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  descriptive_bibliography:
+    gatherings: "[1-9] 10-31 [32-35] 36-50 [51-53] 54-68 [69-71] 72-92 [93-95] 96-110 [111-113] 114-132 [133-134]"
+    title-page: "VIRGINIA WOOLF | UN CUARTO | PROPIO | SUR | BUENOS AIRES "
+    paper: "Wove. Vertical chain lines. Very clean, white pages. The pages are not cut uniformly."
+    colophon: "SE ACABÓ DE IMPRIMIR ESTE LIBRO / PARA LAS EDICIONES ‘SUR’ EN SU / PRIMERA Y ÚNICA TRADUCCIÓN ES- / PAÑOLA AUTORIZADA POR LA AUTO- / RA, EN LA IMPRENTA LÓPEZ / PERU 666, BUENOS AIRES, A ME / DIADOS DEL MES DE JULIO DE 1936. ([134])"
+    binding: "Does not maintain the original green covers."
+  bookcover: "cuarto-propio-cover.jpg"
+  typespecimen:
+    image: ""
+    description: ""
+  source: "United States. Penn State University. Call Number: PN471 .W618. This specific copy is a rebound book with perfect binding (i.e. the gatherings have been cut during the rebinding process). There is a stick in the front of the book that states that the pages have gone through a deacidification process."
+
 historia-de-la-eternidad:
-  title: Historia de la eternidad
+  title: "Historia de la eternidad"
   author: Jorge Luis Borges
   date: 29/04/1936
   publisher: viau-y-zona
@@ -154,7 +174,7 @@ historia-de-la-eternidad:
   source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 H475 1936. This copy has a penciled in footnote for the first part of “Los traductores de los 1001 noches”: “¿Podrá identificarse con Richard Burton, descubridor – con John Hanning Speke – del lago Tanganyika?” (73). Another part in this same story has a footnote to the word “Enciclopedia”: “¿Espasa?” (99)."
 
 perséphone:
-  title: Perséphone
+  title: "Perséphone"
   author: André Gide
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
@@ -171,26 +191,6 @@ perséphone:
     image: ""
     description: ""
   source: "United States. University of Virginia. Call number: PQ7797 .B635 P48 1936; personal copy"
-
-un-cuarto-propio:
-  title: Un cuarto propio
-  author: Virginia Woolf
-  translator: Jorge Luis Borges
-  prologue: Jorge Luis Borges
-  date: 01/01/1936
-  publisher: editorial-sur
-  printer: imprenta-lópez
-  descriptive_bibliography:
-    gatherings: "[1-9] 10-31 [32-35] 36-50 [51-53] 54-68 [69-71] 72-92 [93-95] 96-110 [111-113] 114-132 [133-134]"
-    title-page: "VIRGINIA WOOLF | UN CUARTO | PROPIO | SUR | BUENOS AIRES "
-    paper: "Wove. Vertical chain lines. Very clean, white pages. The pages are not cut uniformly."
-    colophon: "SE ACABÓ DE IMPRIMIR ESTE LIBRO / PARA LAS EDICIONES ‘SUR’ EN SU / PRIMERA Y ÚNICA TRADUCCIÓN ES- / PAÑOLA AUTORIZADA POR LA AUTO- / RA, EN LA IMPRENTA LÓPEZ / PERU 666, BUENOS AIRES, A ME / DIADOS DEL MES DE JULIO DE 1936. ([134])"
-    binding: "Does not maintain the original green covers."
-  bookcover: "cuarto-propio-cover.jpg"
-  typespecimen:
-    image: ""
-    description: ""
-  source: "United States. Penn State University. Call Number: PN471 .W618. This specific copy is a rebound book with perfect binding (i.e. the gatherings have been cut during the rebinding process). There is a stick in the front of the book that states that the pages have gone through a deacidification process."
 
 luis-greve-muerto:
   title: "Luis Greve, muerto"
@@ -211,7 +211,7 @@ luis-greve-muerto:
   source: "United States. Alderman Library, University of Virginia. Call number: PQ7797 .B535 L8. This specific copy is a rebound book with a standard library (green) library binding."
 
 orlando:
-  title: Orlando
+  title: "Orlando"
   author: Virginia Woolf
   translator: Jorge Luis Borges
   date: 30/06/1937
@@ -232,7 +232,7 @@ orlando:
   source: "Personal copy."
 
 marea-de-lágrimas:
-  title: Marea de lágrimas
+  title: "Marea de lágrimas"
   author: Ulyses Petit de Murat
   editor:
     - Jorge Luis Borges
@@ -253,7 +253,7 @@ marea-de-lágrimas:
   source: "United States. Widener Library, Harvard University. Call number: HN2D2A."
 
 diez-poemas-sin-poesía:
-  title: Diez poemas sin poesía
+  title: "Diez poemas sin poesía"
   author: Nicolás Olivari
   editor:
     - Jorge Luis Borges
@@ -275,7 +275,7 @@ diez-poemas-sin-poesía:
   source: "United States. University of Pittsburgh. Call number: PQ7797 .O47 D5 1938. This specific copy is rebound library book."
 
 mallarmé-entre-nosotros:
-  title: Mallarmé entre nosotros
+  title: "Mallarmé entre nosotros"
   author: Alfonso Reyes
   editor:
     - Jorge Luis Borges
@@ -296,7 +296,7 @@ mallarmé-entre-nosotros:
   source: "Personal copy."
 
 la-metamorfosis:
-  title: La metamorfosis
+  title: "La metamorfosis"
   author: Franz Kafka
   translation: Jorge Luis Borges
   prologue: Jorge Luis Borges
@@ -318,7 +318,7 @@ la-metamorfosis:
   source: "Personal copy & Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 Z9999.K3 M4 1938."
 
 antología-clásica-de-la-literatura-argentina:
-  title: Antología clásica de la literatura argentina
+  title: "Antología clásica de la literatura argentina"
   editor:
     - Jorge Luis Borges
     - Pedro Henríquez Ureña
@@ -337,8 +337,26 @@ antología-clásica-de-la-literatura-argentina:
     description: ""
   source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 Z999 .A54 1940. This copy appears to have had a significant amount of water damage to the cover since there is a portion to the bottom of the book that is much darker than the top portion."
 
+la-invención-de-morel:
+  title: "La invención de Morel"
+  author: Adolfo Bioy Casares
+  prologue: Jorge Luis Borges
+  date: 02/01/1940
+  publisher: editorial-losada
+  printer: ""
+  descriptive_bibliography:
+    gatherings: ""
+    paper: ""
+    colophon: ""
+    binding: ""
+  bookcover: "la-invencion-de-morel1.jpg"
+  typespecimen:
+    image: ""
+    description: ""
+  source: ""
+
 antología-de-la-literatura-fantástica:
-  title: Antología de la literatura fantástica
+  title: "Antología de la literatura fantástica"
   editor:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
@@ -357,46 +375,8 @@ antología-de-la-literatura-fantástica:
     description: ""
   source: "Personal copy & Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 A735 1940, Copies 1 & 2."
 
-la-invención-de-morel:
-  title: La invención de Morel
-  author: Adolfo Bioy Casares
-  prologue: Jorge Luis Borges
-  date: 02/01/1940
-  publisher: editorial-losada
-  printer: ""
-  descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    colophon: ""
-    binding: ""
-  bookcover: "la-invencion-de-morel1.jpg"
-  typespecimen:
-    image: ""
-    description: ""
-  source: ""
-
-el-jardín-de-senderos-que-se-bifurcan:
-  title: El jardín de senderos que se bifurcan
-  author: Jorge Luis Borges
-  date: 31/12/1941
-  publisher: editorial-sur
-  printer: imprenta-lópez
-  descriptive_bibliography:
-    gatherings: "[1-6] 7-35 [36] 37-61 [62] 63-71 [72] 73-83 [84] 85-105 [106] 107-124 [125-128]"
-    title-page: "JORGE LUIS BORGES | EL JARDIN | DE SENDEROS | QUE SE BIFURCAN | SUR [with a blue arrow down the center of the word] | BUENOS AIRES"
-    paper: "Wove. Vertical chain lines on each of the pages. The pages are quite light with very little yellowing or age damage. In comparison with other works published by the Editorial Sur during this time, the paper seems of a much higher quality. There are organic flecks throughout the pages, which also suggests a higher quality of material. The pages are also cut to a more uniform length with slight deckle edges, but it is impossible to say whether the pages were trimmed while the text block was being rebound, or if this quality is from the original state of binding of the book itself."
-    colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 30 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERU 666, BUENOS AIRES' ([126])."
-    binding: "BBlue soft-cover book. The cover has white lettering: “JORGE LUIS BORGES | EL JARDIN | DE SENDEROS | QUE SE BIFURCAN | SUR [with a blue arrow going through the center of the word] | BUENOS AIRES”. Even though the book has been rebound, the original covers are conserved. The back cover lists the original price of the volume in white: “$ 2.80 m/arg.” Unlike his later Ficciones (Editorial Sur, 1944), this edition lists previously published works by the author and includes two of his collaborative anthologies published to date: Antología clásica de la literatura argentina (1937) and Antología de la literatura fantástica (1940). It is curious that the Antología poética argentina (1941) is not included in this list as well since it was produced almost simultaneously with El jardín de senderos que se bifurcan."
-  bookcover: "el-jardín-de-senderos-que-se-bifurcan-cover.jpg"
-  typespecimen:
-    images: ""
-    description: ""
-  advertisements:
-    images: ""
-  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 J3 1942. This copy is rebound. There is a hand-written addendum to the end of “La lotería en Babilonia” (not by Borges) that reads as follows: “Por el último sorteo, acaba de decretar la [compañía?] que yo escribe en este blanco resto de papel una letra E seguida de una S y luego una T. Para abreviar, he aquí el resultado del azar ordenándome escribir una letra tras otra, sin orden ni sentido. ESTE ARTICULO ES MUY BUENO, AZPJOM GUILLERMO IBANEBA etc. G – 14/8/42” (83)."
-
 antología-poética-argentina:
-  title: Antología poética argentina
+  title: "Antología poética argentina"
   editor:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
@@ -417,7 +397,7 @@ antología-poética-argentina:
   source: "Personal copy & Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 A745 1941, Copies 1, 2., 3 & 4."
 
 un-bárbaro-en-asia:
-  title: Un bárbaro en Asia
+  title: "Un bárbaro en Asia"
   author: Henri Michaux
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
@@ -436,8 +416,28 @@ un-bárbaro-en-asia:
     description: ""
   source: "Personal Copy & Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 B3718 1941."
 
+el-jardín-de-senderos-que-se-bifurcan:
+  title: "El jardín de senderos que se bifurcan"
+  author: Jorge Luis Borges
+  date: 31/12/1941
+  publisher: editorial-sur
+  printer: imprenta-lópez
+  descriptive_bibliography:
+    gatherings: "[1-6] 7-35 [36] 37-61 [62] 63-71 [72] 73-83 [84] 85-105 [106] 107-124 [125-128]"
+    title-page: "JORGE LUIS BORGES | EL JARDIN | DE SENDEROS | QUE SE BIFURCAN | SUR [with a blue arrow down the center of the word] | BUENOS AIRES"
+    paper: "Wove. Vertical chain lines on each of the pages. The pages are quite light with very little yellowing or age damage. In comparison with other works published by the Editorial Sur during this time, the paper seems of a much higher quality. There are organic flecks throughout the pages, which also suggests a higher quality of material. The pages are also cut to a more uniform length with slight deckle edges, but it is impossible to say whether the pages were trimmed while the text block was being rebound, or if this quality is from the original state of binding of the book itself."
+    colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 30 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERU 666, BUENOS AIRES' ([126])."
+    binding: "BBlue soft-cover book. The cover has white lettering: “JORGE LUIS BORGES | EL JARDIN | DE SENDEROS | QUE SE BIFURCAN | SUR [with a blue arrow going through the center of the word] | BUENOS AIRES”. Even though the book has been rebound, the original covers are conserved. The back cover lists the original price of the volume in white: “$ 2.80 m/arg.” Unlike his later Ficciones (Editorial Sur, 1944), this edition lists previously published works by the author and includes two of his collaborative anthologies published to date: Antología clásica de la literatura argentina (1937) and Antología de la literatura fantástica (1940). It is curious that the Antología poética argentina (1941) is not included in this list as well since it was produced almost simultaneously with El jardín de senderos que se bifurcan."
+    source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 J3 1942. This copy is rebound. There is a hand-written addendum to the end of “La lotería en Babilonia” (not by Borges) that reads as follows: “Por el último sorteo, acaba de decretar la [compañía?] que yo escribe en este blanco resto de papel una letra E seguida de una S y luego una T. Para abreviar, he aquí el resultado del azar ordenándome escribir una letra tras otra, sin orden ni sentido. ESTE ARTICULO ES MUY BUENO, AZPJOM GUILLERMO IBANEBA etc. G – 14/8/42” (83)."
+  bookcover: "el-jardín-de-senderos-que-se-bifurcan-cover.jpg"
+  typespecimen:
+    images: ""
+    description: ""
+  advertisements:
+    images: ""
+
 seis-problemas-para-don-isidro-parodi:
-  title: Seis problemas para don Isidro Parodi
+  title: "Seis problemas para don Isidro Parodi"
   author: "H. Bustos Domecq (Jorge Luis Borges and Adolfo Bioy Casares)"
   date: 10/12/1942
   publisher: editorial-sur
@@ -457,7 +457,7 @@ seis-problemas-para-don-isidro-parodi:
   source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 S4 1942. This copy is rebound."
 
 los-mejores-cuentos-policiales:
-  title: Los mejores cuentos policiales
+  title: "Los mejores cuentos policiales"
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
@@ -479,7 +479,7 @@ los-mejores-cuentos-policiales:
   source: ""
 
 bartleby:
-  title: Bartleby
+  title: "Bartleby"
   author: Herman Melville
   translator: Jorge Luis Borges
   prologue: Jorge Luis Borges
@@ -519,27 +519,6 @@ poemas:
   advertisements:
     images: ""
   source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 P6 1943 Copy 1, Copy 2, Copy 3; Personal copy"
-
-ficciones:
-  title: Ficciones
-  author: Jorge Luis Borges
-  date: 04/12/1944
-  publisher: editorial-sur
-  printer: imprenta-lópez
-  descriptive_bibliography:
-    gatherings: "8º: 1-128, 136, 102 leaves, pp. [1-8] 937 [38] 39-63 [64] 65-73 [74] 75-85 [86] 87-107 [108] 109-126 [127-128] 129 [130] 131-143 [144] 145-153 [154] 155-179 [180] 181-191 [192] 193-201 [202] 203 [204]"
-    title-page: "JORGE LUIS BORGES | FICCIONES | (1935-1944) | SUR [with a downward arrow going through the center of the word] | BUENOS AIRES"
-    paper: "Wove. Visible (horizontal) chain lines on each of the pages. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly."
-    colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL DIA 4 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y CUATRO, EN LA IMPRENTA LOPEZ PERU 666, BUENOS AIRES, REPUBLICA ARGENTINA.'"
-    binding: "Blue soft-cover book that is glossy to the touch. The cover has white lettering: “JORGE LUIS BORGES | FICCIONES | SUR [with a downward blue arrow going through the center of the word] | BUENOS AIRES”. The back cover lists the price as “$4. – m/arg.” The spine reads (in white): “JORGE | LUIS | BORGES | FICCIONES | SUR | BUENOS | AIRES”. The text block is loose from the binding on this specific copy. There are a few rips on the front cover, which shows that the glossier blue paper is covering a flimsier, crème-colored paper cover."
-    illustrations: "There is a tipped in drawing in black and white of Borges by Marie Elisabeth Wrede on glossy paper [4]."
-  bookcover: "ficciones.jpg"
-  typespecimen:
-    image: "ficciones.jpg"
-    description: ""
-  advertisements:
-    images: "ficciones-ad.jpg"
-  source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 F5 1944"
 
 recuerdos-de-provincia:
   title: Recuerdos de provincia
