@@ -27,6 +27,7 @@ var map = L.mapbox.map('map', 'mapbox.streets');
 var info = document.getElementById('info');
 var locations = document.querySelectorAll('.location');
 console.log(locations.length);
+
 // Hash the map
 
 // omnivore will AJAX-request this file behind the scenes and parse it:
@@ -84,4 +85,6 @@ empty();
 function empty() {
   info.innerHTML = '';
 }
+
+
 </script>

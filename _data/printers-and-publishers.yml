@@ -1,11 +1,12 @@
 editorial-tor:
   name: Editorial Tor
   type: publisher
-  history: "Founded on June 16, 1916 by the exiled Spaniard Juan Carlos Torrendell. During the first years of Editorial TOR’s existence, the publishing house was somewhat indistinguishable from other firms throughout Buenos Aires since its focus was on Spanish literature and “best sellers.” With the purchase of its first rotary press in 1930, TOR soon became synonymous with cheap paperbacks, usually of extremely poor quality."
+  history: "Founded on June 16, 1916 by the exiled Spaniard Juan Carlos Torrendell. During the first years of Editorial TOR’s existence, the publishing house was somewhat indistinguishable from other firms throughout Buenos Aires since its focus was on Spanish literature and “best sellers.” With the purchase of its first rotary press in 1930, TOR soon became synonymous with cheap paperbacks, usually of extremely poor quality.
+  <p><i>Affiliated Firm</i>: Editorial Tor: Salón de exposiciones y ventas</p>
+  <p><i>Collections</i>: Colección Megáfono</p>"
   affiliated-firms:
-    - editorial-tor-salón-de-exposiciones-y-ventas
-  collections:
-    - "Colección Megáfono"
+    - title: "Editorial Tor: Salón de exposiciones y ventas"
+  collections: ["Colección Megáfono"]
   location:
     - "-58.43062439999999,-34.6065302"
     - "-58.431854999999985,-34.6068083"
@@ -19,17 +20,21 @@ editorial-tor:
 editorial-tor-salón-de-exposiciones-y-ventas:
   name: "Editorial Tor: Salón de exposiciones y ventas"
   type: store front
+  history: "<p><i>Affiliated Firm</i>: Editorial Tor</p>"
   location:
     - "-58.380773299999994,-34.6076913"
 
 emecé-editores:
   name: "Emecé Editores"
   type: publisher
-  history: "Founded in 1939 by Mariano Medina del Río, Álvaro de las Casas, and Carlos Braun Menéndez. The specific name of the publishing house was a combination of their names. In light of the Galician roots of the founding memebers, the first works published by Emecé were related to Galician culture, which was not commercially successful. Following this first flop, the directors of Emecé switched gears to focus on more canonical Spanish works and eventually incorporated more Latin American works as well."
+  history: "Founded in 1939 by Mariano Medina del Río, Álvaro de las Casas, and Carlos Braun Menéndez. The specific name of the publishing house was a combination of their names. In light of the Galician roots of the founding memebers, the first works published by Emecé were related to Galician culture, which was not commercially successful. Following this first flop, the directors of Emecé switched gears to focus on more canonical Spanish works and eventually incorporated more Latin American works as well.
+  <p><i>Affiliated Firms</i>: Imprenta López, Los talleres gráficos J. Hays Bells, Macagno, Landa y Cía, and Platt S. A.</p>
+  <p><i>Collections</i>: El Navío, Cuadernos de la quimera, Colección Buen Aire, El Séptimo Círculo, Biblioteca Emecé, Teatro del Mundo, Clásicos Emecé</p>"
   affiliated-firms:
-    - imprenta-lópez
-    - los-talleres-gráficos-j-hays-bells
-    - macagno-landa-y-cía
+    - "Imprenta López"
+    - "los-talleres-gráficos-j-hays-bells"
+    - "macagno-landa-y-cía"
+    - "platt-s-a"
   collections:
     - "El Navío"
     - "Cuadernos de quimera"
@@ -48,7 +53,8 @@ emecé-editores:
 los-talleres-gráficos-el-colón:
   name: "Los talleres gráficos el 'Colón'"
   type: printer
-  history: "A native of Buenos Aires, Francisco A. Colombo (1878—1953) was most known for his typographical artistry.Even though he was self-taught in the field of book production and had no professional training, the books that he printed over the years can be considered nothing short of works of art. At the beginning of the twentieth century in Argentina, luxury editions were rare and thus, the work of Colombo was all the more notable.In terms of the specifics of his printing and typographical style, Francisco A. Colombo is known for instituting the following standards: a cover with centered, upper-case typography (normally Garamond or Bodoni) printed on white or neutral paper, a title page with the same typeface with information about the publishing house and/or printer centered at the bottom of the page, typography of the text throughout in Garamond (size 10 or 12), and a justified colophon on the last page with hand-written numbering (Marqués 21)."
+  history: "A native of Buenos Aires, Francisco A. Colombo (1878—1953) was most known for his typographical artistry.Even though he was self-taught in the field of book production and had no professional training, the books that he printed over the years can be considered nothing short of works of art. At the beginning of the twentieth century in Argentina, luxury editions were rare and thus, the work of Colombo was all the more notable.In terms of the specifics of his printing and typographical style, Francisco A. Colombo is known for instituting the following standards: a cover with centered, upper-case typography (normally Garamond or Bodoni) printed on white or neutral paper, a title page with the same typeface with information about the publishing house and/or printer centered at the bottom of the page, typography of the text throughout in Garamond (size 10 or 12), and a justified colophon on the last page with hand-written numbering (Marqués 21).
+  <p><i>Affliated Firms</i>: Viau y Zona and Manuel Gleizer</p>"
   affiliated-firms:
     - viau-y-zona
     - manuel-gleizer
@@ -60,9 +66,9 @@ los-talleres-gráficos-el-colón:
 manuel-gleizer:
   name: Manuel Gleizer
   type: publisher
-  history: "Born in Russia at the close of the nineteenth century, Manuel Gleizer arrived in Entre Ríos, Argentina with his parents around 1901 and would remain there, working the land, until 1918 when he moved to Buenos Aires. In this larger metropolis he started a business selling lottery tickets but soon realized that the odds were stacked against him and, as a result, turned to selling books to eliminate his debt.After this accidental encounter with book markets, Gleizer opened his own bookstore, Librería La Cultura, which soon evolved into a common hangout for young intellectuals. Not long after, in 1922 to be exact, Gleizer turned to the publishing profession."
-  affiliated-firms:
-    - los-talleres-gráficos-el-colón
+  history: "Born in Russia at the close of the nineteenth century, Manuel Gleizer arrived in Entre Ríos, Argentina with his parents around 1901 and would remain there, working the land, until 1918 when he moved to Buenos Aires. In this larger metropolis he started a business selling lottery tickets but soon realized that the odds were stacked against him and, as a result, turned to selling books to eliminate his debt.After this accidental encounter with book markets, Gleizer opened his own bookstore, Librería La Cultura, which soon evolved into a common hangout for young intellectuals. Not long after, in 1922 to be exact, Gleizer turned to the publishing profession.
+  <p><i>Affiliated Firm</i>: Los talleres gráficos el 'Colón'</p>"
+  affiliated-firms: "los-talleres-gráficos-el-colón"
   location:
     - "-58.48425780000002,-34.5755365"
     - "-58.41141679999999,-34.5859937"
@@ -71,13 +77,12 @@ manuel-gleizer:
 imprenta-lópez:
   name: Imprenta López
   type: printer
-  history: "Founded in 1908 by Juan Bautista and José López García, the Imprenta López started as a small business that reflected the interests of their entire family: the graphic arts. Over the years, the Imprenta López perfected their craft and became known for the high quality of their works and, consequently, attracted numerous writers and editors from all corners of the Americas. Along with printing, they were also known in their initial years for binding and providing interested parties with quality paper"
+  history: "Founded in 1908 by Juan Bautista and José López García, the Imprenta López started as a small business that reflected the interests of their entire family: the graphic arts. Over the years, the Imprenta López perfected their craft and became known for the high quality of their works and, consequently, attracted numerous writers and editors from all corners of the Americas. Along with printing, they were also known in their initial years for binding and providing interested parties with quality paper
+  <p><i>Affiliated Firms</i>: Emecé Editores, Editorial Sur, and Editorial Sudamericana</p>"
   affiliated-firms:
     - emecé-editores
     - editorial-sur
     - editorial-sudamericana
-  collections:
-    - "Pajarita de Papel"
   location:
     - "-58.3745515,-34.6156579"
     - "-58.3745212,-34.6156325"
@@ -93,7 +98,8 @@ imprenta-lópez:
 los-talleres-gráficos-j-hays-bell:
   name: "Los talleres gráficos J. Hays Bell"
   type: printer
-  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sudamericana and Emecé Editores."
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sudamericana and Emecé Editores.
+  <p><i>Affiliated Firms</i>: Emecé Editores and Editorial Sudamericana</p>"
   affiliated-firms:
     - emecé-editores
     - editorial-sudamericana
@@ -104,7 +110,9 @@ los-talleres-gráficos-j-hays-bell:
 editorial-sudamericana:
   name: Editorial Sudamericana
   type: publisher
-  history: "Founded in December 1938. Antonio López Llausás took over the publishing house in 1939 and soon became a pioneer in export sales to other countries. Their yearly sales catalogs started an important model in the book industry that many other publishing houses would follow."
+  history: "Founded in December 1938. Antonio López Llausás took over the publishing house in 1939 and soon became a pioneer in export sales to other countries. Their yearly sales catalogs started an important model in the book industry that many other publishing houses would follow.
+  <p><i>Affiliated Firms</i>: Imprenta López, Los talleres gráficos J. Hays Bells, and Los talleres gráficos de la compañía impresora argentina</p>
+  <p><i>Collections</i>: Colleción Horizonte and Colleción laberinto</p>"
   affiliated-firms:
     - imprenta-lópez
     - los-talleres-gráficos-j-hays-bells
@@ -123,10 +131,14 @@ editorial-sudamericana:
 editorial-losada:
   name: Editorial Losada
   type: publisher
-  history: "The Spanish exile Gonzalo Losada founded the Editorial Losada on August 18, 1938. Aside from Losada, the original members of the firm included Borges's Guillermo de Torre, Amado Alonso, Pedro Henríquez Ureña, Francisco Romero, Lorenzo Luzuriaga, Teodoro Becú, Felipe Jiménez de Asúa, and Luis Jiménez de Asúa. A large number of exiled Spaniards worked at this publishing house and they also edited a number of the works of the 'Generación de 27.'"
+  history: "The Spanish exile Gonzalo Losada founded the Editorial Losada on August 18, 1938. Aside from Losada, the original members of the firm included Borges's Guillermo de Torre, Amado Alonso, Pedro Henríquez Ureña, Francisco Romero, Lorenzo Luzuriaga, Teodoro Becú, Felipe Jiménez de Asúa, and Luis Jiménez de Asúa. A large number of exiled Spaniards worked at this publishing house and they also edited a number of the works of the 'Generación de 27.'
+  <p><i>Affiliated Firms</i>: Imprenta López and Macagna, Landa y cía</p>
+  <p><i>Collections</i>: Pajarita de papel</p>"
   affiliated-firms:
       - imprenta-lópez
       - macagno-landa-y-cía
+  collections:
+    - Pajarita de papel
   location:
     - "-58.38870250000003,-34.6041913"
     - "-58.38235680000003,-34.6108857"
@@ -141,7 +153,8 @@ editorial-losada:
 macagno-landa-y-cía:
   name: Macagno, Landa y Cía
   type: publisher
-  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Emecé Editores and the Editorial Losada."
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Emecé Editores and the Editorial Losada.
+  <p><i>Affiliated Firms</i>: Emecé Editores and Editorial Losada</p>"
   affiliated-firms:
     - emecé-editores
     - editorial-losada
@@ -153,7 +166,8 @@ macagno-landa-y-cía:
 editorial-sur:
   name: Editorial Sur
   type: publisher
-  history: "Victoria Ocampo's Editorial Sur starting publishing works in 1933 and put out the following three books in that initial year: Federico García Lorca’s _Romancero gitano (1924-1927)_, D. H. Lawrence’s _Canguro_, and Aldous Huxley’s _Contrapunto_."
+  history: "Victoria Ocampo's Editorial Sur starting publishing works in 1933 and put out the following three books in that initial year: Federico García Lorca’s <i>Romancero gitano (1924-1927)</i>, D. H. Lawrence’s <i>Canguro</i>, and Aldous Huxley’s <i>Contrapunto</i>.
+  <p><i>Affiliated Firms</i>: Los talleres gráficos J. Hays Bells, Imprenta López, and Imprenta Iglesias y Matera</p>"
   affiliated-firms:
     - los-talleres-gráficos-j-hays-bells
     - imprenta-lópez
@@ -168,7 +182,8 @@ editorial-sur:
 américalee-editora-e-impresora:
   name: "Américalee, Editora e Impresora"
   type: publisher & printer
-  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur, especially after 1950 when they appear to have become THE printer for this firm."
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur, especially after 1950 when they appear to have become THE printer for this firm.
+  <p><i>Affiliated Firm</i>: Editorial Sur</p>"
   affiliated-firms:
     - editorial-sur
   location:
@@ -177,7 +192,8 @@ américalee-editora-e-impresora:
 imprenta-iglesias-y-matera:
   name: Imprenta Iglesias y Matera
   type: printer
-  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur."
+  history: "There is not much information about this printer, aside from their name and address that is listed in the colophons of several works that Borges produced. They have worked extensively with the Editorial Sur.
+  <p><i>Affiliated Firm</i>: Editorial Sur</p>"
   affiliated-firms:
     - editorial-sur
   location:
@@ -187,7 +203,8 @@ imprenta-iglesias-y-matera:
 domingo-viau-y-zona:
   name: Domingo Viau y Zona
   type: publisher
-  history: "Founded on July 23, 1925, this firm was most known for quality of hand-set type, justification, margin and line spacing, ink color, and paper, are very much in line with the luxury work of Francisco A. Colombo. It should be noted that Viau y Zona did not have their own printing house, so they relied on outside printers for the production of their work."
+  history: "Founded on July 23, 1925, this firm was most known for quality of hand-set type, justification, margin and line spacing, ink color, and paper, are very much in line with the luxury work of Francisco A. Colombo. It should be noted that Viau y Zona did not have their own printing house, so they relied on outside printers for the production of their work.
+  <p><i>Affiliated Firm</i>: Los talleres gráficos el 'Colón'</p>"
   affiliated-firms:
     - los-talleres-gráficos-el-colón
   location:
@@ -202,20 +219,24 @@ domingo-viau-y-zona:
 editorial-a.-kapelusz-y-cía:
   name: Editorial Kapelusz y Cía
   type: publisher
-  history: "Kapelusz y Cía has its origins in a bookstore, started by Adolfo Kapelusz, that later expanded to a publishing house in 1905 that aimed to improve teaching standards and the quality of textbooks. In fact, many of the first authors published by the Editorial Kapelusz y Cía were known for being the best teachers in Argentina at that time. The firm became associated with improvements in educational standards and the go-to firm for materials related to the classroom environment."
+  history: "Kapelusz y Cía has its origins in a bookstore, started by Adolfo Kapelusz, that later expanded to a publishing house in 1905 that aimed to improve teaching standards and the quality of textbooks. In fact, many of the first authors published by the Editorial Kapelusz y Cía were known for being the best teachers in Argentina at that time. The firm became associated with improvements in educational standards and the go-to firm for materials related to the classroom environment.
+  <p><i>Affiliated Firm</i>: Los talleres gráficos Linari y cía</p>"
   location:
     - "-58.37776889999998,-34.6097316"
 
 talleres-gráficos-linari-y-cía:
   name: Talleres gráficos Linari y Cía
   type: printer
+  history: "Not much is known about this firm. Printed the <i>Antología clásica de la literatura argentina</i> for the Editorial Kapelusz y Cía.
+  <p><i>Affiliated Firm</i>: Kapelusz y Cía</p>"
   location:
     - "-58.384394999999984,-34.607451"
 
 editorial-nova:
   name: Editorial Nova
   type: publisher
-  history: "This firm was founded in 1942 by two former employees of Emecé Editores, Luis Seoane and Arturo Cuadrado. These two hoped to take up the task of producing Galician and Spanish works for an Argentine public. Both men had a significant amount of experience in the publishing industry, Cuadrado having worked for a variety of firms and several newspapers throughout Spain and Seoane boasting experience as an editor, artist, and typographer, which allowed them to enter the Argentine market quite easily."
+  history: "This firm was founded in 1942 by two former employees of Emecé Editores, Luis Seoane and Arturo Cuadrado. These two hoped to take up the task of producing Galician and Spanish works for an Argentine public. Both men had a significant amount of experience in the publishing industry, Cuadrado having worked for a variety of firms and several newspapers throughout Spain and Seoane boasting experience as an editor, artist, and typographer, which allowed them to enter the Argentine market quite easily.
+  <p><i>Collections</i>: Colección Dulce Mar</p>"
   affiliated-firms:
   collections:
     - "Colección Dulce Mar"
@@ -225,7 +246,8 @@ editorial-nova:
 editorial-oportet-&-haereses:
   name: Editorial Oportet & Haereses
   type: publisher
-  history: "This firm is what I would deem apocryphal for the sheer fact that it emerged out of thin air and cannot trace its roots to any magazine or journal, like the Editorial Destiempo can. What is more, the only works published by this firm are those of its two founders, Borges and Bioy Casares. For these reasons, the works produced by the Editorial Oportet & Haereses are not very different from earlier works that Borges and Bioy Casares sent straight to a printer to be self-published without the name of a specific firm adorning their covers. Here, we only see the addition of an invented publisher’s name, perhaps to give these works a greater sense of authority for having passed through the hands of an unbiased editor."
+  history: "This firm is what I would deem apocryphal for the sheer fact that it emerged out of thin air and cannot trace its roots to any magazine or journal, like the Editorial Destiempo can. What is more, the only works published by this firm are those of its two founders, Borges and Bioy Casares. For these reasons, the works produced by the Editorial Oportet & Haereses are not very different from earlier works that Borges and Bioy Casares sent straight to a printer to be self-published without the name of a specific firm adorning their covers. Here, we only see the addition of an invented publisher’s name, perhaps to give these works a greater sense of authority for having passed through the hands of an unbiased editor.
+  <p><i>Affiliated Firms</i>: Imprenta López and Los talleres gráficos el 'Colón'</p>"
   affiliated-firms:
     - imprenta-lópez
     - "los-talleres-gráficos-el-colón"
@@ -235,7 +257,8 @@ editorial-oportet-&-haereses:
 artes-gráficas-amorrortu:
   name: Artes Gráficas Amorrortu
   type: printer
-  history: "Founded in 1922 in Buenos Aires, this family-run printer has its roots in Bilbao, Spain. They published a great variety of works ranging from medical textbooks to scholary works and even encyclopedias and dictionaries, and would become the second largest printer in the country."
+  history: "Founded in 1922 in Buenos Aires, this family-run printer has its roots in Bilbao, Spain. They published a great variety of works ranging from medical textbooks to scholary works and even encyclopedias and dictionaries, and would become the second largest printer in the country.
+  <p><i>Affiliated Firm</i>: Editorial Losada</p>"
   affiliated-firms:
     - editorial-losada
   location:
@@ -244,7 +267,8 @@ artes-gráficas-amorrortu:
 los-talleres-gráficos-de-la-compañía-impresora-argentina:
   name: Los talleres gráficos de la compañía impresora
   type: printer
-  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their extensive work with Editorial Sudamericana (they might have even been the official printers of this firm). They also worked, as we can tell from colophons, with Emecé Editores."
+  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their extensive work with Editorial Sudamericana (they might have even been the official printers of this firm). They also worked, as we can tell from colophons, with Emecé Editores.
+  <p><i>Affiliated Firms</i>: Editorial Sudamericana and Emecé Editores</p>"
   affiliated-firms:
     - editorial-sudamericana
     - emecé-editores
@@ -254,7 +278,8 @@ los-talleres-gráficos-de-la-compañía-impresora-argentina:
 imprenta-balmes:
   name: Imprenta Balmes
   type: printer
-  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their work with Emecé Editores (known from colophons)."
+  history: "Simliar to many of the other small printers that we find in Buenos Aires during the 1930s and 1940s, not much is known about this particular firm, aside from their work with Emecé Editores (known from colophons).
+  <p><i>Affiliated Firm</i>: Emecé Editores</p>"
   affiliated-firms:
     - emecé-editores
   location:
@@ -263,7 +288,8 @@ imprenta-balmes:
 editorial-destiempo:
   name: Editorial Destiempo
   type: publisher
-  history: "This somewhat apocryphal publishing firm was founded by Borges and Bioy Casares in 1937, and it emerged from their collaborative literary journal of the same name (_Destiempo_). The Editorial Destiempo highlights the efforts of these two writers, who continuously promoted underrepresented intellectual voices in literature that deserve to be part of the larger Argentine canon. What is more, the subtle nuances of political and social critique that permeate both of Bioy Casares’s books emphasize the fact that these Editorial Destiempo works were not intended for the average (Argentine) reader, but rather signal a more elite and well-educated individual."
+  history: "This somewhat apocryphal publishing firm was founded by Borges and Bioy Casares in 1937, and it emerged from their collaborative literary journal of the same name (_Destiempo_). The Editorial Destiempo highlights the efforts of these two writers, who continuously promoted underrepresented intellectual voices in literature that deserve to be part of the larger Argentine canon. What is more, the subtle nuances of political and social critique that permeate both of Bioy Casares’s books emphasize the fact that these Editorial Destiempo works were not intended for the average (Argentine) reader, but rather signal a more elite and well-educated individual.
+  <p><i>Affiliated Firm</i>: Los talleres gráficos el 'Colón'</p>"
   affiliated-firms:
     - los-talleres-gráficos-el-colón
   location:
@@ -272,7 +298,8 @@ editorial-destiempo:
 platt-s-a:
   name: Platt S. A.
   type: printer
-  history: "Still in existence and functioning today, this printer was first founded in 1931 by a Polish immigrant, Don Ignacio Platt, on the calle Independencia."
+  history: "Still in existence and functioning today, this printer was first founded in 1931 by a Polish immigrant, Don Ignacio Platt, on the calle Independencia.
+  <p><i>Affiliated Firm</i>: Emecé Editores</p>"
   affiliated-firms:
     - emecé-editores
   location:
