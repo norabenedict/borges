@@ -3,6 +3,16 @@ layout: default
 title: Map
 order: 2
 ---
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107317725-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107317725-1');
+</script></head>
 
 <div id="location-metadata">
 <ul>
@@ -47,6 +57,7 @@ var runLayer = omnivore.kml('{{ site.baseurl }}/locations.kml')
 // Listen for individual marker clicks.
 runLayer.on('click',function(e) {
     // Force the popup closed.
+
   e.layer.closePopup();
   var location_name = null;
 
@@ -85,6 +96,5 @@ empty();
 function empty() {
   info.innerHTML = '';
 }
-
 
 </script>
