@@ -48,6 +48,10 @@ order: 3
           <img src="{{ site.baseurl }}/images/{{ work.bookcover }}">
         </div>
         <div class="description">
+	        {% for description in work.descriptive_bibliography %}
+	        <h3> {{ description[0] | upcase }} </h3>
+	         <p> {{ description[1] }} </p>
+					{% endfor %}
 	      </div>
       </li>
       {% endfor %}
