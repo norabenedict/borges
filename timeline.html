@@ -21,7 +21,7 @@ order: 3
         <ol>
           {% for bibliography in site.data.descriptive-bibliography reversed %}
           {% assign work = bibliography[1] %}
-          {% assign workkey = bibliography[0] %}
+          {% assign workkey = bibliography[0] %
           <li><a href="#0" data-date="{{ work.date | date: "%d/%m/%Y" }}"{% if forloop.first == true %} class="selected"{% endif %}>{{ work.date | date: "%Y" }}</a></li>
           {% endfor %}
         </ol>
