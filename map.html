@@ -38,63 +38,39 @@ var info = document.getElementById('info');
 var locations = document.querySelectorAll('.location');
 console.log(locations.length);
 
-// Hash the map
-
-// omnivore will AJAX-request this file behind the scenes and parse it:
-// note that there are considerations:
-// - The file must either be on the same domain as the page that requests it,
-//   or both the server it is requested from and the user's browser must
-//   support CORS.
-
-// Internally this uses the toGeoJSON library to decode the KML file
-// into GeoJSON
-var runLayer = omnivore.kml('{{ site.baseurl }}/locations.kml')
+var mapLocations = omnivore.kml('{{ site.baseurl }}/locations.kml')
     .on('ready', function() {
-      map.fitBounds(runLayer.getBounds());
+      map.fitBounds(mapLocations.getBounds());
+      mapLocations.eachLayer(function(layer) {
+          var content = '<h2>' + layer.feature.properties.name + '</h2>' + '<p>' + layer.feature.properties.description + '</p>';
+          layer.bindPopup(content);
+      });
     })
     .addTo(map);
 
-// Listen for individual marker clicks.
-runLayer.on('click',function(e) {
-    // Force the popup closed.
 
-  e.layer.closePopup();
-  var location_name = null;
+mapLocations.on('click', function(e) {
+    e.layer.openPopup();
 
-  var layer = e.layer;
+    var location_name = null;
 
-  if (feature = layer.feature) {
-    location_name = feature.properties.name;
-  } else if(feature = layer._eventParents) {
-    parent_key = Object.keys(feature)[0];
-    location_name = feature[parent_key].feature.properties.name;
-  }
+    var layer = e.layer;
 
-  if (location_name) {
-    location_id = location_name.replace(/,'/g,'').replace(/\ /g,'-').toLowerCase();
-    console.log(location_id);
+    if (feature = layer.feature) {
+      location_name = feature.properties.name;
+      } else if(feature = layer._eventParents) {
+      parent_key = Object.keys(feature)[0];
+      location_name = feature[parent_key].feature.properties.name;
+        }
 
-    place = document.getElementById(location_id);
-    place.scrollIntoView();
-    return false;
-  }
+    if (location_name) {
+        location_id = location_name.replace(/,'/g,'').replace(/\ /g,'-').toLowerCase();
+        console.log(location_id);
 
+        place = document.getElementById(location_id);
+        place.scrollIntoView();
+        return false;}
 });
 
-// Clear the tooltip when map is clicked.
-map.on('move', empty);
-
-for (var i = 0; i < locations.length; i++) {
-  locations[i].onclick = function(e) {
-  }
-}
-
-// Trigger empty contents when the script
-// has loaded on the page.
-empty();
-
-function empty() {
-  info.innerHTML = '';
-}
 
 </script>

@@ -9,7 +9,7 @@ var locations = [
   "properties": {
     "name": "Editorial Tor",
     "category": "Publisher & Printer",
-    "description": "",
+    "popupContent": "Editorial Tor"
     "images": ["Tor-advertisement2.jpg"]
 
   }
@@ -23,6 +23,7 @@ var locations = [
   "properties": {
     "name": "Editorial Tor: Salón de exposiciones y ventas",
     "category": "Publisher & Printer"
+    "popupContent": "Editorial Tor: Salón de exposiciones y ventas"
 
   }
 },{
@@ -35,7 +36,7 @@ var locations = [
   "properties": {
     "name": "Emecé Editores",
     "category": "Publisher",
-    "description": "",
+    "popupContent": "Emecé Editores",
     "images":["Emecé-editores-dirección.jpg"]
 
   }
@@ -49,7 +50,7 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos \"Colón\"",
     "category": "Printer",
-    "description": "",
+    "popupContent": "Los talleres gráficos \"Colón\"",
     "images": ["Colombo-honorary-dinner.jpg"]
 
   }
@@ -63,8 +64,7 @@ var locations = [
   "properties": {
     "name": "Manuel Gleizer",
     "category": "Publisher",
-    "description": "",
-    "images": [""]
+    "popupContent": "Manuel Gleizer"
 
   }
 },{
@@ -77,8 +77,8 @@ var locations = [
   "properties": {
     "name": "Imprenta López",
     "category": "Printer",
-    "description": "",
     "images": ["Imprenta-lópez-shop2.jpg"]
+    "popupContent": "Imprenta López"
 
   }
 },{
@@ -91,8 +91,7 @@ var locations = [
   "properties": {
     "name": "Los talleres gráficos J. Hays Bells",
     "category": "Printer",
-    "description": "",
-    "images": []
+    "popupContent": "Los talleres gráficos J. Hays Bells"
 
   }
 },{
@@ -105,7 +104,7 @@ var locations = [
   "properties": {
     "name": "Editorial Sudamericana",
     "category": "Publisher",
-    "description": "",
+    "popupContent": "Editorial Sudamericana",
     "images": ["Editorial-sudamericana-shop.jpg"]
 
   }
@@ -119,7 +118,7 @@ var locations = [
   "properties": {
     "name": "Editorial Losada",
     "category": "Publisher",
-    "description": "bananas",
+    "popupContent": "Editorial Losada",
     "images": ["Editorial-losada-shop.jpg"]
 
   }
@@ -133,8 +132,7 @@ var locations = [
   "properties": {
     "name": "Macagno, Landa y Cía",
     "category": "Publisher",
-    "description": "",
-    "images": []
+    "popupContent": "Macagno, Landa y Cía",
 
 }
 }, {
@@ -147,7 +145,7 @@ var locations = [
   "properties": {
     "name": "Editorial Sur",
     "category": "Publisher",
-    "description": "",
+    "popupContent": "Editorial Sur",
     "images": ["Ocampo-exhibición.jpg"]
 
   }
@@ -161,8 +159,7 @@ var locations = [
   "properties": {
     "name": "Américalee, Editora e Impresora",
     "category": "Publisher & Printer",
-    "description": "",
-    "images": []
+    "popupContent": "Américalee, Editora e Impresora",
 
   }
 }, {
@@ -175,7 +172,7 @@ var locations = [
   "properties": {
     "name": "Imprenta Iglesias y Matera",
     "category": "Printer",
-    "description": "",
+    "popupContent": "Imprenta Iglesias y Matera",
     "images": []
 
   }
@@ -189,7 +186,7 @@ var locations = [
   "properties": {
     "name": "Domingo Viau y Zona",
     "category": "Publisher",
-    "description": "",
+    "popupContent": "omingo Viau y Zona",
     "images": ["Viau-shop.jpg"]
 
   }
@@ -203,7 +200,7 @@ var locations = [
   "properties": {
     "name": "Editorial Kapelusz y Cía",
     "category": "Publisher",
-    "description": "",
+    "popupContent": "Editorial Kapelusz y Cía",
     "images": []
 
   }
@@ -217,8 +214,7 @@ var locations = [
   "properties": {
     "name": "Talleres gráficos Linari y Cía",
     "category": "Printer",
-    "description": "",
-    "images": []
+    "popupContent": "Talleres gráficos Linari y Cía",
 
   }
 }, {
@@ -231,8 +227,7 @@ var locations = [
   "properties": {
     "name": "Editorial Nova",
     "category": "Publisher",
-    "description": "",
-    "images": []
+    "popupContent": "Editorial Nova",
   }
 }
 ];

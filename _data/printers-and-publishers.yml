@@ -7,6 +7,7 @@ editorial-tor:
   affiliated-firms:
     - title: "Editorial Tor: Salón de exposiciones y ventas"
   collections: ["Colección Megáfono"]
+  popupContent: "Editorial Tor"
   location:
     - "-58.43062439999999,-34.6065302"
     - "-58.431854999999985,-34.6068083"
