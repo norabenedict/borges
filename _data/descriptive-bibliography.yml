@@ -723,16 +723,17 @@ fausto:
   title: Fausto
   author: Estanislao del Campo
   prologue: Jorge Luis Borges
-  date: 01/02/1946
+  date: 14/05/1946
   publisher: editorial-nova
-  printer: "imprenta-lópez"
+  printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    typography: ""
-    colophon: ""
-    binding: ""
-    source: ""
+    gatherings: "[1-6] 7-9 [10] 11-17 [18] 19-27 [28] 29-35 [36] 37-57 [58] 59-65 [66-68]"
+    paper: "Wove. Thin creme-colored paper. No visible chain or wire lines. Pages are cut to a uniform length."
+    typography: "Serif typeface throughout."
+    colophon: "Este libro se terminó de imprimir el día 14 de mayo de 1946 en la Imprenta López - Perú 666 - Buenos Aires"
+    binding: "Red and orange plaid hardcover book. There is an illustration on the front cover of two figures. The cover has black lettering: 'ESTANISLAO DEL CAMPO | FAUSTO | [illustration of two figures] | COLECCIÓN MAR DULCE'. The back cover has the price of the volume printed in the lower right-hand cover: '$ 3. – m/arg.'. The spine is slightly discolored: 'FAUSTO'."
+    illustrations: "At the start of each section of the poem there are original drawings by Luis Seoane. These are printed in red ink."
+    source: "United States. Cornell University Library. Call number: PQ 7797.C19F2"
   bookcover: "fausto-cover.jpg"
   typespecimen:
     image: ""
