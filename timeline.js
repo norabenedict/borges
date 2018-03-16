@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
 	var timelines = $('.cd-horizontal-timeline'),
-		eventsMinDistance = 200;
+		eventsMinDistance = 210;
 
 	(timelines.length > 0) && initTimeline(timelines);
 
@@ -153,14 +153,14 @@ jQuery(document).ready(function($){
 			selectedContentHeight = selectedContent.height();
 
 		if (selectedContent.index() > visibleContent.index()) {
-			var classEnetering = 'selected enter-left',
+			var classEntering = 'selected enter-left',
 				classLeaving = 'leave-right';
 		} else {
-			var classEnetering = 'selected enter-right',
+			var classEntering = 'selected enter-right',
 				classLeaving = 'leave-left';
 		}
 
-		selectedContent.attr('class', classEnetering);
+		selectedContent.attr('class', classEntering);
 		visibleContent.attr('class', classLeaving).one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function(){
 			visibleContent.removeClass('leave-left leave-right');
 			selectedContent.removeClass('enter-right enter-left');

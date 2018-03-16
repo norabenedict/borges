@@ -679,12 +679,11 @@ la-humillación-de-los-northmore:
     images: ""
     description: ""
 
-
 bocetos-californianos:
   title: Bocetos californianos
   author: Francis Bret Harte
   prologue: Jorge Luis Borges
-  date: 03/01/1946
+  date: 01/01/1946
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
@@ -698,7 +697,6 @@ bocetos-californianos:
   typespecimen:
     image: ""
     description: ""
-
 
 dos-fantasías-memorables:
   title: Dos fantasías memorables
@@ -725,7 +723,7 @@ fausto:
   title: Fausto
   author: Estanislao del Campo
   prologue: Jorge Luis Borges
-  date: 01/01/1946
+  date: 01/02/1946
   publisher: editorial-nova
   printer: "imprenta-lópez"
   descriptive_bibliography:
