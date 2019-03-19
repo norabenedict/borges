@@ -773,16 +773,16 @@ novelas-ejemplares:
   publisher: emecé-editores
   printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: "8º: 1-666, 333 leaves, [1-9] 10-28 [29] 30-31 [32-33] 34 [35-37] 38-116 [117-119] 120-165 [166-169] 170-217 [218-221] 222-275 [276-279] 280-310 [311-313] 314-335 [336-339] 340-381 [382-385] 386-449 [450-453] 454-496 [497-499] 500-542 [543-545] 546-561 [562-565] 566-634 [635-637] 638-657 [658-666]"
+    gatherings: "333 leaves, [1-9] 10-28 [29] 30-31 [32-33] 34 [35-37] 38-116 [117-119] 120-165 [166-169] 170-217 [218-221] 222-275 [276-279] 280-310 [311-313] 314-335 [336-339] 340-381 [382-385] 386-449 [450-453] 454-496 [497-499] 500-542 [543-545] 546-561 [562-565] 566-634 [635-637] 638-657 [658-666]"
     paper: "Wove. Thin creme-colored paper. Slightly visible chain lines. Pages are cut to a uniform length."
     colophon: "Este libro se terminó de imprimir el día 18 de noviembre de 1946, en los Talleres Gráficos Didot S. R. L., Calle Rondeau 3068, B. Aires"
-    binding: "Green cloth covering a hardcover book (the original dust jacket is missing on this copy). The Biblioteca Emecé logo is blind stamped into the top half of the front cover. The spine, in gold lettering, reads: 'Cervantes | Novelas Ejemplares | [Emecé logo]'."
+    binding: "Green cloth covering a hardcover book (the original dust jacket is missing on this copy). The Biblioteca Emecé logo is blind stamped into the top half of the front cover. The spine, in gold lettering, reads: \"Cervantes - Novelas Ejemplares - [Emecé logo]\"."
     illustrations: "There is a tipped in image of Miguel de Cervantes at the start of this work, immediately following the title page."
     source: "United States. Princeton University Library. Call number: PQ6324 .A1 1946"
   bookcover: "novelas-ejemplares-cover.jpg"
-    source: "Image of the book with its original dust jacket was taken from MercadoLibre (https://perfil.mercadolibre.com.ar/SMR.MAR)"
+  additional_notes: "Image of the book with its original dust jacket was taken from MercadoLibre"
   typespecimen:
-    image: "novelas-ejemplares.jpg"
+    image: ""
     description: ""
 
 un-modelo-para-la-muerte:
