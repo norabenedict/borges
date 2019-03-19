@@ -51,6 +51,15 @@ emecé-editores:
     - Emecé-editores-dirección.jpg
     - Emecé-editores-description.jpg
 
+los-talleres-gráficos-didot:
+  name: "Los talleres gráficos Didot S. R. L."
+  type: printer
+  history: ""
+  affiliated-firms:
+    - emecé-editores
+  location:
+    - "-58.406995,-34.636066"
+
 los-talleres-gráficos-el-colón:
   name: "Los talleres gráficos el 'Colón'"
   type: printer

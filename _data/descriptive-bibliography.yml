@@ -339,6 +339,24 @@ antología-clásica-de-la-literatura-argentina:
     images: ""
     description: ""
 
+las-palmeras-salvajes:
+  title: "Las palmeras salvajes"
+  author: William Faulkner
+  translation: Jorge Luis Borges
+  date: 02/01/1940
+  publisher: editorial-sudameriana
+  printer: ""
+  descriptive_bibliography:
+    gatherings: "368 pp."
+    paper: ""
+    colophon: ""
+    binding: ""
+    source: ""
+  bookcover: ""
+  typespecimen:
+    image: ""
+    description: ""
+
 la-invención-de-morel:
   title: "La invención de Morel"
   author: Adolfo Bioy Casares
@@ -356,7 +374,6 @@ la-invención-de-morel:
   typespecimen:
     image: ""
     description: ""
-  source: ""
 
 antología-de-la-literatura-fantástica:
   title: "Antología de la literatura fantástica"
@@ -436,8 +453,6 @@ el-jardín-de-senderos-que-se-bifurcan:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
 
 seis-problemas-para-don-isidro-parodi:
   title: "Seis problemas para don Isidro Parodi"
@@ -456,8 +471,6 @@ seis-problemas-para-don-isidro-parodi:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
 
 los-mejores-cuentos-policiales:
   title: "Los mejores cuentos policiales"
@@ -478,8 +491,6 @@ los-mejores-cuentos-policiales:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
 
 
 bartleby:
@@ -512,7 +523,6 @@ poemas:
     gatherings: "8º: 1-118 124, 92 leaves, pp. [1-10] 11-74 [75-76] 77-117 [118-120] 121-135 [136-138] 139-154 [155-156] 157-181 [182-184]"
     title-page: "JORGE LUIS BORGES | POEMAS | [1922-1943] | [Editorial Losada logo] |EDITORIAL LOSADA, S. A. | BUENOS AIRES"
     paper: "Wove. Vertical chain lines. All pages are uniformly cut. There is a great deal of foxing throughout."
-    typography: ""
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL DIA 17 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y TRES, EN LA IMPRENTA LOPEZ, PERU 666, BUENOS AIRES, REPUBLICA ARGENTINA.' ([182])."
     binding: "A crème-colored soft-cover book with a significant amount of foxing from wear and age. The writing on the front cover is black and red: 'JORGE LUIS BORGES | POEMAS | [1922-1943] | [illustration by Attilio Rossi] | EDITORIAL LOSADA, S. A. | BUENOS AIRES'. The spine, in black, reads: “JORGE LUIS | BORGES | POEMAS | EDITORIAL | LOSADA, S. A. | BUENOS AIRES”. The back cover has the original price printed in the lower right-hand corner: '$5.—m/arg.'. "
     illustrations: "The front cover has an original illustration by Borges’s friend, Attilio Rossi."
@@ -521,11 +531,9 @@ poemas:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
 
 recuerdos-de-provincia:
-  title: Recuerdos de provincia
+  title: "Recuerdos de provincia"
   author: Domingo F. Sarmiento
   prologue: Jorge Luis Borges
   date: 15/05/1944
@@ -544,7 +552,7 @@ recuerdos-de-provincia:
     description: ""
 
 los-mejores-cuentos-policiales-2:
-  title: Los mejores cuentos policiales
+  title: "Los mejores cuentos policiales"
   editor:
     - Jorge Luis Borges
     - Adolfo Bioy Casares
@@ -564,7 +572,7 @@ los-mejores-cuentos-policiales-2:
     description: ""
 
 ficciones:
-  title: Ficciones
+  title: "Ficciones"
   author: Jorge Luis Borges
   date: 04/12/1944
   publisher: editorial-sur
@@ -583,7 +591,7 @@ ficciones:
     description: ""
 
 el-compadrito:
-  title: El compadrito
+  title: "El compadrito"
   editor:
     - Jorge Luis Borges
     - Sylvina Bullrich Palenque
@@ -604,7 +612,7 @@ el-compadrito:
     description: ""
 
 cabeza-yacente:
-  title: Cabeza yacente
+  title: "Cabeza yacente"
   author: Vicente Barbieri
   date: 20/02/1945
   publisher: editorial-destiempo
@@ -641,7 +649,7 @@ pragmatismo:
     description: ""
 
 sartor-resartus:
-  title: Sartor Resartus
+  title: "Sartor Resartus"
   author: Thomas Carlyle
   prologue: Jorge Luis Borges
   date: 01/02/1945
@@ -660,7 +668,7 @@ sartor-resartus:
     description: ""
 
 la-humillación-de-los-northmore:
-  title: La humillación de los Northmore
+  title: "La humillación de los Northmore"
   author: Henry James
   translator: Haydée Lange
   prologue: Jorge Luis Borges
@@ -680,7 +688,7 @@ la-humillación-de-los-northmore:
     description: ""
 
 bocetos-californianos:
-  title: Bocetos californianos
+  title: "Bocetos californianos"
   author: Francis Bret Harte
   prologue: Jorge Luis Borges
   date: 01/01/1946
@@ -699,13 +707,13 @@ bocetos-californianos:
     description: ""
 
 dos-fantasías-memorables:
-  title: Dos fantasías memorables
+  title: "Dos fantasías memorables"
   author: "H. Bustos Domecq (Jorge Luis Borges and Adolfo Bioy Casares)"
   date: 29/11/1946
   publisher: editorial-oportet-haereses
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "8º: 18 210, 18 leaves, pp. [1-9] 10-20 [21-23] 24-34 [35-36]"
+    gatherings: "8º: 18 leaves, pp. [1-9] 10-20 [21-23] 24-34 [35-36]"
     title_page: "H. BUSTOS DOMECQ | DOS FANTASIAS MEMORABLES | OPORTET & HAERESES | BUENOS AIRES | 1946"
     paper: "Wove. Slightly yellowed paper due to age; virtually no foxing. Verticle chain lines. Very thick paper, akin to a construction paper (appears to be of a higher quality). The pages are cut to a uniform size."
     colophon: "'ESTE LIRBO SE TERMINÓ DE IMPRIMIR EL DÍA 29 DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y SEIS, EN LA IMPRENTA LÓPEZ, PERÚ 666, BUENOS AIRES, REPÚBLICA ARGENTINA.' ([35])."
@@ -716,11 +724,10 @@ dos-fantasías-memorables:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
+
 
 fausto:
-  title: Fausto
+  title: "Fausto"
   author: Estanislao del Campo
   prologue: Jorge Luis Borges
   date: 14/05/1946
@@ -740,7 +747,7 @@ fausto:
     description: ""
 
 juárez-y-maximiliano:
-  title: Juárez y Maximiliano
+  title: "Juárez y Maximiliano"
   author: Franz Werfel
   prologue: Jorge Luis Borges
   date: 02/01/1946
@@ -759,25 +766,27 @@ juárez-y-maximiliano:
     description: ""
 
 novelas-ejemplares:
-  title: Novelas ejemplares
+  title: "Novelas ejemplares"
   author: Miguel de Cervantes
   prologue: Jorge Luis Borges
-  date: 03/01/1946
+  date: 18/11/1946
   publisher: emecé-editores
-  printer: ""
+  printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    colophon: ""
-    binding: ""
-    source: ""
+    gatherings: "8º: 1-666, 333 leaves, [1-9] 10-28 [29] 30-31 [32-33] 34 [35-37] 38-116 [117-119] 120-165 [166-169] 170-217 [218-221] 222-275 [276-279] 280-310 [311-313] 314-335 [336-339] 340-381 [382-385] 386-449 [450-453] 454-496 [497-499] 500-542 [543-545] 546-561 [562-565] 566-634 [635-637] 638-657 [658-666]"
+    paper: "Wove. Thin creme-colored paper. Slightly visible chain lines. Pages are cut to a uniform length."
+    colophon: "Este libro se terminó de imprimir el día 18 de noviembre de 1946, en los Talleres Gráficos Didot S. R. L., Calle Rondeau 3068, B. Aires"
+    binding: "Green cloth covering a hardcover book (the original dust jacket is missing on this copy). The Biblioteca Emecé logo is blind stamped into the top half of the front cover. The spine, in gold lettering, reads: 'Cervantes | Novelas Ejemplares | [Emecé logo]'."
+    illustrations: "There is a tipped in image of Miguel de Cervantes at the start of this work, immediately following the title page."
+    source: "United States. Princeton University Library. Call number: PQ6324 .A1 1946"
   bookcover: "novelas-ejemplares-cover.jpg"
+    source: "Image of the book with its original dust jacket was taken from MercadoLibre (https://perfil.mercadolibre.com.ar/SMR.MAR)"
   typespecimen:
-    image: ""
+    image: "novelas-ejemplares.jpg"
     description: ""
 
 un-modelo-para-la-muerte:
-  title: Un modelo para la muerte
+  title: "Un modelo para la muerte"
   author: "B. Suárez Lynch (Jorge Luis Borges and Adolfo Bioy Casares)"
   date: 29/11/1946
   publisher: editorial-oportet-haereses
@@ -794,11 +803,10 @@ un-modelo-para-la-muerte:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
+
 
 nueva-refutación-del-tiempo:
-  title: Nueva refutación del tiempo
+  title: "Nueva refutación del tiempo"
   author: Jorge Luis Borges
   date: 07/05/1947
   publisher: editorial-oportet-haereses
@@ -816,7 +824,7 @@ nueva-refutación-del-tiempo:
     description: ""
 
 los-mejores-cuentos-policiales-3:
-  title: Los mejores cuentos policiales
+  title: "Los mejores cuentos policiales"
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
@@ -836,26 +844,26 @@ los-mejores-cuentos-policiales-3:
     description: ""
 
 arquitectura-del-insomnio:
-  title: Arquitectura del insomnio
+  title: "Arquitectura del insomnio"
   author: Ema Risso Platero
   prologue: Jorge Luis Borges
-  date: 01/01/1948
+  date: 20/08/1948
   publisher: ediciones-botella-al-mar
-  printer: ""
+  printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    typography: ""
-    colophon: ""
-    binding: ""
-    source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 A8 1948, Copy 1 & 2."
+    gatherings: "104 leaves,[1-8] 9-14 [12-14] 15-20 [21-22] 23-33 [34-36] 37-43 [44-46] 47-52 [53-54] 55-63 [64-66] 67-71 [72-74] 75-78 [79-80] 81-83 [84-86] 87-112 [113-114] 115-118 [119-120] 121-124 [125-126] 127-128 [129-130] 130-136 [137-138] 139-205 [206-208]"
+    paper: "Wove. A thicker creme-colored paper. No visible chain or wire lines. All pages are cut to a uniform length."
+    colophon: "Este libro se terminó de imprimir del día 20 de agosto del año mil novecientos cuarenta y ocho en la Imprenta López, Perú 666, Buenos Aires, República Argentina."
+    binding: "Rebound library book (Princeton copy)"
+    illustrations: "Throughout the book there are five original drawings by Luis Seoane. The cover art on the dust jacket was also drawn by Seoane."
+    source: "United States. Princeton University Library. Call number: ReCap 3176 .57 .313. ; Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 A8 1948, Copy 1 & 2."
   bookcover: "arquitectura-del-insomnio.jpg"
   typespecimen:
     image: ""
     description: ""
 
 prosa-y-verso:
-  title: Prosa y verso
+  title: "Prosa y verso"
   author: Francisco de Quevedo
   editor:
     - Adolfo Bioy Casares
@@ -876,7 +884,7 @@ prosa-y-verso:
     description: ""
 
 antigua-lumbre:
-  title: Antigua lumbre
+  title: "Antigua lumbre"
   author: Wally Zenner
   preface: Jorge Luis Borges
   date: 10/11/1949
@@ -894,7 +902,7 @@ antigua-lumbre:
     description: ""
 
 el-aleph:
-  title: El Aleph
+  title: "El Aleph"
   author: Jorge Luis Borges
   date: 01/01/1949
   publisher: editorial-losada
@@ -910,11 +918,10 @@ el-aleph:
   typespecimen:
     images: ""
     description: ""
-  advertiments:
-    images: ""
+
 
 ferment:
-  title: Ferment
+  title: "Ferment"
   author: William Shand
   prologue: Jorge Luis Borges
   date: 01/01/1950
@@ -933,7 +940,7 @@ ferment:
 
 
 buenos-aires-en-tinta-china:
-  title: Buenos Aires en tinta china
+  title: "Buenos Aires en tinta china"
   author: Attilio Rossi
   prologue: Jorge Luis Borges
   date: 29/03/1951
@@ -951,11 +958,10 @@ buenos-aires-en-tinta-china:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
+
 
 antiguas-literaturas-germánicas:
-  title: Antiguas literaturas germánicas
+  title: "Antiguas literaturas germánicas"
   editor:
     - Delia Ingenieros
     - Jorge Luis Borges
@@ -973,11 +979,10 @@ antiguas-literaturas-germánicas:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
+
 
 la-muerte-y-la-brújula:
-  title: La muerte y la brújula
+  title: "La muerte y la brújula"
   author: Jorge Luis Borges
   date: 21/09/1951
   publisher: emecé-editores
@@ -994,8 +999,7 @@ la-muerte-y-la-brújula:
   typespecimen:
     images: ""
     description: ""
-  advertisements:
-    images: ""
+
 
 los-mejores-cuentos-policiales-segunda-serie:
   title: "Los mejores cuentos policiales (segunda serie)"
@@ -1037,28 +1041,28 @@ los-mejores-cuentos-policiales-segunda-serie-2:
     image: ""
     description: ""
 
-el-aleph-2:
-  title: El Aleph
-  author: Jorge Luis Borges
-  date: 01/01/1952
-  publisher: editorial-losada
-  printer: macagno-landa-y-cía
-  descriptive_bibliography:
-    gatherings: "8º: 1-108, 80 leaves, pp. [1-6] 7-157 [158-160]"
-    title-page: "JORGE LUIS BORGES | EL ALEPH | (SEGUNDA EDICIÓN) | [Editorial Losada logo] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
-    paper: "Wove. Visible horizontal chain lines throughout. Many of the pages remain uncut. Those pages that are cut are uniform in length. Virtually all of the pages are in great condition with little to no yellowing or aging."
-    colophon: "'Este libro se terminó de imprimir el día 16 de junio de 1952, en Macagno, Landa y Cía., Aráoz 162 – Buenos Aires.' ([6])"
-    binding: "An olive-green soft-cover book with an original drawing on the front cover. The text on the front cover is black, red, and white: “JORGE LUIS BORGES | EL ALEPH | [Original drawing] | EDITORIAL LOSADA, S. A. | BUENOS AIRES”. The spine, in black with a red illustration, reads: “JORGE | LUIS | BORGES | EL | ALEPH | [illustration] | [Losada logo] | EDITORIAL | LOSADA, S. A. | BUENOS | AIRES”. The interior flaps remain intact. The front flap describes the collection, with several reviews since the original publication of this book (1949); the back flap lists other books published by Losada."
-    source: "Personal copy."
-  bookcover: "el-aleph-cover.jpg"
-  typespecimen:
-    images: ""
-    description: ""
-  advertiments:
-    images: ""
+##el-aleph-2:
+  ##title: "El Aleph"
+  ##author: Jorge Luis Borges
+  ##date: 01/01/1952
+  ##publisher: editorial-losada
+  ##printer: macagno-landa-y-cía
+  ##descriptive_bibliography:
+    #gatherings: "8º: 1-108, 80 leaves, pp. [1-6] 7-157 [158-160]"
+    #title-page: "JORGE LUIS BORGES | EL ALEPH | (SEGUNDA EDICIÓN) | [Editorial Losada logo] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
+    #paper: "Wove. Visible horizontal chain lines throughout. Many of the pages remain uncut. Those pages that are cut are uniform in length. Virtually all of the pages are in great condition with little to no yellowing or aging."
+    #colophon: "'Este libro se terminó de imprimir el día 16 de junio de 1952, en Macagno, Landa y Cía., Aráoz 162 – Buenos Aires.' ([6])"
+    #binding: "An olive-green soft-cover book with an original drawing on the front cover. The text on the front cover is black, red, and white: “JORGE LUIS BORGES | EL ALEPH | [Original drawing] | EDITORIAL LOSADA, S. A. | BUENOS AIRES”. The spine, in black with a red illustration, reads: “JORGE | LUIS | BORGES | EL | ALEPH | [illustration] | [Losada logo] | EDITORIAL | LOSADA, S. A. | BUENOS | AIRES”. The interior flaps remain intact. The front flap describes the collection, with several reviews since the original publication of this book (1949); the back flap lists other books published by Losada."
+    #source: "Personal copy."
+  #bookcover: "el-aleph-cover.jpg"
+  #typespecimen:
+    #images: ""
+    #description: ""
+  #advertiments:
+    #images: ""
 
 homenaje-a-francisco-almeyra:
-  title: Homenaje a Francisco Almeyra
+  title: "Homenaje a Francisco Almeyra"
   author: Adolfo Bioy Casares
   date: 01/01/1954
   publisher: editorial-oportet-haereses
@@ -1078,17 +1082,17 @@ homenaje-a-francisco-almeyra:
     images: ""
 
 los-mejores-cuentos-policiales-segunda-serie-3:
-  title: Los mejores cuentos policiales
+  title: "Los mejores cuentos policiales"
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  date: 01/01/1956
+  date: 12/20/1956
   publisher: emecé-editores
   descriptive_bibliography:
     gatherings: "8º: 1-22(-228)8, 176 leaves, pp. 352 total"
     title-page: "LOS MEJORES | CUENTOS | POLICIALES | segunda serie "
     paper: "Wove. No visible chain or wire lines. Very thin paper with some a great deal of yellowing due to age. Many of the pages maintain a deckle edge, while others have been cut more uniformly. Several gatherings show that pages have been bound improperly with large portions of the text caught in the gutter (while conjugate leaves have strangely large margins)."
-    colophon: "None present in the volume."
+    colophon: "Esta tercerca edición de 'Los mejores cuentos policiales', se acabó de imprimir en Buenos Aires el 20 de diciembre de 1956, en los talleres de la compañía impresora argentina, S. A., Alsina 2049."
     binding: "A soft-cover book with a unique cover illustration designed by José Bonomi. The text on the spine reads: “LOS MEJORES | CUENTOS | POLICIALES | segunda serie | EMECÉ”. Each of the short stories included in this collection are printed on the back cover. The price of the volume is also printed on the back cover: “$ 46. – m/arg”. The cover has been split and re-adhered to the front and back of the text block, making it impossible to open the first few pages of the book. "
     source: "Personal copy."
   bookcover: "los-mejores-cuentos-policiales-cover3.jpg"
