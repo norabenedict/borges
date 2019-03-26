@@ -344,15 +344,16 @@ la-invención-de-morel:
   title: "La invención de Morel"
   author: Adolfo Bioy Casares
   prologue: Jorge Luis Borges
-  date: 03/01/1940
+  date: 14/11/1940
   publisher: editorial-losada
-  printer: ""
+  printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    colophon: ""
-    binding: ""
-    source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call Number: PQ7797 .B635 I594 1940."
+    gatherings: "pp. [3-8] 9-13 [14] 15-169 [170-172]"
+    title-page: "ADOLFO BIOY CASARES | LA INVENCION | DE MOREL | Prólogo de JORGE LUIS BORGES | [Logo de Losada] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
+    paper: "Wove. No visible chain or wire lines. Very brittle and yellowed. All pages are cut to a uniform length."
+    colophon: "Acabado de imprimir el día 14 de noviembre de 1940. Imprenta López - Perú 666 - Buenos Aires."
+    binding: "Rebound library book"
+    source: "United States. University of Michigan Library. Call number: 868 B616. & Borges Collection, Small Special Collections, University of Virginia. Call Number: PQ7797 .B635 I594 1940."
   bookcover: "la-invencion-de-morel1.jpg"
   typespecimen:
     image: ""
@@ -753,16 +754,16 @@ juárez-y-maximiliano:
   title: "Juárez y Maximiliano"
   author: Franz Werfel
   prologue: Jorge Luis Borges
-  date: 02/01/1946
+  date: 10/07/1946
   publishing house: emecé-editores
-  printer: ""
+  printer: los-talleres-gráficos-de-la-compañía-impresora-argentina
   descriptive_bibliography:
-    gatherings: ""
-    title-page: ""
-    paper: ""
-    typography: ""
-    colophon: ""
-    binding: ""
+    gatherings: "pp. [1-6] * 7-13 [14] 15-16 * 17-48 * 49-87 [88] 89-92 * 93-118 * 119-156 * 157-200 * 201-221 [222] 223 [224-228]"
+    title-page: "FRANZ WERFEL | JUÁREZ Y | MAXIMILIANO | <i> Historia Dramática </i> | [Teatro del mundo logo] | EMECÉ EDITORES, S. A. | BUENOS AIRES"
+    paper: "Wove. Visible chain lines throughout. The paper is thin, but it is of a high quality with larger margins throughout. All of the pages are cut to a uniform length."
+    colophon: "Este libro se acabó de imprimir en Buenos Aires el 10 de Julio de 1946 en los Talleres de la Compañía Impresora Argentina, S. A., Alsina 2049"
+    illustrations: "There are seven color lithographs by Edgar Koetz tipped in throughout the book. These are indicated in the pagination with a *."
+    binding: "Rebound library book."
     source: "United States. University of Pittsburgh. Call number: PT2647.E77 J9 1946sp."
   bookcover: "juarez-y-maximiliano-cover.jpg"
   typespecimen:
