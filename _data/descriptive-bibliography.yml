@@ -143,7 +143,7 @@ un-cuarto-propio:
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "[1-9] 10-31 [32-35] 36-50 [51-53] 54-68 [69-71] 72-92 [93-95] 96-110 [111-113] 114-132 [133-134]"
+    gatherings: "pp. [1-9] 10-31 [32-35] 36-50 [51-53] 54-68 [69-71] 72-92 [93-95] 96-110 [111-113] 114-132 [133-134]"
     title-page: "VIRGINIA WOOLF | UN CUARTO | PROPIO | SUR | BUENOS AIRES "
     paper: "Wove. Vertical chain lines. Very clean, white pages. The pages are not cut uniformly."
     colophon: "SE ACABÓ DE IMPRIMIR ESTE LIBRO / PARA LAS EDICIONES ‘SUR’ EN SU / PRIMERA Y ÚNICA TRADUCCIÓN ES- / PAÑOLA AUTORIZADA POR LA AUTO- / RA, EN LA IMPRENTA LÓPEZ / PERU 666, BUENOS AIRES, A ME / DIADOS DEL MES DE JULIO DE 1936. ([134])"
@@ -161,7 +161,7 @@ historia-de-la-eternidad:
   publisher: viau-y-zona
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
-    gathingers: "8º: 1-88, 64 leaves, pp. 1-8] 9-33 [34] 35-69 [70-72] 73-89 [90] 91-104 [105-106] 107-121 [122-128]"
+    gathingers: "8º: 1-8, 64 leaves, pp. 1-8] 9-33 [34] 35-69 [70-72] 73-89 [90] 91-104 [105-106] 107-121 [122-128]"
     title-page: "JORGE LUIS BORGES | HISTORA DE | LA ETERNIDAD | BUENOS AIRES | 1936"
     paper: "Wove. Verticle chain lines on each of the pages. Yellowing due to age, with lots of foxing throughout. No chain or wire lines are visible on the pages. Thick paper (akin to a construction paper that is quite worn with age), but of a much lesser quality than what we find in other works printed by Colombo of this same decade. The pages are cut uniformly."
     colophon: "'SE ACABÓ DE IMPRIMIR EL 29 DE ABRIL DE 1936 POR FRANCISCO A. COLOMBO BUENOS AIRES' ([127])"
@@ -184,6 +184,7 @@ perséphone:
   printer: imprenta-lópez
   descriptive_bibliography:
     gatherings: "24 leaves, pp. [1-3] 4-47 [48] (The 24 leaves are simply gathered and stapled down the center)"
+    title-page: ""
     paper: "Wove. Verticle chain lines. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly."
     colophon: "'ESTA EDICIÓN GRATUITA DE 'PERSÉPHONE' EN HOMENAJE A IGOR STRAWINKSY, SE TERMINÓ DE IMPRIMIR EN LA IMPRENTA LÓPEZ, PERÚ 666 EN LA PRIMERA QUINCENA DEL MES DE MAYO DE 1936.' ([48])"
     binding: "Black soft-cover book that is more akin to a thick pamphlet. The back cover describes the purpose of the work: 'Publicación gratuita de la revista SUR en homenaje a Igor Strawinsky'."
@@ -220,7 +221,7 @@ orlando:
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "8º: 1-198, 2010, 162 leaves, pp. [1-8] 9-11 [12] 13-323 [324]"
+    gatherings: "8º: 1-19 8, 2010, 162 leaves, pp. [1-8] 9-11 [12] 13-323 [324]"
     title-page: "VIRGINIA WOOLF |  ORLANDO | UNA BIOGRAFIA | SUR | BUENOS AIRES"
     paper: "Wove. No visible chain or wire lines. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly."
     colophon: "'SE ACABÓ DE IMPRI-MIR ESTE LIBRO, PARA LA EDITORIAL SUR, EN SU PRIME-RA Y ÚNICA TRA-DUCCIÓN ESPAÑOLA AUTORIZADA POR LA AUTORA, DI-RECTAMENTE DEL INGLÉS, EL DÍA TREINTA DE JUNIO DE MIL NOVECIENTOS TREIN-TA Y SIETE, EN LA IMPRENTA LÓPEZ, CALLE PERÚ 666 BUENOS AIRES.' ([324])"
@@ -243,7 +244,7 @@ marea-de-lágrimas:
   publisher: editorial-destiempo
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
-    gatherings: "8º: 1-68, 48 leaves, pp. 96, [1-10] 11-16 [17-18] 19-23 [24-26] 27-34 [35-36] 37-43 [44-46] 47-58 [59-60] 61-68 [69-70] 71-80 [81-82] 83-88 [89-96]"
+    gatherings: "8º: 1-6, 48 leaves, pp. 96, [1-10] 11-16 [17-18] 19-23 [24-26] 27-34 [35-36] 37-43 [44-46] 47-58 [59-60] 61-68 [69-70] 71-80 [81-82] 83-88 [89-96]"
     title-page: "ULYSES PETIT de MURAT | MAREA DE LAGRIMAS | Un libro de Elegías | EDITORIAL DESTIEMPO | BUENOS AIRES | 1937"
     paper: "Wove. Horizontal chain lines. Very clean and crisp pages, which seems to speak to the high quality of the paper used. The pages are cut uniformly."
     colophon: "Se terminó de imprimir | el 9 de Diciembre de 1937, | por Francisco A. Colombo, | en Buenos Aires ([95])"
@@ -264,7 +265,7 @@ diez-poemas-sin-poesía:
   publisher: editorial-destiempo
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
-    gatherings: "[1-8] 9-10 [11] 12-17 [18] 19-20 [21-22] 23-33 [34] 35-45 [46] 47-53 [54] 55-56 [57-58] 59-65 [66] 67-68 [69-72]"
+    gatherings: "pp. [1-8] 9-10 [11] 12-17 [18] 19-20 [21-22] 23-33 [34] 35-45 [46] 47-53 [54] 55-56 [57-58] 59-65 [66] 67-68 [69-72]"
     title-page: "NICOLAS OLIVARI | DIEZ | POEMAS SIN POESIA | EDITORIAL DESTIEMPO | BUENOS AIRES | 1938"
     paper: "Wove. Faint horizontal chain lines. The pages are cut to a uniform size, and there is a bit of foxing throughout the pages."
     colophon: "'SE TERMINÓ DE IMPRIMIR POR LA EDITORIAL DESTIEMPO EL 23 DE MAYO DE 1938 EN BUENOS AIRES' ([97])."
@@ -286,7 +287,7 @@ mallarmé-entre-nosotros:
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
-    gatherings: "8º: 1-68, 72, 50 leaves, pp. [1-8] 9-20 [21-22] 23-32 [33-36] 37-48 [49-52] 53-59 [60-62] 63-91 [92] 93-94 [95-100]"
+    gatherings: "8º: 1-6 8, 72, 50 leaves, pp. [1-8] 9-20 [21-22] 23-32 [33-36] 37-48 [49-52] 53-59 [60-62] 63-91 [92] 93-94 [95-100]"
     title-page: "ALFONSO REYES | MALLARMÉ  | entre nosotros | EDITORIAL DESTIEMPO | BUENOS AIRES | 1938"
     paper: "Wove. Faint horizontal chain lines. The pages are cut to a uniform size, and there is a significant amount of spotting throughout the pages due to aging. The front inside flap lists information about other works published by the Editorial Destiempo, as well as their prices."
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EL 11 DE MAYO DE 1938, POR FRANCISCO A. COLOMBO' ([97])."
@@ -306,7 +307,7 @@ la-metamorfosis:
   publisher: editorial-losada
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "8º: 1-128, 96 leaves, pp. [1-6] 7-11 [12] 13-107 [108-110] 111-131 [132-134] 135-153 [154-156] 157-162 [163-164] 165-168 [169-170] 171-172 [173-174] 175-177 [178-180] 181-182 [183-184] 185-186 [187-188] 189 [190-192]"
+    gatherings: "8º: 1-12, 96 leaves, pp. [1-6] 7-11 [12] 13-107 [108-110] 111-131 [132-134] 135-153 [154-156] 157-162 [163-164] 165-168 [169-170] 171-172 [173-174] 175-177 [178-180] 181-182 [183-184] 185-186 [187-188] 189 [190-192]"
     title-page: "FRANZ KAFKA | LA METAMORFOSIS | [“la pajarita de papel” logo] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
     paper: "Wove. Faint horizontal chain lines. The pages are cut to a uniform size, and there is a significant amount of foxing throughout the pages due to aging. Attilio Rossi has created original illustrated headers to divide each of the sections in this works (and for all of the works in the “pajarita de papel” series). There are also flashy endpapers with origami paper birds in green that echo the name of the series as a whole."
     colophon: "'LA PAJARITA DE PAPEL VOLUMEN I AL CUIDADO GRAFICO DE ATTILIO ROSSI Y EN LA IMPRENTA LOPEZ, PERU 666, BUENOS AIRES, ACABOSE DE IMPRIMIR ESTE LIRBO EL 15 DE AGOSTO DE 1938' ([191])."
@@ -328,7 +329,7 @@ antología-clásica-de-la-literatura-argentina:
   publisher: editorial-a-kapelusz-y-cía
   printer: talleres-gráficos-linari
   descriptive_bibliography:
-    gatherings: "[1-6] 7-8 [9-10] 11-437 [438] 439-440 [441-442] 443-445 [446]"
+    gatherings: "pp. [1-6] 7-8 [9-10] 11-437 [438] 439-440 [441-442] 443-445 [446]"
     title-page: "ANTOLOGIA CLASICA | DE LA | LITERATURA ARGENTINA | SELECCION DE | *PEDRO HENRIQUEZ UREÑA* | Y | *JORGE LUIS BORGES* | SEGUNDA EDICION | [graphic of a star] | Editorial A. Kapelusz y Cía. | PIEDRAS 126 BUENOS AIRES"
     paper: "Wove. Faint horizontal chain lines. The pages are cut to a uniform size, and they are very yellowed and brittle to the touch."
     colophon: "There is no colophon at the end of this work. The only sign of a printer is the address given on the last page: “2454 – Talleres Gráficos Linari y Cía” (445)."
@@ -385,7 +386,8 @@ antología-de-la-literatura-fantástica:
   publisher: editorial-sudameriana
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
-    gatherings: "8º: 1-208, 216, 166 leaves, pp. [1-7] 8-15 [16-17] 18-328 [329-332]"
+    gatherings: "8º: 1-20 8, 216, 166 leaves, pp. [1-7] 8-15 [16-17] 18-328 [329-332]"
+    title-page: ""
     paper: "Wove. Faint horizontal chain lines. Most of the pages are cut to a uniform size, but some pages have been opened poorly and, as a result, have jagged edges or are missing chunks of the top portion of the page."
     colophon: "'SE TERMINÓ DE IMPRIMIR EL VEIN-TICUATRO DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA, EN LA IMPRENTA J. HAYS, BRANSEN ESQUINA GABOTO, BUENOS AIRES' ([329])."
     binding: "A  grey-green and crème-colored soft-cover book with a brick-like design on the front cover. The front has grey and red lettering: “J. L. BORGES – S. OCAMPO – A. BIOY CASARES | ANTOLOGIA DE LA | LITERATURA FANTÁSTICA| [illustration of an angel] | COLECCION LABERTINO | EDITORIAL SUDAMERICANA”. In addition to this printing on the front cover, there are also two crème-colored boxes with the names of several included authors in the collection in grey ink: “Jean Cocteau | Jorge Luis Borges | G. K. Chesterton | Macedonio Fernández | Franz Kafka | R. Gómez de la Serna | Leopoldo Lugones | James Joyce | Carlos Grünberg”; “E. Martínez Estrada | U. Petit de Murat | Alfonsina Storni | Ricardo Molinari | Guy de Maupassant | François Rabelais | Thomas Carlyle | Giovanni Papini | Edgar Allan Poe | Herbert G. Wells | Rudyard Kipling | Léon Bloy | Engene [sic] O’Neill | Max Beerbohm”. The original price of the volume is printed on the back cover in grey ink: “$3.50 m/arg.”. The spine reads, in grey and red ink: “J. L. BORGES | S. OCAMPO | A. BIOY | CASARES | ANTOLOGIA | DE LA | LITERATURA | FANTÁSTICA | [illustration of an angel] | COLECCION LABERTINO | BUENOS AIRES”. The two interior flaps are intact; the one inside the front cover contains a description of the current anthology while the one inside the back cover has a list of other titles published by Editorial Sudamericana."
@@ -405,7 +407,7 @@ antología-poética-argentina:
   publisher: editorial-sudamericana
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
-    gatherings: "8º: 1-198, 152 leaves, pp. [1-7] 8-11 [12] 13-300 [301] 302-303 [304]"
+    gatherings: "8º: 1-19, 152 leaves, pp. [1-7] 8-11 [12] 13-300 [301] 302-303 [304]"
     title-page: "JORGE LUIS BORGES – SILVINA OCAMPO | ADOLFO BIOY CASARES | ANTOLOGÍA | POÉTICA ARGENTINA | EDITORIAL SUDAMERICANA | BUENOS AIRES"
     paper: "Wove. Faint horizontal chain lines. Most of the pages are cut to a uniform size, but some pages have been opened poorly and, as a result, have jagged edges. Some pages remain uncut."
     colophon: "'SE TERMINÓ DE IMPRIMIR EN BUENOS AIRES EL CUATRO DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA Y UNO EN LOS TALLE-RES GRÁFICO DE J. HAYS BELL. BRANDSEN 100 (ESQ. GABOTO).'"
@@ -425,7 +427,7 @@ un-bárbaro-en-asia:
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "8º: 1-128, 136, 102 leaves, pp. [1-6] 7-200 [201-204]"
+    gatherings: "8º: 1-12 8, 136, 102 leaves, pp. [1-6] 7-200 [201-204]"
     title-page: "HENRI MICHAUX | UN BARBARO | EN ASIA | [Sur logo with downward arrow through the name] | BUENOS AIRES"
     paper: "Wove. Horizontal chain lines on each of the pages. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly and are quite jagged."
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 14 DE JULIO DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERÚ 666, BUENOS AIRES' ([202])."
@@ -443,7 +445,7 @@ el-jardín-de-senderos-que-se-bifurcan:
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "[1-6] 7-35 [36] 37-61 [62] 63-71 [72] 73-83 [84] 85-105 [106] 107-124 [125-128]"
+    gatherings: "pp. [1-6] 7-35 [36] 37-61 [62] 63-71 [72] 73-83 [84] 85-105 [106] 107-124 [125-128]"
     title-page: "JORGE LUIS BORGES | EL JARDIN | DE SENDEROS | QUE SE BIFURCAN | SUR [with a blue arrow down the center of the word] | BUENOS AIRES"
     paper: "Wove. Vertical chain lines on each of the pages. The pages are quite light with very little yellowing or age damage. In comparison with other works published by the Editorial Sur during this time, the paper seems of a much higher quality. There are organic flecks throughout the pages, which also suggests a higher quality of material. The pages are also cut to a more uniform length with slight deckle edges, but it is impossible to say whether the pages were trimmed while the text block was being rebound, or if this quality is from the original state of binding of the book itself."
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 30 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUAREN-TA Y UNO, EN LA IMPRENTA LÓPEZ PERU 666, BUENOS AIRES' ([126])."
@@ -461,7 +463,7 @@ seis-problemas-para-don-isidro-parodi:
   publisher: editorial-sur
   printer: imprenta-iglesias-y-matera
   descriptive_bibliography:
-    gatherings: "8º: 1-108116, 86 leaves, pp. [1-6] 7-15 [16] 17-55 [56] 57-75 [76] 77-139 [140] 141-164 [165-172]"
+    gatherings: "8º: 1-10 8, 86 leaves, pp. [1-6] 7-15 [16] 17-55 [56] 57-75 [76] 77-139 [140] 141-164 [165-172]"
     title-page: "H. BUSTOS DOMECQ | SEIS PROBELMAS | PARA | DON ISIDRO PARODI | PALABRA LIMINAR DE | GERVASIO MONTENEGRO | SUR [with a blue arrow down the center of the word] | BUENOS AIRES"
     paper: "Wove. Horizontal chain lines on each of the pages. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly."
     colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL 10 DE DICIEMBRE DE MIL NO-VICIENTOS CUARENTA Y DOS, EN LA IMPRENTA IGLESIAS Y MATERA, CORRIENTES 1258, Bs. As.'"
@@ -502,7 +504,7 @@ bartleby:
   publisher: emecé-editores
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
-    gatherings: "8º: 1-48, 54, 66, 42 leaves, pp. [1-8] 9-81 [82-84]"
+    gatherings: "8º: 1-4 8, 54, 66, 42 leaves, pp. [1-8] 9-81 [82-84]"
     title-page: "HERMAN MELVILLE | BARTELBY | Prólogo y versión directa del inglés | por | JORGE LUIS BORGES | CUADERNOS DE LA QUIMERA | EMECÉ EDITORES, S. A. | BUENOS AIRES"
     paper: "Wove. Yellowing due to age, but there is no foxing. No chain or wire lines are visible on the pages. Thicker paper, but of a much lesser quality than what we find in other works printed by Colombo of this same decade. The pages are not cut uniformly and some even hang over the edge of the covers."
     colophon: "'EL 30 DE OCTUBRE DE 1943 SE ACABÓ DE IMPRIMIR ESTE CUADERNO, EN LOS TALLERES GRÁFICOS DE SEBASTIÁN DE AMORRORTU E HIJOS, AVENIDA CÓRDOBA 2028, BUENOS AIRES' ([83])."
@@ -540,7 +542,7 @@ recuerdos-de-provincia:
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
-    gatherings: "8º: 1-208, 214, 164 leaves, pp. [1-8] 9-15 [16] 17-47 [48] 49 [50] 51-320 [321-328]"
+    gatherings: "8º: 1-20 8, 214, 164 leaves, pp. [1-8] 9-15 [16] 17-47 [48] 49 [50] 51-320 [321-328]"
     title-page: "DOMINGO F. SARMIENTO | RECUERDOS | DE PROVINCIA | Prólogo y notas de | JORGE LUIS BORGES | [Emecé Editores logo] | EMECÉ EDITORES, S.A. | BUENOS AIRES"
     paper: "Wove. No visible chain or wire lines on any of the pages. The pages are mostly clean and contain next to no foxing. The pages are not cut uniformly and several hang over the edge of the binding."
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EL DÍA 15 DE MAYO DEL AÑO 1944, EN PLATT S. A. (PROTO-TIPOGRAFÍA PUBLICITARIA ARGENTINA LUIS L. GOTELLI), DEFENSA 633, DE BUENOS AIRES' ([325])."
@@ -560,7 +562,7 @@ los-mejores-cuentos-policiales-2:
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
-    gatherings: "8º: 1-188, 194, 148 leaves, pp. [1-8] 9-21 [22-24] 25-40 [41-42] 43-46 [47-48] 49-69 [70-72] 73-85 [86-88] 89-93 [94-96] 97-115 [116-118] 119-136 [137-138] 139-150 [151-152] 153-169 [170-172] 173-189 [190-192] 193-215 [216-218] 219-226 [227-228] 229-261 [262-264] 265-275 [276-278] 279-291 [292] 293 [294]"
+    gatherings: "8º: 1-18 8, 194, 148 leaves, pp. [1-8] 9-21 [22-24] 25-40 [41-42] 43-46 [47-48] 49-69 [70-72] 73-85 [86-88] 89-93 [94-96] 97-115 [116-118] 119-136 [137-138] 139-150 [151-152] 153-169 [170-172] 173-189 [190-192] 193-215 [216-218] 219-226 [227-228] 229-261 [262-264] 265-275 [276-278] 279-291 [292] 293 [294]"
     title-page: "LOS MEJORES | CUENTOS | POLICIALES | EMECÉ EDITORES, S. A. | BUENOS AIRES"
     paper: "Wove. Horizontal chain lines. Very thin paper, but virtually no yellowing or damage due to age. The pages are cut to a uniform size."
     colophon: "'SE TERMINÓ DE IMPRIMIR ESTE LIBRO EN BUENOS AIRES, EL DÍA DOCE DE NOVIEMBRE DE MIL NO-VECIENTOS CUARENTA Y CUATRO, EN LOS TALLERES GRÁFICOS DE J. HAYS BELL, BRANDSEN Y GABOTO.' ([294])."
@@ -578,7 +580,7 @@ ficciones:
   publisher: editorial-sur
   printer: imprenta-lópez
   descriptive_bibliography:
-      gatherings: "8º: 1-128 136, 102 leaves, pp. [1-8] 937 [38] 39-63 [64] 65-73 [74] 75-85 [86] 87-107 [108] 109-126 [127-128] 129 [130] 131-143 [144] 145-153 [154] 155-179 [180] 181-191 [192] 193-201 [202] 203 [204]"
+      gatherings: "8º: 1-12 8 136, 102 leaves, pp. [1-8] 937 [38] 39-63 [64] 65-73 [74] 75-85 [86] 87-107 [108] 109-126 [127-128] 129 [130] 131-143 [144] 145-153 [154] 155-179 [180] 181-191 [192] 193-201 [202] 203 [204]"
       title-page: "JORGE LUIS BORGES | FICCIONES | (1935-1944) | SUR [with a downward arrow going through the center of the word] | BUENOS AIRES"
       paper: "Wove. Visible (horizontal) chain lines on each of the pages. Extreme yellow due to age and the pages are very brittle to the touch. The pages are not cut uniformly."
       colophon: "'ESTE LIBRO SE TERMINO DE IMPRIMIR EL DIA 4 DE DICIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y CUATRO, EN LA IMPRENTA LOPEZ PERU 666, BUENOS AIRES, REPUBLICA ARGENTINA.'"
@@ -599,7 +601,7 @@ el-compadrito:
   publisher: emecé-editores
   printer: los-talleres-gráficos-j-hays-bell
   descriptive_bibliography:
-    gatherings: "[1-6] 7-8 [9-10] 11-55 [56-58] 59-72 [73-74] 75-108 [109-116]"
+    gatherings: "pp. [1-6] 7-8 [9-10] 11-55 [56-58] 59-72 [73-74] 75-108 [109-116]"
     title-page: "EL COMPADRITO | SU DESTINO, SUS BARRIOS, SU MÚSICA | [Emecé Editores logo] | EMECÉ EDITORES, S. A. – BUENOS AIRES "
     paper: "Wove. Extremely white, clean pages. No chain or wire lines are visible on the pages. The pages are cut to a uniform size."
     colophon: "'ESTE LIBRO SE TERMINÓ DE IMPRIMIR EN BS. AIRES EL 10 DE FEBRERO DE 1945 EN LOS TALLERES GRÁ-FICOS DE J. HAYS BELL, BRANDSEN Y GABOTO. LAS LÁMINAS FUERON IM-PRESAS EN LOS TALLERES  PLATT, S. A., DEFENSA 633.' ([61])"
@@ -633,16 +635,16 @@ pragmatismo:
   title: "Pragmatismo"
   author: William James
   prologue: Jorge Luis Borges
-  date: 01/01/1945
+  date: 14/03/1945
   publisher: emecé-editores
-  printer: ""
+  printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: ""
-    title-page: ""
-    paper: ""
-    colophon: ""
-    binding: ""
-    source: "United States. University of Virginia. Call number: PQ7797 .B635 Z999.J17 P7 1945"
+    gatherings: "8º: 1-14, 112 leaves, pp. [1-9] 10-14 [15-17] 18 [19-21] 22-43 [44-47] 48-70 [71-73] 74-96 [97-99] 100-120 [121-123] 124-141 [142-145] 146-170 [171-173] 174-193 [194-197] 198-216 [217] 218 [219] 220-222 [223-224]"
+    title-page: "WILLIAM JAMES | PRAGMATISMO | UN NOMBRE NUEVO PARA ALGUNOS | VIEJOS MODOS DE PENSAR | <i> Conferencias de divulgación filosófica </i> | [Emecé logo] | EMECÉ EDITORES, S. A. | BUENOS AIRES"
+    paper: "Wove. Visible chain lines throughout. The pages have yellowed slightly and there is some foxing throughout."
+    colophon: "Este libro se terminó de imprimir el día 14 de marzo de 1945, en los Talleres Gráficos Didot S. R. L., Calle Rondeau 3068, B. Aires"
+    binding: "Green hardcover book. The Biblioteca Emecé logo is blind stamped in the top third of the front cover. There is also gold lettering stamped on the spine: 'JAMES | PRAGMA | TISMO | [Emecé logo]'. The original dust jacket was missing from the Harvard copy."
+    source: "United States. Harvard University. Call number: KD 36706. ; University of Virginia. Call number: PQ7797 .B635 Z999.J17 P7 1945"
   bookcover: "pragmatismo-cover.jpg"
   typespecimen:
     image: ""
@@ -676,7 +678,7 @@ la-humillación-de-los-northmore:
   publisher: emecé-editores
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
-    gatherings: "8º: 1-48, 32 leaves, pp. [1-8] 9-13 [14] 15-57 [58-64]"
+    gatherings: "8º: 1-4, 32 leaves, pp. [1-8] 9-13 [14] 15-57 [58-64]"
     title-page: "HENRY JAMES | LA | HUMILLACIÓN | DE LOS | NORTHMORE | Prólogo de | JORGE LUIS BORGES | Versión directa del inglés por | HAYDÉE LANGE | CUADERNOS DE LA QUIMERA | EMECÉ EDITORES, S. A. | BUENOS AIRES"
     paper: "Wove. Yellowing due to age, but there are no rust spots. No chain or wire lines are visible on the pages. Thicker paper, but of a much lesser quality than what we find in other works printed by Colombo of this same decade. The pages are not cut uniformly and some even hang over the edge of the covers."
     colophon: "'EL 26 DE ABRIL DE 1945 SE ACABÓ DE IMPRIMIR EL PRIMER MILLAR DE ESTE CUADERNO, EN LOS TA-LLERES GRÁFICOS DE SEBASTIÁN DE AMORRORTU E HIJOS, AVENIDA CÓRDOBA 2028, BUENOS AIRES' ([61])."
@@ -714,7 +716,7 @@ dos-fantasías-memorables:
   printer: imprenta-lópez
   descriptive_bibliography:
     gatherings: "8º: 18 leaves, pp. [1-9] 10-20 [21-23] 24-34 [35-36]"
-    title_page: "H. BUSTOS DOMECQ | DOS FANTASIAS MEMORABLES | OPORTET & HAERESES | BUENOS AIRES | 1946"
+    title-page: "H. BUSTOS DOMECQ | DOS FANTASIAS MEMORABLES | OPORTET & HAERESES | BUENOS AIRES | 1946"
     paper: "Wove. Slightly yellowed paper due to age; virtually no foxing. Verticle chain lines. Very thick paper, akin to a construction paper (appears to be of a higher quality). The pages are cut to a uniform size."
     colophon: "'ESTE LIRBO SE TERMINÓ DE IMPRIMIR EL DÍA 29 DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS CUA-RENTA Y SEIS, EN LA IMPRENTA LÓPEZ, PERÚ 666, BUENOS AIRES, REPÚBLICA ARGENTINA.' ([35])."
     binding: "A hard-cover book half-bound in marbled paper with a blue cloth spine. The printing on the spine appears on a small strip of paper (originally white) that reads (in black): “H. BUSTOS DOMECQ | DOS FANTASIAS MEMORABLES”. The printed label on the spine is missing from the second copy. Since the text block in this copy is detached from the spine, it was clear that this part had simply been glued to the covers. There is a small amount of gauze-like material in the interior portion of the spine. There are also two small pieces of fabric sewed to either end of the spine to (possibly) give the appearance that this text block was sewn to the cover boards. Also, by being able to analyze the text block separately from the cover boards, it is clear that there are only two gatherings."
@@ -734,7 +736,8 @@ fausto:
   publisher: editorial-nova
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "[1-6] 7-9 [10] 11-17 [18] 19-27 [28] 29-35 [36] 37-57 [58] 59-65 [66-68]"
+    gatherings: "pp. [1-6] 7-9 [10] 11-17 [18] 19-27 [28] 29-35 [36] 37-57 [58] 59-65 [66-68]"
+    title-page: ""
     paper: "Wove. Thin creme-colored paper. No visible chain or wire lines. Pages are cut to a uniform length."
     typography: "Serif typeface throughout."
     colophon: "Este libro se terminó de imprimir el día 14 de mayo de 1946 en la Imprenta López - Perú 666 - Buenos Aires"
@@ -755,6 +758,7 @@ juárez-y-maximiliano:
   printer: ""
   descriptive_bibliography:
     gatherings: ""
+    title-page: ""
     paper: ""
     typography: ""
     colophon: ""
@@ -773,7 +777,8 @@ novelas-ejemplares:
   publisher: emecé-editores
   printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: "333 leaves, [1-9] 10-28 [29] 30-31 [32-33] 34 [35-37] 38-116 [117-119] 120-165 [166-169] 170-217 [218-221] 222-275 [276-279] 280-310 [311-313] 314-335 [336-339] 340-381 [382-385] 386-449 [450-453] 454-496 [497-499] 500-542 [543-545] 546-561 [562-565] 566-634 [635-637] 638-657 [658-666]"
+    gatherings: "333 leaves, pp. [1-9] 10-28 [29] 30-31 [32-33] 34 [35-37] 38-116 [117-119] 120-165 [166-169] 170-217 [218-221] 222-275 [276-279] 280-310 [311-313] 314-335 [336-339] 340-381 [382-385] 386-449 [450-453] 454-496 [497-499] 500-542 [543-545] 546-561 [562-565] 566-634 [635-637] 638-657 [658-666]"
+    title-page: "MIGUEL DE CERVANTES SAAVEDRA | NOVELAS | EJEMPLARES | [Emecé logo] | EMECÉ EDITORES, S. A. | BUENOS AIRES"
     paper: "Wove. Thin creme-colored paper. Slightly visible chain lines. Pages are cut to a uniform length."
     colophon: "Este libro se terminó de imprimir el día 18 de noviembre de 1946, en los Talleres Gráficos Didot S. R. L., Calle Rondeau 3068, B. Aires"
     binding: "Green cloth covering a hardcover book (the original dust jacket is missing on this copy). The Biblioteca Emecé logo is blind stamped into the top half of the front cover. The spine, in gold lettering, reads: \"Cervantes - Novelas Ejemplares - [Emecé logo]\"."
@@ -812,7 +817,7 @@ nueva-refutación-del-tiempo:
   publisher: editorial-oportet-haereses
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
-    gatherings: "[1-8] 9-19 [20] 21-33 [34-37]"
+    gatherings: "pp. [1-8] 9-19 [20] 21-33 [34-37]"
     title-page: "JORGE LUIS BORGES | NUEVA REFUTACIÓN | DEL TIEMPO | OPORTET & HAERESES | BUENOS AIRES | 1947"
     paper: "Wove. No visible chain or wire lines. Very thick paper, akin to a construction paper (appears to be of a higher quality) that has almost a glossy texture. The pages are cut to a uniform size."
     colophon: "'SE TERMINO DE IMPRIMIR EL 7 DE MAYO DE 1947 EN CASA DE DON FRANCISCO A. COLOMBO HORTIGUERA 552 BUENOS AIRES.' ([37])"
@@ -843,15 +848,16 @@ los-mejores-cuentos-policiales-3:
     images: ""
     description: ""
 
-arquitectura-del-insomnio:
-  title: "Arquitectura del insomnio"
+arquitecturas-del-insomnio:
+  title: "Arquitecturas del insomnio"
   author: Ema Risso Platero
   prologue: Jorge Luis Borges
   date: 20/08/1948
   publisher: ediciones-botella-al-mar
   printer: imprenta-lópez
   descriptive_bibliography:
-    gatherings: "104 leaves,[1-8] 9-14 [12-14] 15-20 [21-22] 23-33 [34-36] 37-43 [44-46] 47-52 [53-54] 55-63 [64-66] 67-71 [72-74] 75-78 [79-80] 81-83 [84-86] 87-112 [113-114] 115-118 [119-120] 121-124 [125-126] 127-128 [129-130] 130-136 [137-138] 139-205 [206-208]"
+    gatherings: "104 leaves, pp. [1-8] 9-14 [12-14] 15-20 [21-22] 23-33 [34-36] 37-43 [44-46] 47-52 [53-54] 55-63 [64-66] 67-71 [72-74] 75-78 [79-80] 81-83 [84-86] 87-112 [113-114] 115-118 [119-120] 121-124 [125-126] 127-128 [129-130] 130-136 [137-138] 139-205 [206-208]"
+    title-page: "EMA RISSO PLATERO | ARQUITECTURAS | DEL INSOMNIO | <i> Cuentos fantásticos </i> | PRÓLOGO DE | JORGE LUIS BORGES | <i> Ediciones </i> | BOTELLA AL MAR | Buenos Aires"
     paper: "Wove. A thicker creme-colored paper. No visible chain or wire lines. All pages are cut to a uniform length."
     colophon: "Este libro se terminó de imprimir del día 20 de agosto del año mil novecientos cuarenta y ocho en la Imprenta López, Perú 666, Buenos Aires, República Argentina."
     binding: "Rebound library book (Princeton copy)"
@@ -874,6 +880,7 @@ prosa-y-verso:
   printer: artes-gráficas-amorrortu
   descriptive_bibliography:
     gatherings: "1-912, 456 leaves, [1-6] 7-16 [17-18] 19-117 [118-120] 121-810 [811-812] 813-899 [900] 901-904 [905-912]"
+    title-page: "FRANCISCO DE QUEVEDO | PROSA Y VERSO | [black and white print of Quevedo] | EMECÉ EDITORES, S. A. / BUENOS AIRES"
     paper: "Wove. Thin creme-colored paper. Slightly visible chain lines throughout. All of the pages are cut to a uniform length. Minimal foxing on some pages."
     colophon: "Este libro se terminó de imprimir el día 30 de octubre del año 1948, en los talleres gráficos de Sebastián de Amorrortu e Jijos, de Luca 2227, de Buenos Aires. Ballester Peña grabó el retrato de Quevedo."
     binding: "Rebound libary book, but the original boards are preserved for the covers."
@@ -881,6 +888,24 @@ prosa-y-verso:
   bookcover: "prosa-y-verso.jpg"
   typespecimen:
     image: ""
+    description: ""
+
+la-invención-de-morel-2:
+  title: "La invención de Morel (2a ed.)"
+  author: Adolfo Bioy Casares
+  preface: Jorge Luis Borges
+  date: 07/12/1948
+  printer: los-talleres-gráficos-semca
+  descriptive_bibliography:
+    gatherings: "pp. [3-8] 9-13 [14] 15-140 [141-144]"
+    title-page: "ADOLFO BIOY CASARES | LA INVENCION | DE MOREL | <i> NOVELA </i> | <i> Prólogo de JORGE LUIS BORGES </i> | [SUR logo] | BUENOS AIRES."
+    paper: "Wove. Visible chain lines throughout. Slightly yellowed pages due to age. All pages are cut to a uniform size."
+    colophon: "Se acabó la impresión de este libro en los Talleres Gráficos SEMCA, Humberto I 1050 Bs. Aires, el 7 de diciembre de 1948"
+    binding: "Rebound library book."
+    source: "United States. Duke University Library. Call number: PQ7797 .B535 I584 1948"
+  bookcover: "la-invencion-de-morel-2.jpg"
+  typespecimen:
+    images: ""
     description: ""
 
 antigua-lumbre:
@@ -929,6 +954,7 @@ ferment:
   printer: "imprenta-lópez"
   descriptive_bibliography:
     gatherings: "[55 pp.]"
+    title-page: ""
     paper: "Wove. Thin, creme-colored paper with no visible chain or wire lines. The pages have been cut to a uniform length."
     typography: "Serif typeface throughout."
     binding: "Soft cover book with a unique teal and white swirled cover illustration by Luis Seoane. On the front is an image of a boat, and on the back is a sun with an eye in the center."
@@ -1086,7 +1112,7 @@ los-mejores-cuentos-policiales-segunda-serie-3:
   editor:
     - Adolfo Bioy Casares
     - Jorge Luis Borges
-  date: 12/20/1956
+  date: 20/12/1956
   publisher: emecé-editores
   descriptive_bibliography:
     gatherings: "8º: 1-22(-228)8, 176 leaves, pp. 352 total"

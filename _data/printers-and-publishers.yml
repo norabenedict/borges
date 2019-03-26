@@ -73,6 +73,15 @@ los-talleres-gráficos-el-colón:
   images:
     - Colombo-honorary-dinner.jpg
 
+los-talleres-gráficos-semca:
+  name: "Los Talleres Gráficos SEMCA"
+  type: printer
+  history: ""
+  affiliated-firms:
+    - editorial-sur
+  location:
+    - "-58.395195, -34.677978"
+
 manuel-gleizer:
   name: Manuel Gleizer
   type: publisher
