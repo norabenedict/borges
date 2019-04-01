@@ -694,16 +694,16 @@ bocetos-californianos:
   title: "Bocetos californianos"
   author: Francis Bret Harte
   prologue: Jorge Luis Borges
-  date: 01/01/1946
+  date: 06/12/1946
   publisher: emecé-editores
-  printer: ""
+  printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: ""
-    title-page: ""
-    paper: ""
-    colophon: ""
-    binding: ""
-    source: ""
+    gatherings: "154 leaves, pp. [1-9] 10-13 [14-15] 16-48 [49] 50-59 [60-61] 62-75 [76-77] 78-89 [90-91] 92-110 [111] 112-125 [126-127] 128-139 [140-141] 142-146 [147] 148-161 [162-163] 164-170 [171] 172-184 [185] 186-239 [240-241] 242-281 [282-283] 284-301 [302-308]"
+    title-page: "FRANCIS BRET HARTE | BOCETOS | CALIFORNIANOS | CUENTOS | [Biblioteca Emecé logo] | EMECÉ EDITORES, S.A. | BUENOS AIRES"
+    paper: "Wove. A thin, brittle paper that has noticle yellowing around the edges due to age. Visible chain lines. The pages have been cut to a uniform length."
+    colophon: "Este libro se terminó de imprimir el día 6 de diciembre de 1946, en los Talleres Gráficos Didot S.R.L., Calle Rondeau 3068, B. Aires"
+    binding: "Red hardcover book with the Emecé logo blind stamped in the top half of the front cover. The spine reads, in gold lettering: 'HARTE | BOCETOS | CALIFOR | NIANOS | [Emecé logo'."
+    source: "United States. University of Southern California. Call number:"
   bookcover: "bocetos-californianos-cover.jpg"
   typespecimen:
     image: ""
