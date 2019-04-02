@@ -703,14 +703,14 @@ bocetos-californianos:
     paper: "Wove. A thin, brittle paper that has noticle yellowing around the edges due to age. Visible chain lines. The pages have been cut to a uniform length."
     colophon: "Este libro se terminó de imprimir el día 6 de diciembre de 1946, en los Talleres Gráficos Didot S.R.L., Calle Rondeau 3068, B. Aires"
     binding: "Red hardcover book with the Emecé logo blind stamped in the top half of the front cover. The spine reads, in gold lettering: 'HARTE | BOCETOS | CALIFOR | NIANOS | [Emecé logo'."
-    source: "United States. University of Southern California. Call number: PS 1829 C318 1946."
+    source: "United States. University of California Libraries (Irvine). Call number: PS 1829 C318 1946."
   bookcover: "bocetos-californianos-cover.jpg"
   typespecimen:
     image: ""
     description: ""
 
 dos-fantasías-memorables:
-  title: "Dos fantasías memorables"
+  title: "Dos fantasías memorables"g
   author: "H. Bustos Domecq (Jorge Luis Borges and Adolfo Bioy Casares)"
   date: 29/11/1946
   publisher: editorial-oportet-haereses
