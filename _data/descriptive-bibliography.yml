@@ -363,15 +363,16 @@ palmeras-salvajes:
   title: Las palmeras salvajes
   author: William Faulkner
   translation: Jorge Luis Borges
-  date: 10/03/1940
+  date: 20/10/1940
   publisher: editorial-sudameriana
   printer: ""
   descriptive_bibliography:
-    gatherings: "368 pp."
-    paper: ""
-    colophon: ""
-    binding: ""
-    source: ""
+    gatherings: "pp. [3-6] 7-27 [28] 29-37 [38] 39-91 [92] 93-365 [366-368]"
+    title-page: "WILLIAM FAULKNER | LAS PALMERAS | SALVAJES | <i> Traducción de </i> | JORGE LUIS BORGES | EDITORIAL SUDAMERICANA | BUENOS AIRES"
+    paper: "Wove. Visible chain lines. All of the pages have been cut to a uniform size. The paper is thick and of a higher quality than most other works produced for the Editorial Sudamericana."
+    colophon: "Se acabó de imprimir este libro el veinte de octubre de mil novecientos cuarenta en Buenos Aires, Argentina"
+    binding: "Rebound library book."
+    source: "United States. Library of Congress. Call number: FLS 2014 035235"
   bookcover: "palmeras-salvajes.jpg"
   typespecimen:
     image: ""
