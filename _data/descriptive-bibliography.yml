@@ -103,7 +103,7 @@ reposo:
   prologue: Jorge Luis Borges
   date: 30/09/1930
   publisher: manuel-gleizer
-  printer: ""
+  printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
     gatherings: ""
     title-page: "ELVIRA DE ALVEAR | REPOSO | Prólogo de JORGE LUIS BORGES | Litografías de HECTOR BASALDUA | [logo of M. Gleizer] | COLECCION INDICE | M. GLEIZER EDITOR | BUENOS AIRES - 1934"
@@ -215,7 +215,6 @@ perséphone:
   typespecimen:
     image: ""
     description: ""
-
 
 luis-greve-muerto:
   title: "Luis Greve, muerto"
