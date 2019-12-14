@@ -79,29 +79,11 @@ las-kenningar:
   advertisements:
     images: ""
 
-el-paso-de-los-libres:
-  title: El paso de los libres
-  author: Arturo M. Jauretche
-  prologue: Jorge Luis Borges
-  date: 12/01/1934
-  publisher: editorial-la-boina-blanca
-  descriptive_bibliography:
-    gatherings: "8º: 1-6, 48 leaves, pp. [1-6] 7-9 [10] 11-93 [94-96]"
-    title-page: "ARTURO M. JAURETCHE | *EL PASO DE* | *LOS LIBRES* | Relato gaucho de la última revolución radical | (Diciembre de 1933) dicho en verso por | el paisano JULIAN BARRIENTOS, | que anduvo en ella. | PROLOGO DE JORGE LUIS BORGES | EDITORIAL “LA BOINA BLANCA” | URUGUAY 435 – BUENOS AIRES"
-    paper: "Wove. Verticle chain lines on each of the pages. Relatively clean pages with slight foxing."
-    colophon: "No colophon present in this volume."
-    binding: "Does not maintain the original binding."
-    source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 P38 1934. This copy is rebound and forms part of a personal library of someone with the initials “J. F. T.” as they are inscribed on the spine in gold."
-  bookcover: "el-paso-de-los-libres-cover.jpg"
-  typespecimen:
-    images:
-    description:
-
 reposo:
   title: Reposo
   author: Elvira de Alvear
   prologue: Jorge Luis Borges
-  date: 30/09/1930
+  date: 01/01/1934
   publisher: manuel-gleizer
   printer: los-talleres-gráficos-el-colón
   descriptive_bibliography:
@@ -119,6 +101,24 @@ reposo:
   typespecimen:
     images: ""
     description: ""
+
+el-paso-de-los-libres:
+  title: El paso de los libres
+  author: Arturo M. Jauretche
+  prologue: Jorge Luis Borges
+  date: 12/01/1934
+  publisher: editorial-la-boina-blanca
+  descriptive_bibliography:
+    gatherings: "8º: 1-6, 48 leaves, pp. [1-6] 7-9 [10] 11-93 [94-96]"
+    title-page: "ARTURO M. JAURETCHE | *EL PASO DE* | *LOS LIBRES* | Relato gaucho de la última revolución radical | (Diciembre de 1933) dicho en verso por | el paisano JULIAN BARRIENTOS, | que anduvo en ella. | PROLOGO DE JORGE LUIS BORGES | EDITORIAL “LA BOINA BLANCA” | URUGUAY 435 – BUENOS AIRES"
+    paper: "Wove. Verticle chain lines on each of the pages. Relatively clean pages with slight foxing."
+    colophon: "No colophon present in this volume."
+    binding: "Does not maintain the original binding."
+    source: "United States. Borges Collection, Small Special Collections, University of Virginia. Call number: PQ7797 .B635 P38 1934. This copy is rebound and forms part of a personal library of someone with the initials “J. F. T.” as they are inscribed on the spine in gold."
+  bookcover: "el-paso-de-los-libres-cover.jpg"
+  typespecimen:
+    images:
+    description:
 
 historia-universal-de-la-infamia:
   title: Historia universal de la infamia
