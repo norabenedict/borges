@@ -1094,7 +1094,7 @@ el-aleph-2:
   publisher: editorial-losada
   printer: macagno-landa-y-cía
   descriptive_bibliography:
-    #gatherings: "8º: 1-108, 80 leaves, pp. [1-6] 7-157 [158-160]"
+    gatherings: "8º: 1-108, 80 leaves, pp. [1-6] 7-157 [158-160]"
     title-page: "JORGE LUIS BORGES | EL ALEPH | (SEGUNDA EDICIÓN) | [Editorial Losada logo] | EDITORIAL LOSADA, S. A. | BUENOS AIRES"
     paper: "Wove. Visible horizontal chain lines throughout. Many of the pages remain uncut. Those pages that are cut are uniform in length. Virtually all of the pages are in great condition with little to no yellowing or aging."
     colophon: "'Este libro se terminó de imprimir el día 16 de junio de 1952, en Macagno, Landa y Cía., Aráoz 162 – Buenos Aires.' ([6])"
@@ -1136,10 +1136,10 @@ los-mejores-cuentos-policiales-segunda-serie-3:
   publisher: emecé-editores
   descriptive_bibliography:
     gatherings: "8º: 1-22(-228)8, 176 leaves, pp. 352 total"
-    title-page: "LOS MEJORES | CUENTOS | POLICIALES | segunda serie "
+    title-page: "LOS MEJORES | CUENTOS | POLICIALES | segunda serie"
     paper: "Wove. No visible chain or wire lines. Very thin paper with some a great deal of yellowing due to age. Many of the pages maintain a deckle edge, while others have been cut more uniformly. Several gatherings show that pages have been bound improperly with large portions of the text caught in the gutter (while conjugate leaves have strangely large margins)."
     colophon: "Esta tercerca edición de 'Los mejores cuentos policiales', se acabó de imprimir en Buenos Aires el 20 de diciembre de 1956, en los talleres de la compañía impresora argentina, S. A., Alsina 2049."
-    binding: "A soft-cover book with a unique cover illustration designed by José Bonomi. The text on the spine reads: “LOS MEJORES | CUENTOS | POLICIALES | segunda serie | EMECÉ”. Each of the short stories included in this collection are printed on the back cover. The price of the volume is also printed on the back cover: “$ 46. – m/arg”. The cover has been split and re-adhered to the front and back of the text block, making it impossible to open the first few pages of the book. "
+    binding: "A soft-cover book with a unique cover illustration designed by José Bonomi. The text on the spine reads: “LOS MEJORES | CUENTOS | POLICIALES | segunda serie | EMECÉ”. Each of the short stories included in this collection are printed on the back cover. The price of the volume is also printed on the back cover: “$ 46. – m/arg”. The cover has been split and re-adhered to the front and back of the text block, making it impossible to open the first few pages of the book."
     source: "Personal copy."
   bookcover: "los-mejores-cuentos-policiales-cover3.jpg"
   typespecimen:
