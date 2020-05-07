@@ -21,6 +21,25 @@ evaristo-carriego:
       - "evaristo-carriego-printersmark.jpg"
     description: ""
 
+encuentro-en-el-allá-seguro:
+    title: Encuentro en el allá seguro
+    author: Wally Zenner
+    prologue: Jorge Luis Borges
+    date: 01/01/1931
+    publisher: viau-y-zona
+    printer: los-talleres-gráficos-el-colón
+    descriptive_bibliography:
+      gatherings: "[115 pp.]"
+      title-page: ""
+      paper: ""
+      colophon: “De esta obra se han impreso 10 ejemplares en papel de hilo guarro, marcados de la A a la I, fuera de comercio y 300 ejemplares en papel pluma, numerados del 1 al 300. Ejemplar n. 109” ([115])
+      binding: ""
+      source: "United States. Princeton University Library.Special Collections. Call number: PQ7797.Z515 b"
+    bookcover: "encuentro-en-el-alla-seguro.jpg"
+    typespecimen:
+      image: ""
+      description: ""
+
 cementerio-marino:
   title: El cementerio marino
   author: Paul Valéry
@@ -674,16 +693,17 @@ sartor-resartus:
   title: "Sartor Resartus"
   author: Thomas Carlyle
   prologue: Jorge Luis Borges
+  translator: Joaquín Ojeda
   date: 01/02/1945
   publisher: emecé-editores
   printer: ""
   descriptive_bibliography:
-    gatherings: ""
-    title-page: ""
+    gatherings: "[318 pp.]"
+    title-page: "THOMAS CARLYLE | SARTOR | RESARTUS | VIDA Y OPINIONES DE HERR | TEUFELSCROCKH | [Emecé logo] | EMECÉ EDITORES, S. A. | BUENOS AIRES"
     paper: ""
     colophon: ""
     binding: ""
-    source: ""
+    source: "Personal collection."
   bookcover: "sartor-resartus-cover.jpg"
   typespecimen:
     image: ""
@@ -1036,8 +1056,7 @@ la-muerte-y-la-brújula:
   descriptive_bibliography:
     gatherings: "8º: 1-8 9 10, 76 leaves, pp. [1-10] 11-12 [13-16] 17-30 [31-32] 33-42 [43-44] 45-51 [52-54] 55-68 [69-70] 71-79 [80-82] 83-89 [90-93] 94-111 [112-114] 115-126 [127-128] 129-149 [150-152]"
     title-page: "Jorge Luis Borges | LA MUERTE Y LA | BRÚJULA | [Emecé Editores logo] | EMECÉ EDITORES, S. A. | Buenos Aires"
-    paper: "Wove. Some foxing due to age. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. Some of the pages are cut to a uniform size, but the majority of the pages are uncut. "
-    typography: ""
+    paper: "Wove. Some foxing due to age. No chain or wire lines are visible on the pages. Very thick paper, akin to a construction paper. Some of the pages are cut to a uniform size, but the majority of the pages are uncut."
     colophon: "ESTE LIBRO | SE ACABÓ DE IMPRIMIR | EN BUENOS AIRES | EL 21 DE SEPTIEMBRE DE 1951 | EN LOS TALLERES DE LA | COMPAÑÍA IMPRESORA | AREGENTINA, S.A., | ALSINA 2049” ([152])."
     binding: "Soft-cover book. The cover has crème-colored lettering: “Jorge Luis Borges | LA MUERTE Y LA BRÚJULA”. The printing on the spine reads: “J. L. | Borges | LA | MUERTE | Y LA | BRÚJULA | EMECÉ”. There is an original cover illustration by F. Schonbach. The front cover design carries over to a small portion of the back cover (about 1/5 of the right side). The original price of the book is also included in the lower right-hand corner of the back: '$ 14. – m/arg.'"
     source: "Personal copy."
@@ -1067,25 +1086,25 @@ los-mejores-cuentos-policiales-segunda-serie:
     image: ""
     description: ""
 
-los-mejores-cuentos-policiales-segunda-serie-2:
-  title: "Los mejores cuentos policiales (segunda serie)"
-  editor:
-    - Adolfo Bioy Casares
-    - Jorge Luis Borges
-  date: 01/02/1952
-  publisher: emecé-editores
-  printer: ""
-  descriptive_bibliography:
-    gatherings: ""
-    paper: ""
-    typography: ""
-    colophon: ""
-    binding: ""
-    source: ""
-  bookcover: "los-mejores-cuentos-policiales-1952.jpg"
-  typespecimen:
-    image: ""
-    description: ""
+#los-mejores-cuentos-policiales-segunda-serie-2:
+#  title: "Los mejores cuentos policiales (segunda serie)"
+#  editor:
+#    - Adolfo Bioy Casares
+#    - Jorge Luis Borges
+#  date: 01/02/1952
+#  publisher: emecé-editores
+#  printer: ""
+#  descriptive_bibliography:
+#    gatherings: ""
+#    paper: ""
+#    typography: ""
+#    colophon: ""
+#    binding: ""
+#    source: ""
+#  bookcover: "los-mejores-cuentos-policiales-1952.jpg"
+#  typespecimen:
+#    image: ""
+#    description: ""
 
 el-aleph-2:
   title: "El Aleph"
