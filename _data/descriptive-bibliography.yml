@@ -694,15 +694,15 @@ sartor-resartus:
   author: Thomas Carlyle
   prologue: Jorge Luis Borges
   translator: Joaquín Ojeda
-  date: 01/02/1945
+  date: 03/16/1945
   publisher: emecé-editores
-  printer: ""
+  printer: los-talleres-gráficos-didot
   descriptive_bibliography:
-    gatherings: "[318 pp.]"
+    gatherings: "164 leaves, pp. [1-9] 10-17 [18–19] 20-26 [27] 28-100 [101] 102-225 [226-227] 228-318 [319] 320 [321-324]"
     title-page: "THOMAS CARLYLE | SARTOR | RESARTUS | VIDA Y OPINIONES DE HERR | TEUFELSCROCKH | [Emecé logo] | EMECÉ EDITORES, S. A. | BUENOS AIRES"
-    paper: ""
-    colophon: ""
-    binding: ""
+    paper: "Wove. Visible chain lines throughout. The pages have yellowed slightly and there is some foxing throughout"
+    colophon: "Este libro se terminó de imprimir el día 16 de marzo de 1945, en los Talleres Gráficos Didot S. R. L., Calle Rondeau 3068, B. Aires"
+    binding: "Orange hardcover book. The Biblioteca Emecé logo is blind stamped in the top third of the front cover. There is also gold lettering stamped on the spine: 'CARLYLE | SARTOR | RESARTUS | [Emecé logo]'. The original dust jacket is orange, creme, and black. There is a square on the front of the cover that encloses the author name, the title, and the collection. The Emecé logo appears at the bottom center egdge of this circle. 'Emecé Editores, S. A. / Buenos Aires' is printed at the bottom edge of the dust jacket in a script that immitates handwriting. The back of the dust jacket provides a summary of the aims of the 'Biblioteca Emecé'. The spine of the dust jacket prints the author name, the title, and Emecé's logo in addition to the volume number (3)'."
     source: "Personal collection."
   bookcover: "sartor-resartus-cover.jpg"
   typespecimen:
@@ -1077,7 +1077,6 @@ los-mejores-cuentos-policiales-segunda-serie:
   descriptive_bibliography:
     gatherings: ""
     paper: ""
-    typography: ""
     colophon: ""
     binding: ""
     source: ""
