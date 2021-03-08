@@ -36,7 +36,10 @@ order: 2
 
 <script>
 L.mapbox.accessToken = 'pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ';
-var map = L.mapbox.map('map', 'mapbox.streets');
+var map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/norabenedict/ciuygz63a00go2io45drad3w0',
+  zoom: 9});;
 var info = document.getElementById('info');
 var locations = document.querySelectorAll('.location');
 console.log(locations.length);
