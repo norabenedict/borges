@@ -13,10 +13,11 @@ order: 2
 
   gtag('config', 'UA-107317725-1');
 </script>
-<script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
-<link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
 </head>
 
+<body>
 <div id="location-metadata">
 <ul>
   {% for location in site.data.printers-and-publishers %}
@@ -77,3 +78,4 @@ mapLocations.on('click', function(e) {
 
 
 </script>
+</body>
